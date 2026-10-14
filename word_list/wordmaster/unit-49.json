@@ -1,0 +1,689 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "49",
+  "unitTitle": "49과",
+  "source": "material/wordmaster_25_30_46_50.md",
+  "words": [
+    {
+      "id": "wm-49-endow",
+      "word": "endow",
+      "sourceMeaning": "부여하다, 기부하다",
+      "meanings": [
+        {
+          "ko": "부여하다",
+          "en": "To give someone or something a particular quality or ability.",
+          "wrongEn": "To preserve food by keeping it below freezing."
+        },
+        {
+          "ko": "기부하다",
+          "en": "To provide money or property that permanently supports an institution.",
+          "wrongEn": "To record spoken words in written form."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "vow(맹세하다)와 헷갈림"
+    },
+    {
+      "id": "wm-49-extrinsic",
+      "word": "extrinsic",
+      "sourceMeaning": "외적인, 비본질적인",
+      "meanings": [
+        {
+          "ko": "외적인, 비본질적인",
+          "en": "Coming from outside rather than belonging to something's essential nature.",
+          "wrongEn": "Able to dissolve readily in water."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-merge",
+      "word": "merge",
+      "sourceMeaning": "합병하다, 차차 변하다",
+      "meanings": [
+        {
+          "ko": "합병하다",
+          "en": "To combine separate things into a single whole.",
+          "wrongEn": "To remove the outer skin from a piece of fruit."
+        },
+        {
+          "ko": "차차 변하다",
+          "en": "To gradually blend into or become part of something else.",
+          "wrongEn": "To prepare food by cooking it in boiling water."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "차차 변하다\u001fTo gradually blend into or become part of something else."
+      ]
+    },
+    {
+      "id": "wm-49-frantic",
+      "word": "frantic",
+      "sourceMeaning": "광란의, 미친",
+      "meanings": [
+        {
+          "ko": "광란의, 미친",
+          "en": "Extremely upset, excited, or hurried in a way that seems uncontrolled.",
+          "wrongEn": "Having a taste like that of a lemon."
+        }
+      ]
+    },
+    {
+      "id": "wm-49-moan",
+      "word": "moan",
+      "sourceMeaning": "신음, 신음하다, 불평하다",
+      "meanings": [
+        {
+          "ko": "신음",
+          "en": "A long, low sound made because of pain or distress.",
+          "wrongEn": "A small opening in a leaf through which gases pass."
+        },
+        {
+          "ko": "신음하다",
+          "en": "To make a long, low sound because of pain or distress.",
+          "wrongEn": "To join pieces of cloth using a needle and thread."
+        },
+        {
+          "ko": "불평하다",
+          "en": "To complain repeatedly about something.",
+          "wrongEn": "To preserve food by keeping it below freezing."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "불평하다\u001fTo complain repeatedly about something."
+      ]
+    },
+    {
+      "id": "wm-49-merchandise",
+      "word": "merchandise",
+      "sourceMeaning": "집합적 상품",
+      "meanings": [
+        {
+          "ko": "집합적 상품",
+          "en": "Goods that are available for sale, considered as a group.",
+          "wrongEn": "A form of energy carried by electromagnetic waves."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-respectively",
+      "word": "respectively",
+      "sourceMeaning": "각각, 저마다",
+      "meanings": [
+        {
+          "ko": "각각, 저마다",
+          "en": "In the same order as the people or things already mentioned.",
+          "wrongEn": "At a pace that gradually becomes slower."
+        }
+      ]
+    },
+    {
+      "id": "wm-49-subdue",
+      "word": "subdue",
+      "sourceMeaning": "정복하다, 진압하다, 완화하다",
+      "meanings": [
+        {
+          "ko": "정복하다, 진압하다",
+          "en": "To bring a person, group, or place under control by force.",
+          "wrongEn": "To join pieces of cloth using a needle and thread."
+        },
+        {
+          "ko": "완화하다",
+          "en": "To make a feeling, sound, or activity less intense.",
+          "wrongEn": "To preserve food by keeping it below freezing."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [
+        "완화하다\u001fTo make a feeling, sound, or activity less intense."
+      ]
+    },
+    {
+      "id": "wm-49-conviction",
+      "word": "conviction",
+      "sourceMeaning": "확신, 유죄 판결",
+      "meanings": [
+        {
+          "ko": "확신",
+          "en": "A firmly held belief or a strong feeling of certainty.",
+          "wrongEn": "A unit used to measure electrical resistance."
+        },
+        {
+          "ko": "유죄 판결",
+          "en": "A formal decision by a court that someone is guilty of a crime.",
+          "wrongEn": "A device used to measure atmospheric pressure."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "확신\u001fA firmly held belief or a strong feeling of certainty."
+      ]
+    },
+    {
+      "id": "wm-49-stout",
+      "word": "stout",
+      "sourceMeaning": "뚱뚱한, 튼튼한",
+      "meanings": [
+        {
+          "ko": "뚱뚱한",
+          "en": "Having a broad, thick, and somewhat heavy body.",
+          "wrongEn": "Having a surface covered with fine parallel ridges."
+        },
+        {
+          "ko": "튼튼한",
+          "en": "Strong and firmly built.",
+          "wrongEn": "Located near the equator of the Earth."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-reckon",
+      "word": "reckon",
+      "sourceMeaning": "세다, 계산하다, 생각하다",
+      "meanings": [
+        {
+          "ko": "세다, 계산하다",
+          "en": "To count or calculate a number or amount.",
+          "wrongEn": "To preserve food by keeping it below freezing."
+        },
+        {
+          "ko": "생각하다",
+          "en": "To believe, consider, or judge something to be true.",
+          "wrongEn": "To record spoken words in written form."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "세다, 계산하다\u001fTo count or calculate a number or amount."
+      ]
+    },
+    {
+      "id": "wm-49-enchant",
+      "word": "enchant",
+      "sourceMeaning": "매혹하다, ~에 마법을 걸다",
+      "meanings": [
+        {
+          "ko": "매혹하다",
+          "en": "To fill someone with great delight or fascination.",
+          "wrongEn": "To exchange one currency for another at a bank."
+        },
+        {
+          "ko": "~에 마법을 걸다",
+          "en": "To put someone or something under a magical spell.",
+          "wrongEn": "To travel around a planet along a regular path."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-entail",
+      "word": "entail",
+      "sourceMeaning": "수반하다, 의미하다, 필요로 하다",
+      "meanings": [
+        {
+          "ko": "수반하다, 의미하다, 필요로 하다",
+          "en": "To involve or require something as a necessary part or result.",
+          "wrongEn": "To remove the outer skin from a piece of fruit."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-demolish",
+      "word": "demolish",
+      "sourceMeaning": "파괴하다, 폐지하다",
+      "meanings": [
+        {
+          "ko": "파괴하다",
+          "en": "To completely destroy a building or other structure.",
+          "wrongEn": "To record spoken words in written form."
+        },
+        {
+          "ko": "폐지하다",
+          "en": "To put an end to an established system, institution, or practice.",
+          "wrongEn": "To measure temperature with a scientific instrument."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-degenerate",
+      "word": "degenerate",
+      "sourceMeaning": "퇴보하다, 타락하다",
+      "meanings": [
+        {
+          "ko": "퇴보하다, 타락하다",
+          "en": "To become worse in quality, ability, or moral character.",
+          "wrongEn": "To travel around a planet along a regular path."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [],
+      "studyNote": "de + generate로 외우면 좋을 것 같음"
+    },
+    {
+      "id": "wm-49-sentiment",
+      "word": "sentiment",
+      "sourceMeaning": "감상, 정서",
+      "meanings": [
+        {
+          "ko": "감상, 정서",
+          "en": "A feeling, attitude, or emotion concerning someone or something.",
+          "wrongEn": "A form of energy carried by electromagnetic waves."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-offspring",
+      "word": "offspring",
+      "sourceMeaning": "자식, 새끼, 성과",
+      "meanings": [
+        {
+          "ko": "자식, 새끼",
+          "en": "The children of a person or the young of an animal.",
+          "wrongEn": "A mark placed above a letter to show its pronunciation."
+        },
+        {
+          "ko": "성과",
+          "en": "Something that results from a particular activity or process.",
+          "wrongEn": "A period during which an animal remains dormant in winter."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-detest",
+      "word": "detest",
+      "sourceMeaning": "혐오하다, 미워하다",
+      "meanings": [
+        {
+          "ko": "혐오하다, 미워하다",
+          "en": "To dislike someone or something very strongly.",
+          "wrongEn": "To join pieces of cloth using a needle and thread."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-tackle",
+      "word": "tackle",
+      "sourceMeaning": "다루다, 도구, 축구의 태클",
+      "meanings": [
+        {
+          "ko": "다루다",
+          "en": "To try to deal with a difficult problem or task.",
+          "wrongEn": "To add musical notes to a written melody."
+        },
+        {
+          "ko": "도구",
+          "en": "Equipment used for a particular activity, especially fishing.",
+          "wrongEn": "A device used to measure atmospheric pressure."
+        },
+        {
+          "ko": "축구의 태클",
+          "en": "An attempt to take the ball from an opponent in football.",
+          "wrongEn": "A small opening in a leaf through which gases pass."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-defy",
+      "word": "defy",
+      "sourceMeaning": "물리치다, 반항하다, 무시하다",
+      "meanings": [
+        {
+          "ko": "물리치다",
+          "en": "To successfully resist a force or attempt to control or defeat someone.",
+          "wrongEn": "To send a radio signal over a long distance."
+        },
+        {
+          "ko": "반항하다",
+          "en": "To openly refuse to obey a person, rule, or authority.",
+          "wrongEn": "To remove the outer skin from a piece of fruit."
+        },
+        {
+          "ko": "무시하다",
+          "en": "To act without regard for a warning, expectation, or convention.",
+          "wrongEn": "To prepare food by cooking it in boiling water."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "deny와 혼동함"
+    },
+    {
+      "id": "wm-49-inference",
+      "word": "inference",
+      "sourceMeaning": "추론",
+      "meanings": [
+        {
+          "ko": "추론",
+          "en": "A conclusion reached by reasoning from available facts or evidence.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": [],
+      "studyNote": "interference와 헷갈림"
+    },
+    {
+      "id": "wm-49-refraction",
+      "word": "refraction",
+      "sourceMeaning": "굴절",
+      "meanings": [
+        {
+          "ko": "굴절",
+          "en": "The bending of light or another wave as it enters a different medium.",
+          "wrongEn": "A device used to measure atmospheric pressure."
+        }
+      ]
+    },
+    {
+      "id": "wm-49-dusk",
+      "word": "dusk",
+      "sourceMeaning": "땅거미, 어스름",
+      "meanings": [
+        {
+          "ko": "땅거미, 어스름",
+          "en": "The time in the evening when daylight is fading into darkness.",
+          "wrongEn": "A line of equal temperature drawn on a weather map."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-detach",
+      "word": "detach",
+      "sourceMeaning": "떼어 내다, 분리하다",
+      "meanings": [
+        {
+          "ko": "떼어 내다, 분리하다",
+          "en": "To separate something from what it is joined or attached to.",
+          "wrongEn": "To record spoken words in written form."
+        }
+      ]
+    },
+    {
+      "id": "wm-49-antagonist",
+      "word": "antagonist",
+      "sourceMeaning": "적대자, 라이벌",
+      "meanings": [
+        {
+          "ko": "적대자, 라이벌",
+          "en": "A person who opposes or competes against another person.",
+          "wrongEn": "A small opening in a leaf through which gases pass."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-thrust",
+      "word": "thrust",
+      "sourceMeaning": "밀다, 밀치다",
+      "meanings": [
+        {
+          "ko": "밀다, 밀치다",
+          "en": "To push something suddenly and forcefully in a particular direction.",
+          "wrongEn": "To prepare food by cooking it in boiling water."
+        }
+      ]
+    },
+    {
+      "id": "wm-49-creed",
+      "word": "creed",
+      "sourceMeaning": "신념, 종교의 교의",
+      "meanings": [
+        {
+          "ko": "신념",
+          "en": "A set of beliefs or principles that guides a person's actions.",
+          "wrongEn": "A mark placed above a letter to show its pronunciation."
+        },
+        {
+          "ko": "종교의 교의",
+          "en": "A formal statement of the central beliefs of a religion.",
+          "wrongEn": "A period during which an animal remains dormant in winter."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-equate",
+      "word": "equate",
+      "sourceMeaning": "동일시하다, 일치하다",
+      "meanings": [
+        {
+          "ko": "동일시하다",
+          "en": "To consider two things equal or essentially the same.",
+          "wrongEn": "To join pieces of cloth using a needle and thread."
+        },
+        {
+          "ko": "일치하다",
+          "en": "To be equivalent to or correspond to something else.",
+          "wrongEn": "To preserve food by keeping it below freezing."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "일치하다\u001fTo be equivalent to or correspond to something else."
+      ]
+    },
+    {
+      "id": "wm-49-misplace",
+      "word": "misplace",
+      "sourceMeaning": "잘못 두다",
+      "meanings": [
+        {
+          "ko": "잘못 두다",
+          "en": "To put something in the wrong place and then have difficulty finding it.",
+          "wrongEn": "To add musical notes to a written melody."
+        }
+      ]
+    },
+    {
+      "id": "wm-49-auditory",
+      "word": "auditory",
+      "sourceMeaning": "귀의, 청각의",
+      "meanings": [
+        {
+          "ko": "귀의, 청각의",
+          "en": "Relating to the ears or the sense of hearing.",
+          "wrongEn": "Having a surface covered with fine parallel ridges."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-missionary",
+      "word": "missionary",
+      "sourceMeaning": "선교사",
+      "meanings": [
+        {
+          "ko": "선교사",
+          "en": "A person sent to teach or spread a religion in another community.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ]
+    },
+    {
+      "id": "wm-49-cosmopolitan",
+      "word": "cosmopolitan",
+      "sourceMeaning": "세계적인, 세계주의의, 세계인, 국제인",
+      "meanings": [
+        {
+          "ko": "세계적인, 세계주의의",
+          "en": "Including or being familiar with people and cultures from many countries.",
+          "wrongEn": "Able to dissolve readily in water."
+        },
+        {
+          "ko": "세계인, 국제인",
+          "en": "A person who feels at home among many different countries and cultures.",
+          "wrongEn": "A small opening in a leaf through which gases pass."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-secondhand",
+      "word": "secondhand",
+      "sourceMeaning": "중고의, 간접적인",
+      "meanings": [
+        {
+          "ko": "중고의",
+          "en": "Previously owned or used by another person.",
+          "wrongEn": "Located near the equator of the Earth."
+        },
+        {
+          "ko": "간접적인",
+          "en": "Received through another person rather than from direct experience.",
+          "wrongEn": "Made from the fibers of the flax plant."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "간접적인\u001fReceived through another person rather than from direct experience."
+      ]
+    },
+    {
+      "id": "wm-49-multiple",
+      "word": "multiple",
+      "sourceMeaning": "복합적인, 다수의, 다양한, 수학 배수",
+      "meanings": [
+        {
+          "ko": "복합적인",
+          "en": "Made up of more than one part or element.",
+          "wrongEn": "Having a taste like that of a lemon."
+        },
+        {
+          "ko": "다수의, 다양한",
+          "en": "Involving several people, things, or types.",
+          "wrongEn": "Active mainly during the night."
+        },
+        {
+          "ko": "(수학) 배수",
+          "en": "A number obtained by multiplying another number by an integer.",
+          "wrongEn": "A period during which an animal remains dormant in winter."
+        }
+      ],
+      "sourceNote": "원문 '수학 배수'를 분야 표시가 분명한 '(수학) 배수'로 표기했습니다. sourceMeaning에는 원문을 보존했습니다.",
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "복합적인\u001fMade up of more than one part or element."
+      ],
+      "studyNote": "multiply(곱하다)와 헷갈림"
+    },
+    {
+      "id": "wm-49-embed",
+      "word": "embed",
+      "sourceMeaning": "깊숙이 박다, 깊이 간직하다",
+      "meanings": [
+        {
+          "ko": "깊숙이 박다",
+          "en": "To fix something firmly and deeply inside another substance.",
+          "wrongEn": "To travel around a planet along a regular path."
+        },
+        {
+          "ko": "깊이 간직하다",
+          "en": "To establish something firmly in memory, thought, or culture.",
+          "wrongEn": "To join pieces of cloth using a needle and thread."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "깊이 간직하다\u001fTo establish something firmly in memory, thought, or culture."
+      ]
+    },
+    {
+      "id": "wm-49-propel",
+      "word": "propel",
+      "sourceMeaning": "나아가게 하다, 추진하다",
+      "meanings": [
+        {
+          "ko": "나아가게 하다, 추진하다",
+          "en": "To push or drive someone or something forward.",
+          "wrongEn": "To prepare food by cooking it in boiling water."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-49-reptile",
+      "word": "reptile",
+      "sourceMeaning": "파충류",
+      "meanings": [
+        {
+          "ko": "파충류",
+          "en": "A cold-blooded animal with dry, scaly skin, such as a snake or lizard.",
+          "wrongEn": "A mark placed above a letter to show its pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "wm-49-erosion",
+      "word": "erosion",
+      "sourceMeaning": "부식, 침식",
+      "meanings": [
+        {
+          "ko": "부식",
+          "en": "The gradual wearing away or damage of a material.",
+          "wrongEn": "A method of printing from a carved wooden block."
+        },
+        {
+          "ko": "침식",
+          "en": "The wearing away of soil or rock by water, wind, or ice.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ]
+    },
+    {
+      "id": "wm-49-feat",
+      "word": "feat",
+      "sourceMeaning": "위업, 공적",
+      "meanings": [
+        {
+          "ko": "위업, 공적",
+          "en": "An achievement that requires considerable skill, strength, or courage.",
+          "wrongEn": "A unit used to measure electrical resistance."
+        }
+      ]
+    },
+    {
+      "id": "wm-49-utensil",
+      "word": "utensil",
+      "sourceMeaning": "가정용품, 기구, 도구",
+      "meanings": [
+        {
+          "ko": "가정용품, 기구, 도구",
+          "en": "A tool or container used for a practical household task, especially cooking.",
+          "wrongEn": "A period during which an animal remains dormant in winter."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    }
+  ]
+}

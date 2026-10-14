@@ -1,0 +1,693 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "25",
+  "unitTitle": "25과",
+  "source": "material/wordmaster_25_30_46_50.md",
+  "words": [
+    {
+      "id": "wm-25-context",
+      "word": "context",
+      "sourceMeaning": "전후 관계, 맥락, 문맥",
+      "meanings": [
+        {
+          "ko": "전후 관계, 맥락, 문맥",
+          "en": "The surrounding situation or words that help explain the meaning of something.",
+          "wrongEn": "A fixed payment made each month for the use of a building."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-complete",
+      "word": "complete",
+      "sourceMeaning": "완전한, 완벽한, 완료된, 완료하다",
+      "meanings": [
+        {
+          "ko": "완전한, 완벽한",
+          "en": "Having all the necessary parts, with nothing missing.",
+          "wrongEn": "Able to bend easily without breaking."
+        },
+        {
+          "ko": "완료된",
+          "en": "Finished, with no work remaining to be done.",
+          "wrongEn": "Located beneath the surface of the earth."
+        },
+        {
+          "ko": "완료하다",
+          "en": "To finish doing or making something.",
+          "wrongEn": "To exchange one currency for another."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-25-race",
+      "word": "race",
+      "sourceMeaning": "경주[경쟁]하다, 질주하다, 경주, 경쟁, 인종",
+      "meanings": [
+        {
+          "ko": "경주[경쟁]하다",
+          "en": "To compete to be the fastest or to achieve something first.",
+          "wrongEn": "To join pieces of cloth using thread."
+        },
+        {
+          "ko": "질주하다",
+          "en": "To move at very high speed.",
+          "wrongEn": "To remove the outer skin of a fruit."
+        },
+        {
+          "ko": "경주, 경쟁",
+          "en": "A contest to finish first or achieve a goal before others.",
+          "wrongEn": "A container used to measure the volume of a liquid."
+        },
+        {
+          "ko": "인종",
+          "en": "A socially defined group of people associated with shared ancestry and physical features.",
+          "wrongEn": "A written agreement to lend money at a fixed rate."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-25-dominate",
+      "word": "dominate",
+      "sourceMeaning": "지배하다",
+      "meanings": [
+        {
+          "ko": "지배하다",
+          "en": "To control someone or something or have the greatest influence over them.",
+          "wrongEn": "To remove moisture from food so it can be stored."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-vehicle",
+      "word": "vehicle",
+      "sourceMeaning": "탈것, 수단, 매개체",
+      "meanings": [
+        {
+          "ko": "탈것",
+          "en": "A machine such as a car or bus used to carry people or goods.",
+          "wrongEn": "A tool used to measure the temperature of the air."
+        },
+        {
+          "ko": "수단, 매개체",
+          "en": "Something through which ideas are expressed or a purpose is achieved.",
+          "wrongEn": "A legal right to own a piece of land."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-complain",
+      "word": "complain",
+      "sourceMeaning": "불평하다, 항의하다",
+      "meanings": [
+        {
+          "ko": "불평하다, 항의하다",
+          "en": "To express dissatisfaction or say that something is wrong.",
+          "wrongEn": "To fasten two metal pieces together using heat."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-brochure",
+      "word": "brochure",
+      "sourceMeaning": "(안내, 광고용)소책자, 브로슈어",
+      "meanings": [
+        {
+          "ko": "(안내, 광고용)소책자, 브로슈어",
+          "en": "A small booklet giving information about a product, place, or service.",
+          "wrongEn": "A narrow bridge built only for pedestrians."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-force",
+      "word": "force",
+      "sourceMeaning": "힘, 영향력, 강요하다",
+      "meanings": [
+        {
+          "ko": "힘",
+          "en": "Physical power or a push or pull acting on an object.",
+          "wrongEn": "The amount of space inside a closed container."
+        },
+        {
+          "ko": "영향력",
+          "en": "The power to affect people's actions or the course of events.",
+          "wrongEn": "The height of a place above sea level."
+        },
+        {
+          "ko": "강요하다",
+          "en": "To make someone do something against their wishes.",
+          "wrongEn": "To change a liquid into a gas by heating it."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "영향력\u001fThe power to affect people's actions or the course of events."
+      ]
+    },
+    {
+      "id": "wm-25-nest",
+      "word": "nest",
+      "sourceMeaning": "둥지, 보금자리, 둥지를 틀다, (둥지에서)살다",
+      "meanings": [
+        {
+          "ko": "둥지",
+          "en": "A structure made by an animal, especially a bird, for its eggs or young.",
+          "wrongEn": "A hard covering that protects a person's head."
+        },
+        {
+          "ko": "보금자리",
+          "en": "A place that feels like a safe, comfortable home.",
+          "wrongEn": "A short passage at the beginning of a musical work."
+        },
+        {
+          "ko": "둥지를 틀다, (둥지에서)살다",
+          "en": "To build or live in a structure where an animal keeps its eggs or young.",
+          "wrongEn": "To calculate the total cost of a purchase."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-25-gain",
+      "word": "gain",
+      "sourceMeaning": "얻다, 이익",
+      "meanings": [
+        {
+          "ko": "얻다",
+          "en": "To get something useful or desirable through effort or change.",
+          "wrongEn": "To make a liquid cleaner by passing it through a filter."
+        },
+        {
+          "ko": "이익",
+          "en": "An advantage, profit, or improvement that is obtained.",
+          "wrongEn": "A small opening in the roof of a building."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-25-curriculum",
+      "word": "curriculum",
+      "sourceMeaning": "교육 과정, 커리큘럼",
+      "meanings": [
+        {
+          "ko": "교육 과정, 커리큘럼",
+          "en": "The subjects and learning activities included in a course of study.",
+          "wrongEn": "A list of ingredients needed to cook a dish."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-sew",
+      "word": "sew",
+      "sourceMeaning": "꿰매다, 바느질하다",
+      "meanings": [
+        {
+          "ko": "꿰매다, 바느질하다",
+          "en": "To join or repair material using a needle and thread.",
+          "wrongEn": "To move a boat forward using oars."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-masculine",
+      "word": "masculine",
+      "sourceMeaning": "남자의, 남자다운",
+      "meanings": [
+        {
+          "ko": "남자의, 남자다운",
+          "en": "Relating to men or qualities traditionally associated with men.",
+          "wrongEn": "Able to dissolve completely in water."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-frown",
+      "word": "frown",
+      "sourceMeaning": "눈살을 찌푸리다, 찡그린 얼굴",
+      "meanings": [
+        {
+          "ko": "눈살을 찌푸리다",
+          "en": "To draw the eyebrows together to show worry, anger, or disapproval.",
+          "wrongEn": "To stand on the tips of the toes to reach something."
+        },
+        {
+          "ko": "찡그린 얼굴",
+          "en": "An expression in which the eyebrows are drawn together in displeasure or concern.",
+          "wrongEn": "A pause between two performances at a theater."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-astound",
+      "word": "astound",
+      "sourceMeaning": "놀라게 하다",
+      "meanings": [
+        {
+          "ko": "놀라게 하다",
+          "en": "To surprise someone very greatly.",
+          "wrongEn": "To sort objects according to their weight."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-25-dictator",
+      "word": "dictator",
+      "sourceMeaning": "독재자, 구술하는 사람",
+      "meanings": [
+        {
+          "ko": "독재자",
+          "en": "A ruler who holds almost total power and does not allow political opposition.",
+          "wrongEn": "A person trained to repair damaged teeth."
+        },
+        {
+          "ko": "구술하는 사람",
+          "en": "A person who says words aloud for someone else to write down.",
+          "wrongEn": "A person who guides ships safely into a harbor."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-25-assessment",
+      "word": "assessment",
+      "sourceMeaning": "평가, 판단",
+      "meanings": [
+        {
+          "ko": "평가, 판단",
+          "en": "A judgment about the quality, value, ability, or condition of something.",
+          "wrongEn": "A formal promise to keep information secret."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-25-crucial",
+      "word": "crucial",
+      "sourceMeaning": "중대한, 중요한",
+      "meanings": [
+        {
+          "ko": "중대한, 중요한",
+          "en": "Extremely important to the success or outcome of something.",
+          "wrongEn": "Covered with a thin layer of ice."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-paralysis",
+      "word": "paralysis",
+      "sourceMeaning": "마비",
+      "meanings": [
+        {
+          "ko": "마비",
+          "en": "A loss of the ability to move part or all of the body.",
+          "wrongEn": "The process by which plants produce seeds."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-deck",
+      "word": "deck",
+      "sourceMeaning": "갑판",
+      "meanings": [
+        {
+          "ko": "갑판",
+          "en": "A flat floor on a ship, especially the open upper surface.",
+          "wrongEn": "A hollow tube that carries smoke out of a building."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-25-cheer",
+      "word": "cheer",
+      "sourceMeaning": "환호, 갈채, 환호[성원]하다",
+      "meanings": [
+        {
+          "ko": "환호, 갈채",
+          "en": "A loud shout of happiness, praise, or encouragement.",
+          "wrongEn": "A formal written request for financial support."
+        },
+        {
+          "ko": "환호[성원]하다",
+          "en": "To shout in praise or encouragement.",
+          "wrongEn": "To divide a number into equal parts."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-carve",
+      "word": "carve",
+      "sourceMeaning": "조각하다, 생기다",
+      "meanings": [
+        {
+          "ko": "조각하다, 새기다",
+          "en": "To cut wood, stone, or another material into a shape or pattern.",
+          "wrongEn": "To cover a surface with a thin layer of liquid paint."
+        }
+      ],
+      "sourceNote": "원문 뜻의 \"생기다\"는 \"새기다\"의 오타로 판단하여 학습 뜻을 바로잡았습니다. sourceMeaning에는 원문을 보존했습니다."
+    },
+    {
+      "id": "wm-25-tease",
+      "word": "tease",
+      "sourceMeaning": "괴롭히다, 약 올리다",
+      "meanings": [
+        {
+          "ko": "괴롭히다, 약 올리다",
+          "en": "To annoy or make fun of someone through words or playful actions.",
+          "wrongEn": "To give legal permission for a project to begin."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-aggressive",
+      "word": "aggressive",
+      "sourceMeaning": "공격적인, 적극적인",
+      "meanings": [
+        {
+          "ko": "공격적인",
+          "en": "Ready to attack, argue, or behave in a hostile way.",
+          "wrongEn": "Likely to break when bent or pressed."
+        },
+        {
+          "ko": "적극적인",
+          "en": "Pursuing a goal with strong energy and determination.",
+          "wrongEn": "Having the same temperature throughout."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "적극적인\u001fPursuing a goal with strong energy and determination."
+      ]
+    },
+    {
+      "id": "wm-25-cure",
+      "word": "cure",
+      "sourceMeaning": "치료하다, 해결하다, 치유, 회복",
+      "meanings": [
+        {
+          "ko": "치료하다",
+          "en": "To make an illness go away or restore a sick person to health.",
+          "wrongEn": "To carry goods across a river by boat."
+        },
+        {
+          "ko": "해결하다",
+          "en": "To remove a problem or correct an unwanted condition.",
+          "wrongEn": "To describe events in the order in which they happened."
+        },
+        {
+          "ko": "치유, 회복",
+          "en": "The process or result of returning to health after an illness.",
+          "wrongEn": "A prediction of the weather for the coming days."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "해결하다\u001fTo remove a problem or correct an unwanted condition."
+      ]
+    },
+    {
+      "id": "wm-25-attribute",
+      "word": "attribute",
+      "sourceMeaning": "~의 결과로 여기다, 속성",
+      "meanings": [
+        {
+          "ko": "~의 결과로 여기다",
+          "en": "To regard something as caused by a particular person or thing.",
+          "wrongEn": "To place objects in a straight line."
+        },
+        {
+          "ko": "속성",
+          "en": "A quality or characteristic of a person or thing.",
+          "wrongEn": "A written permission to enter another country."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-foster",
+      "word": "foster",
+      "sourceMeaning": "육성하다, 촉진하다, 수양의, 위탁의",
+      "meanings": [
+        {
+          "ko": "육성하다, 촉진하다",
+          "en": "To encourage the growth or development of something.",
+          "wrongEn": "To remove a section from a written document."
+        },
+        {
+          "ko": "수양의, 위탁의",
+          "en": "Providing or receiving family care without a biological or legal adoptive relationship.",
+          "wrongEn": "Designed to operate under water."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "수양의, 위탁의\u001fProviding or receiving family care without a biological or legal adoptive relationship."
+      ],
+      "studyNote": "'수양의, 위탁의' 뜻이 아주 안 외워짐."
+    },
+    {
+      "id": "wm-25-psychologist",
+      "word": "psychologist",
+      "sourceMeaning": "심리학자",
+      "meanings": [
+        {
+          "ko": "심리학자",
+          "en": "A person who studies how people think, feel, and behave.",
+          "wrongEn": "A scientist who studies rocks and the structure of the earth."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-postpone",
+      "word": "postpone",
+      "sourceMeaning": "연기하다, 뒤로 미루다",
+      "meanings": [
+        {
+          "ko": "연기하다, 뒤로 미루다",
+          "en": "To arrange for something to happen at a later time.",
+          "wrongEn": "To return a borrowed object to its owner."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-rob",
+      "word": "rob",
+      "sourceMeaning": "훔치다, 강탈하다",
+      "meanings": [
+        {
+          "ko": "훔치다, 강탈하다",
+          "en": "To take money or property illegally from a person or place, often using force.",
+          "wrongEn": "To exchange damaged goods for new ones with permission."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-abuse",
+      "word": "abuse",
+      "sourceMeaning": "남용, 욕설, 학대, 남용하다, 학대하다",
+      "meanings": [
+        {
+          "ko": "남용",
+          "en": "The harmful or improper use of something.",
+          "wrongEn": "The careful comparison of two sets of measurements."
+        },
+        {
+          "ko": "욕설",
+          "en": "Cruel or insulting words directed at someone.",
+          "wrongEn": "A brief written account of a person's work experience."
+        },
+        {
+          "ko": "학대",
+          "en": "Cruel or harmful treatment of a person or animal.",
+          "wrongEn": "The gradual movement of water through soil."
+        },
+        {
+          "ko": "남용하다",
+          "en": "To use something in a harmful or improper way.",
+          "wrongEn": "To separate a mixture into its different components."
+        },
+        {
+          "ko": "학대하다",
+          "en": "To treat a person or animal cruelly or harmfully.",
+          "wrongEn": "To travel regularly between home and work."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "욕설\u001fCruel or insulting words directed at someone."
+      ]
+    },
+    {
+      "id": "wm-25-bystander",
+      "word": "bystander",
+      "sourceMeaning": "방관자, 행인, 구경꾼",
+      "meanings": [
+        {
+          "ko": "방관자, 행인, 구경꾼",
+          "en": "A person who is present at an event but does not take part in it.",
+          "wrongEn": "A person who officially represents a country abroad."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-breakdown",
+      "word": "breakdown",
+      "sourceMeaning": "고장, 쇠약",
+      "meanings": [
+        {
+          "ko": "고장",
+          "en": "A failure that causes a machine or system to stop working properly.",
+          "wrongEn": "An increase in the price of goods over time."
+        },
+        {
+          "ko": "쇠약",
+          "en": "A serious loss of mental or physical strength that makes normal functioning difficult.",
+          "wrongEn": "The return of an animal to its birthplace to breed."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-disguise",
+      "word": "disguise",
+      "sourceMeaning": "변장하다, 숨기다, 변장, 은폐",
+      "meanings": [
+        {
+          "ko": "변장하다",
+          "en": "To change the way someone looks so that they are not recognized.",
+          "wrongEn": "To divide a large area into smaller sections."
+        },
+        {
+          "ko": "숨기다",
+          "en": "To hide the true nature or appearance of something.",
+          "wrongEn": "To make an exact copy of a written text."
+        },
+        {
+          "ko": "변장",
+          "en": "A change of clothing or appearance used to prevent recognition.",
+          "wrongEn": "A spoken explanation of how a machine works."
+        },
+        {
+          "ko": "은폐",
+          "en": "The act of hiding what something really is.",
+          "wrongEn": "The process of measuring the distance between two points."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "숨기다\u001fTo hide the true nature or appearance of something.",
+        "은폐\u001fThe act of hiding what something really is."
+      ]
+    },
+    {
+      "id": "wm-25-blueprint",
+      "word": "blueprint",
+      "sourceMeaning": "청사진",
+      "meanings": [
+        {
+          "ko": "청사진",
+          "en": "A detailed plan or technical drawing showing how something will be built or done.",
+          "wrongEn": "A document proving that a debt has been paid."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-rear",
+      "word": "rear",
+      "sourceMeaning": "뒤, 뒤의, 후방의, 가르다",
+      "meanings": [
+        {
+          "ko": "뒤",
+          "en": "The back part of something.",
+          "wrongEn": "The point at which two roads cross."
+        },
+        {
+          "ko": "뒤의, 후방의",
+          "en": "Situated at or toward the back of something.",
+          "wrongEn": "Made from a mixture of several metals."
+        },
+        {
+          "ko": "기르다",
+          "en": "To care for and raise children or young animals.",
+          "wrongEn": "To calculate the speed of a moving object."
+        }
+      ],
+      "sourceNote": "원문 뜻의 \"가르다\"는 \"기르다\"의 오타로 판단하여 학습 뜻을 바로잡았습니다. sourceMeaning에는 원문을 보존했습니다.",
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "기르다\u001fTo care for and raise children or young animals."
+      ]
+    },
+    {
+      "id": "wm-25-output",
+      "word": "output",
+      "sourceMeaning": "생산(량), 산출(량)",
+      "meanings": [
+        {
+          "ko": "생산(량), 산출(량)",
+          "en": "The amount of goods, work, or other results produced.",
+          "wrongEn": "The price paid to enter a public event."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-sermon",
+      "word": "sermon",
+      "sourceMeaning": "설교",
+      "meanings": [
+        {
+          "ko": "설교",
+          "en": "A speech that gives religious teaching or moral advice.",
+          "wrongEn": "A written agreement setting the price of imported goods."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-sprout",
+      "word": "sprout",
+      "sourceMeaning": "싹이 트다, 자라나다, 싹",
+      "meanings": [
+        {
+          "ko": "싹이 트다, 자라나다",
+          "en": "To begin to grow or produce new shoots.",
+          "wrongEn": "To sink slowly beneath the surface of a liquid."
+        },
+        {
+          "ko": "싹",
+          "en": "A small new shoot growing from a seed or plant.",
+          "wrongEn": "A thin layer of ice on a road."
+        }
+      ]
+    },
+    {
+      "id": "wm-25-tin",
+      "word": "tin",
+      "sourceMeaning": "양철, 주석",
+      "meanings": [
+        {
+          "ko": "양철",
+          "en": "Thin steel or iron sheet coated with a protective layer of a silvery metal.",
+          "wrongEn": "A transparent material made by heating sand."
+        },
+        {
+          "ko": "주석",
+          "en": "A soft silvery metal used in coatings and alloys.",
+          "wrongEn": "A black mineral made mostly of carbon and burned as fuel."
+        }
+      ]
+    }
+  ]
+}

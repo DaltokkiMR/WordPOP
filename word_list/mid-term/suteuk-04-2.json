@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 04-2",
+  "unitTitle": "수특라 04-2",
+  "source": "material/mid-term/수특라 04-2.md",
+  "words": [
+    {
+      "id": "mt-suteuk-04-2-permeate",
+      "word": "permeate",
+      "sourceMeaning": "스며들다, 퍼지다 (become permeated by는 '~에 스며들게 되다'. 여기서는 일상의 습관이 소셜 미디어 플랫폼 속으로 파고들었다는 뜻)",
+      "meanings": [
+        {
+          "ko": "스며들다, 퍼지다",
+          "en": "To spread through every part of something.",
+          "wrongEn": "To stay only on the surface of something."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-04-2-manifestation",
+      "word": "manifestation",
+      "sourceMeaning": "나타남, 표현 (manifest '드러내다'의 명사형. 어떤 것이 겉으로 드러난 형태를 가리키며, 여기서는 사회생활이 드러나는 방식)",
+      "meanings": [
+        {
+          "ko": "나타남, 표현",
+          "en": "A visible sign or form in which something appears.",
+          "wrongEn": "A hidden plan that no one knows about."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-04-2-evanescent",
+      "word": "evanescent",
+      "sourceMeaning": "순간적인, 덧없는 (곧 사라져 버린다는 뜻. 첫 문장의 short-lived '일시적인'과 비슷하며, 오래 남는 formalized inscriptions와 대비됨)",
+      "meanings": [
+        {
+          "ko": "순간적인, 덧없는",
+          "en": "Quickly fading or disappearing; lasting only a short time.",
+          "wrongEn": "Lasting for a very long time without change."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-04-2-inscription",
+      "word": "inscription",
+      "sourceMeaning": "기록, 새겨진 글 (본래 돌이나 금속에 새긴 글을 뜻하며, 여기서는 말처럼 사라지지 않고 남는 기록)",
+      "meanings": [
+        {
+          "ko": "기록, 새겨진 글",
+          "en": "Words that are written or carved on something and remain as a record.",
+          "wrongEn": "A spoken greeting given when meeting someone."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-04-2-offhandedly",
+      "word": "offhandedly",
+      "sourceMeaning": "즉석에서, 별생각 없이 (미리 준비하지 않고 가볍게 말하는 모양. 형용사형은 offhand)",
+      "meanings": [
+        {
+          "ko": "즉석에서, 별생각 없이",
+          "en": "In a casual way, without preparation or careful thought.",
+          "wrongEn": "In a carefully planned and formal way."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-04-2-domain",
+      "word": "domain",
+      "sourceMeaning": "영역 (public domain은 여기서 누구나 볼 수 있는 '공공의 영역'. 저작권이 사라진 '공유 저작물'이라는 뜻도 있지만 여기서는 해당하지 않음)",
+      "meanings": [
+        {
+          "ko": "영역",
+          "en": "An area of activity, knowledge, or influence.",
+          "wrongEn": "A single moment in time."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-04-2-intelligible",
+      "word": "intelligible",
+      "sourceMeaning": "이해할 수 있는 (intelligent '지적인, 똑똑한'과 구별. 반대말은 unintelligible '이해할 수 없는')",
+      "meanings": [
+        {
+          "ko": "이해할 수 있는",
+          "en": "Able to be understood.",
+          "wrongEn": "Having a high level of intelligence."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-04-2-accountability",
+      "word": "accountability",
+      "sourceMeaning": "책임, 책임을 짐 (자신의 말이나 행동에 대해 설명하고 책임져야 하는 상태. be open to accountability는 '책임을 추궁받을 수 있다'는 뜻)",
+      "meanings": [
+        {
+          "ko": "책임, 책임을 짐",
+          "en": "The state of being responsible for one's words or actions and having to explain them.",
+          "wrongEn": "The ability to count numbers quickly."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-04-2-unquestionably",
+      "word": "unquestionably",
+      "sourceMeaning": "의심할 여지 없이, 분명히 (question '의문을 제기하다'에 un-, -able, -ly가 붙은 부사)",
+      "meanings": [
+        {
+          "ko": "의심할 여지 없이, 분명히",
+          "en": "In a way that cannot be doubted.",
+          "wrongEn": "In a way that raises many doubts."
+        }
+      ]
+    }
+  ]
+}

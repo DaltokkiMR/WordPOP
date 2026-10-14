@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "올림포스 14-3",
+  "unitTitle": "올림포스 14-3",
+  "source": "material/mid-term/올림포스 14-3.md",
+  "words": [
+    {
+      "id": "mt-olympus-14-3-non-rivalrous",
+      "word": "non-rivalrous",
+      "sourceMeaning": "비경합적인 (한 사람이 사용해도 다른 사람의 사용이 줄지 않는 성질. rival '경쟁자'에서 온 말)",
+      "meanings": [
+        {
+          "ko": "비경합적인",
+          "en": "Describing a good whose use by one person does not reduce its availability to others.",
+          "wrongEn": "Describing a good that can be used up by only one person at a time."
+        }
+      ]
+    },
+    {
+      "id": "mt-olympus-14-3-assertion",
+      "word": "assertion",
+      "sourceMeaning": "주장 (동사형은 assert '주장하다')",
+      "meanings": [
+        {
+          "ko": "주장",
+          "en": "A statement that someone firmly says is true.",
+          "wrongEn": "A question asked to get more information."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-olympus-14-3-peculiar",
+      "word": "peculiar",
+      "sourceMeaning": "독특한, 특유의 ('이상한'이라는 뜻도 있지만 여기서는 데이터만의 고유한 성질)",
+      "meanings": [
+        {
+          "ko": "독특한, 특유의",
+          "en": "Belonging specifically to one particular thing; distinctive.",
+          "wrongEn": "Shared equally by everything of the same kind."
+        }
+      ]
+    }
+  ]
+}

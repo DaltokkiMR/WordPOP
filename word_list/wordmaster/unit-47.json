@@ -1,0 +1,686 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "47",
+  "unitTitle": "47과",
+  "source": "material/wordmaster_25_30_46_50.md",
+  "words": [
+    {
+      "id": "wm-47-pinch",
+      "word": "pinch",
+      "sourceMeaning": "꼬집다, 집다, 괴롭히다",
+      "meanings": [
+        {
+          "ko": "꼬집다, 집다",
+          "en": "To press or hold something tightly between a finger and thumb.",
+          "wrongEn": "To add musical notes to a written melody."
+        },
+        {
+          "ko": "괴롭히다",
+          "en": "To cause someone pain, difficulty, or financial hardship.",
+          "wrongEn": "To exchange one currency for another at a bank."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "괴롭히다\u001fTo cause someone pain, difficulty, or financial hardship."
+      ]
+    },
+    {
+      "id": "wm-47-punctual",
+      "word": "punctual",
+      "sourceMeaning": "시간을 지키는, 기한을 지키는",
+      "meanings": [
+        {
+          "ko": "시간을 지키는, 기한을 지키는",
+          "en": "Arriving or doing something at the agreed or required time.",
+          "wrongEn": "Having a surface covered with fine parallel ridges."
+        }
+      ]
+    },
+    {
+      "id": "wm-47-arbitrary",
+      "word": "arbitrary",
+      "sourceMeaning": "임의적인, 독단적인",
+      "meanings": [
+        {
+          "ko": "임의적인",
+          "en": "Based on personal choice or chance rather than a clear rule or reason.",
+          "wrongEn": "Requiring oxygen for growth or survival."
+        },
+        {
+          "ko": "독단적인",
+          "en": "Using power according to personal wishes without considering others.",
+          "wrongEn": "Having a taste like that of a lemon."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [],
+      "studyNote": "2번 뜻(독단적인)이 더 안 외워짐"
+    },
+    {
+      "id": "wm-47-catastrophe",
+      "word": "catastrophe",
+      "sourceMeaning": "대참사, 큰 재앙",
+      "meanings": [
+        {
+          "ko": "대참사, 큰 재앙",
+          "en": "An event that causes extreme damage, loss, or suffering.",
+          "wrongEn": "A device used to measure atmospheric pressure."
+        }
+      ]
+    },
+    {
+      "id": "wm-47-exert",
+      "word": "exert",
+      "sourceMeaning": "쓰다, 발휘하다",
+      "meanings": [
+        {
+          "ko": "쓰다, 발휘하다",
+          "en": "To use force, effort, or influence to produce an effect.",
+          "wrongEn": "To remove the outer skin from a piece of fruit."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-47-aviate",
+      "word": "aviate",
+      "sourceMeaning": "비행하다, 조종하다",
+      "meanings": [
+        {
+          "ko": "비행하다, 조종하다",
+          "en": "To fly or operate an aircraft.",
+          "wrongEn": "To measure the depth of water using reflected sound."
+        }
+      ]
+    },
+    {
+      "id": "wm-47-headquarters",
+      "word": "headquarters",
+      "sourceMeaning": "본부(단수)",
+      "meanings": [
+        {
+          "ko": "본부(단수)",
+          "en": "The main office or center from which an organization is directed.",
+          "wrongEn": "A small opening in a leaf through which gases pass."
+        }
+      ]
+    },
+    {
+      "id": "wm-47-rectangular",
+      "word": "rectangular",
+      "sourceMeaning": "직사각형의, 직각의",
+      "meanings": [
+        {
+          "ko": "직사각형의",
+          "en": "Shaped like a figure with four sides and four right angles.",
+          "wrongEn": "Made from the fibers of the flax plant."
+        },
+        {
+          "ko": "직각의",
+          "en": "Forming or relating to an angle of ninety degrees.",
+          "wrongEn": "Occurring once every two weeks."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-47-delegate",
+      "word": "delegate",
+      "sourceMeaning": "파견하다, 사절, 대표",
+      "meanings": [
+        {
+          "ko": "파견하다",
+          "en": "To send someone to represent others or carry out a task.",
+          "wrongEn": "To measure temperature with a scientific instrument."
+        },
+        {
+          "ko": "사절, 대표",
+          "en": "A person chosen to speak or act on behalf of a group.",
+          "wrongEn": "A period during which an animal remains dormant in winter."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "delude(속이다), despise(경멸하다)와 헷갈림"
+    },
+    {
+      "id": "wm-47-elect",
+      "word": "elect",
+      "sourceMeaning": "선출하다",
+      "meanings": [
+        {
+          "ko": "선출하다",
+          "en": "To choose someone for an office or position by voting.",
+          "wrongEn": "To join pieces of cloth using a needle and thread."
+        }
+      ]
+    },
+    {
+      "id": "wm-47-thorn",
+      "word": "thorn",
+      "sourceMeaning": "가시, 괴로움의 원인",
+      "meanings": [
+        {
+          "ko": "가시",
+          "en": "A sharp, stiff point growing on the stem of a plant.",
+          "wrongEn": "A unit used to measure electrical resistance."
+        },
+        {
+          "ko": "괴로움의 원인",
+          "en": "A person or thing that repeatedly causes trouble or irritation.",
+          "wrongEn": "A device used to measure atmospheric pressure."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "괴로움의 원인\u001fA person or thing that repeatedly causes trouble or irritation."
+      ]
+    },
+    {
+      "id": "wm-47-empathize",
+      "word": "empathize",
+      "sourceMeaning": "공감하다, 감정 이입을 하다",
+      "meanings": [
+        {
+          "ko": "공감하다, 감정 이입을 하다",
+          "en": "To understand and share another person's feelings.",
+          "wrongEn": "To send a radio signal over a long distance."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [],
+      "studyNote": "emphasize와 헷갈림"
+    },
+    {
+      "id": "wm-47-expertise",
+      "word": "expertise",
+      "sourceMeaning": "전문 지식[기술]",
+      "meanings": [
+        {
+          "ko": "전문 지식[기술]",
+          "en": "Advanced knowledge or skill in a particular field.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ]
+    },
+    {
+      "id": "wm-47-renovate",
+      "word": "renovate",
+      "sourceMeaning": "새롭게 하다, 수리하다",
+      "meanings": [
+        {
+          "ko": "새롭게 하다, 수리하다",
+          "en": "To repair and improve something old, especially a building.",
+          "wrongEn": "To exchange one currency for another at a bank."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-47-wrench",
+      "word": "wrench",
+      "sourceMeaning": "렌치, 비틀기, 비틀다, 삐다",
+      "meanings": [
+        {
+          "ko": "렌치",
+          "en": "A tool used to grip and turn nuts, bolts, or pipes.",
+          "wrongEn": "A line of equal temperature drawn on a weather map."
+        },
+        {
+          "ko": "비틀기",
+          "en": "A sudden, forceful twisting or pulling movement.",
+          "wrongEn": "A form of energy carried by electromagnetic waves."
+        },
+        {
+          "ko": "비틀다",
+          "en": "To twist or pull something sharply and forcefully.",
+          "wrongEn": "To add musical notes to a written melody."
+        },
+        {
+          "ko": "삐다",
+          "en": "To injure a joint by twisting it suddenly.",
+          "wrongEn": "To exchange one currency for another at a bank."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-47-interval",
+      "word": "interval",
+      "sourceMeaning": "간격, 틈",
+      "meanings": [
+        {
+          "ko": "간격, 틈",
+          "en": "A period of time or an amount of space between two things or events.",
+          "wrongEn": "A musical composition written for a solo instrument."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-47-degrade",
+      "word": "degrade",
+      "sourceMeaning": "저하시키다, 강등시키다, 분해하다",
+      "meanings": [
+        {
+          "ko": "저하시키다",
+          "en": "To lower the quality, value, or dignity of someone or something.",
+          "wrongEn": "To travel around a planet along a regular path."
+        },
+        {
+          "ko": "강등시키다",
+          "en": "To move someone to a lower rank or position.",
+          "wrongEn": "To join pieces of cloth using a needle and thread."
+        },
+        {
+          "ko": "분해하다",
+          "en": "To break a substance down into simpler forms.",
+          "wrongEn": "To preserve food by keeping it below freezing."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "분해하다\u001fTo break a substance down into simpler forms."
+      ]
+    },
+    {
+      "id": "wm-47-retort",
+      "word": "retort",
+      "sourceMeaning": "반박, 말대꾸, 반박하다, 말대꾸하다",
+      "meanings": [
+        {
+          "ko": "반박, 말대꾸",
+          "en": "A quick, sharp reply to criticism or an argument.",
+          "wrongEn": "A form of energy carried by electromagnetic waves."
+        },
+        {
+          "ko": "반박하다, 말대꾸하다",
+          "en": "To reply quickly and sharply to criticism or an argument.",
+          "wrongEn": "To add musical notes to a written melody."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [],
+      "studyNote": "retreat(후퇴), resort와 헷갈림"
+    },
+    {
+      "id": "wm-47-shudder",
+      "word": "shudder",
+      "sourceMeaning": "떨다, 몸서리치다",
+      "meanings": [
+        {
+          "ko": "떨다, 몸서리치다",
+          "en": "To shake suddenly because of fear, disgust, or cold.",
+          "wrongEn": "To measure temperature with a scientific instrument."
+        }
+      ]
+    },
+    {
+      "id": "wm-47-realm",
+      "word": "realm",
+      "sourceMeaning": "왕국, 영역",
+      "meanings": [
+        {
+          "ko": "왕국",
+          "en": "A country or territory ruled by a king or queen.",
+          "wrongEn": "A method of printing from a carved wooden block."
+        },
+        {
+          "ko": "영역",
+          "en": "A particular area of activity, knowledge, or experience.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-47-segment",
+      "word": "segment",
+      "sourceMeaning": "부문, 부분, 분할하다",
+      "meanings": [
+        {
+          "ko": "부문, 부분",
+          "en": "One of the smaller parts into which a whole is divided.",
+          "wrongEn": "A unit used to measure electrical resistance."
+        },
+        {
+          "ko": "분할하다",
+          "en": "To divide something into smaller sections.",
+          "wrongEn": "To exchange one currency for another at a bank."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "분할하다\u001fTo divide something into smaller sections."
+      ]
+    },
+    {
+      "id": "wm-47-coexist",
+      "word": "coexist",
+      "sourceMeaning": "공존하다",
+      "meanings": [
+        {
+          "ko": "공존하다",
+          "en": "To exist together in the same place or at the same time.",
+          "wrongEn": "To send a radio signal over a long distance."
+        }
+      ]
+    },
+    {
+      "id": "wm-47-hospitality",
+      "word": "hospitality",
+      "sourceMeaning": "환대, 후한 대접",
+      "meanings": [
+        {
+          "ko": "환대, 후한 대접",
+          "en": "Friendly and generous treatment of guests or visitors.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ]
+    },
+    {
+      "id": "wm-47-estate",
+      "word": "estate",
+      "sourceMeaning": "소유지, 재산",
+      "meanings": [
+        {
+          "ko": "소유지",
+          "en": "A large area of land belonging to one owner, often with a house.",
+          "wrongEn": "A device used to measure atmospheric pressure."
+        },
+        {
+          "ko": "재산",
+          "en": "All the property and money that a person owns, especially after death.",
+          "wrongEn": "A small opening in a leaf through which gases pass."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-47-displace",
+      "word": "displace",
+      "sourceMeaning": "옮겨 놓다, 대신하다, 쫓아내다",
+      "meanings": [
+        {
+          "ko": "옮겨 놓다",
+          "en": "To move something from its usual or original position.",
+          "wrongEn": "To remove the outer skin from a piece of fruit."
+        },
+        {
+          "ko": "대신하다",
+          "en": "To take the place of someone or something.",
+          "wrongEn": "To prepare food by cooking it in boiling water."
+        },
+        {
+          "ko": "쫓아내다",
+          "en": "To force people to leave their homes or usual surroundings.",
+          "wrongEn": "To add musical notes to a written melody."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "옮겨 놓다\u001fTo move something from its usual or original position.",
+        "대신하다\u001fTo take the place of someone or something."
+      ]
+    },
+    {
+      "id": "wm-47-cripple",
+      "word": "cripple",
+      "sourceMeaning": "불구로 만들다, 지체 부자유자",
+      "meanings": [
+        {
+          "ko": "불구로 만들다",
+          "en": "To cause lasting damage that seriously limits physical movement.",
+          "wrongEn": "To record spoken words in written form."
+        },
+        {
+          "ko": "지체 부자유자",
+          "en": "An old and offensive term for a person with a physical disability.",
+          "wrongEn": "A mark placed above a letter to show its pronunciation."
+        }
+      ],
+      "sourceNote": "사람을 가리키는 명사 용법은 오늘날 모욕적으로 받아들여질 수 있는 옛 표현입니다. 원문의 학습 범위를 보존하여 수록했습니다.",
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-47-drawback",
+      "word": "drawback",
+      "sourceMeaning": "문제점, 장애",
+      "meanings": [
+        {
+          "ko": "문제점, 장애",
+          "en": "A disadvantage or difficulty that makes something less useful or attractive.",
+          "wrongEn": "A small opening in a leaf through which gases pass."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-47-tactics",
+      "word": "tactics",
+      "sourceMeaning": "방안, 전술",
+      "meanings": [
+        {
+          "ko": "방안, 전술",
+          "en": "Specific methods chosen to achieve a goal, especially in a contest or conflict.",
+          "wrongEn": "A form of energy carried by electromagnetic waves."
+        }
+      ]
+    },
+    {
+      "id": "wm-47-dread",
+      "word": "dread",
+      "sourceMeaning": "공포, 무서워하다",
+      "meanings": [
+        {
+          "ko": "공포",
+          "en": "A strong feeling of fear about something that may happen.",
+          "wrongEn": "A mark placed above a letter to show its pronunciation."
+        },
+        {
+          "ko": "무서워하다",
+          "en": "To feel great fear or worry about something expected to happen.",
+          "wrongEn": "To send a radio signal over a long distance."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-47-dispute",
+      "word": "dispute",
+      "sourceMeaning": "논쟁, 분쟁, 토의하다",
+      "meanings": [
+        {
+          "ko": "논쟁, 분쟁",
+          "en": "A disagreement or argument between people or groups.",
+          "wrongEn": "A method of printing from a carved wooden block."
+        },
+        {
+          "ko": "토의하다",
+          "en": "To discuss an issue by presenting opposing arguments.",
+          "wrongEn": "To preserve food by keeping it below freezing."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-47-console",
+      "word": "console",
+      "sourceMeaning": "위로하다",
+      "meanings": [
+        {
+          "ko": "위로하다",
+          "en": "To comfort someone who is sad or disappointed.",
+          "wrongEn": "To add musical notes to a written melody."
+        }
+      ]
+    },
+    {
+      "id": "wm-47-stack",
+      "word": "stack",
+      "sourceMeaning": "더미, 쌓아올림, 서가, 쌓다, 쌓이다",
+      "meanings": [
+        {
+          "ko": "더미, 쌓아올림",
+          "en": "A pile of objects placed one on top of another.",
+          "wrongEn": "A period during which an animal remains dormant in winter."
+        },
+        {
+          "ko": "서가",
+          "en": "A set of shelves used to store books, especially in a library.",
+          "wrongEn": "A line of equal temperature drawn on a weather map."
+        },
+        {
+          "ko": "쌓다, 쌓이다",
+          "en": "To arrange objects in a pile, or to form a pile.",
+          "wrongEn": "To prepare food by cooking it in boiling water."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "서가\u001fA set of shelves used to store books, especially in a library."
+      ]
+    },
+    {
+      "id": "wm-47-cynical",
+      "word": "cynical",
+      "sourceMeaning": "냉소적인, 비꼬는",
+      "meanings": [
+        {
+          "ko": "냉소적인",
+          "en": "Believing that people mainly act for selfish reasons.",
+          "wrongEn": "Requiring oxygen for growth or survival."
+        },
+        {
+          "ko": "비꼬는",
+          "en": "Expressing scorn or distrust through mocking remarks.",
+          "wrongEn": "Having a taste like that of a lemon."
+        }
+      ]
+    },
+    {
+      "id": "wm-47-reprove",
+      "word": "reprove",
+      "sourceMeaning": "꾸짖다, 책망하다",
+      "meanings": [
+        {
+          "ko": "꾸짖다, 책망하다",
+          "en": "To tell someone that their behavior is wrong or unacceptable.",
+          "wrongEn": "To exchange one currency for another at a bank."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "improve, approve와 헷갈림"
+    },
+    {
+      "id": "wm-47-verify",
+      "word": "verify",
+      "sourceMeaning": "검증하다, 입증하다",
+      "meanings": [
+        {
+          "ko": "검증하다, 입증하다",
+          "en": "To check or provide evidence that something is true or accurate.",
+          "wrongEn": "To remove the outer skin from a piece of fruit."
+        }
+      ]
+    },
+    {
+      "id": "wm-47-engross",
+      "word": "engross",
+      "sourceMeaning": "열중하게 하다",
+      "meanings": [
+        {
+          "ko": "열중하게 하다",
+          "en": "To occupy someone's attention completely.",
+          "wrongEn": "To record spoken words in written form."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-47-bulk",
+      "word": "bulk",
+      "sourceMeaning": "크기, 부피, 대부분",
+      "meanings": [
+        {
+          "ko": "크기, 부피",
+          "en": "The large size or volume of something.",
+          "wrongEn": "A small opening in a leaf through which gases pass."
+        },
+        {
+          "ko": "대부분",
+          "en": "The greater part of a quantity or group.",
+          "wrongEn": "A method of printing from a carved wooden block."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "대부분\u001fThe greater part of a quantity or group."
+      ]
+    },
+    {
+      "id": "wm-47-despise",
+      "word": "despise",
+      "sourceMeaning": "경멸하다",
+      "meanings": [
+        {
+          "ko": "경멸하다",
+          "en": "To regard someone or something as worthless and feel strong dislike.",
+          "wrongEn": "To prepare food by cooking it in boiling water."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [
+        "경멸하다\u001fTo regard someone or something as worthless and feel strong dislike."
+      ],
+      "studyNote": "despite와 헷갈림"
+    },
+    {
+      "id": "wm-47-manuscript",
+      "word": "manuscript",
+      "sourceMeaning": "손으로 쓴 것, 필사본, 원고",
+      "meanings": [
+        {
+          "ko": "손으로 쓴 것, 필사본",
+          "en": "A text written by hand, especially an old document.",
+          "wrongEn": "A mark placed above a letter to show its pronunciation."
+        },
+        {
+          "ko": "원고",
+          "en": "An author's text before it is formally published.",
+          "wrongEn": "A period during which an animal remains dormant in winter."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-47-flee",
+      "word": "flee",
+      "sourceMeaning": "달아나다, 도망치다",
+      "meanings": [
+        {
+          "ko": "달아나다, 도망치다",
+          "en": "To escape quickly from danger or an unwanted situation.",
+          "wrongEn": "To join pieces of cloth using a needle and thread."
+        }
+      ]
+    }
+  ]
+}

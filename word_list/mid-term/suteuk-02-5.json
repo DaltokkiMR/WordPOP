@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 02-5",
+  "unitTitle": "수특라 02-5",
+  "source": "material/mid-term/수특라 02-5.md",
+  "words": [
+    {
+      "id": "mt-suteuk-02-5-disposal",
+      "word": "disposal",
+      "sourceMeaning": "처리, 폐기 (동사형은 dispose of '~을 처리하다')",
+      "meanings": [
+        {
+          "ko": "처리, 폐기",
+          "en": "The act of getting rid of something.",
+          "wrongEn": "The act of collecting things as a hobby."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-5-present",
+      "word": "present",
+      "sourceMeaning": "존재하는 (형용사. '현재의, 출석한'이라는 뜻도 있으며 be present in은 '~에 존재하다')",
+      "meanings": [
+        {
+          "ko": "존재하는",
+          "en": "Existing or found in a particular place or thing.",
+          "wrongEn": "Missing or no longer available."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-5-prevalent",
+      "word": "prevalent",
+      "sourceMeaning": "만연한, 널리 퍼진",
+      "meanings": [
+        {
+          "ko": "만연한, 널리 퍼진",
+          "en": "Common or widespread in a particular place or time.",
+          "wrongEn": "Rare and found only in a few places."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-5-inherent",
+      "word": "inherent",
+      "sourceMeaning": "내재하는, 고유한 (본래부터 그 안에 들어 있다는 뜻)",
+      "meanings": [
+        {
+          "ko": "내재하는, 고유한",
+          "en": "Existing as a natural and permanent part of something.",
+          "wrongEn": "Added from outside for a short time only."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-02-5-contradiction",
+      "word": "contradiction",
+      "sourceMeaning": "모순 (두 가지가 서로 맞지 않는 관계. 여기서는 변화를 좇는 패션과 오래 지속되어야 하는 지속 가능성의 충돌)",
+      "meanings": [
+        {
+          "ko": "모순",
+          "en": "A situation in which two things cannot both be true or cannot exist together.",
+          "wrongEn": "A friendly agreement between two people."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-5-novelty",
+      "word": "novelty",
+      "sourceMeaning": "참신함, 새로움 (novel '새로운'의 명사형)",
+      "meanings": [
+        {
+          "ko": "참신함, 새로움",
+          "en": "The quality of being new, original, or unusual.",
+          "wrongEn": "The quality of being heavy and difficult to move."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-02-5-characterize",
+      "word": "characterize",
+      "sourceMeaning": "특징짓다 (be characterized by는 '~로 특징지어지다')",
+      "meanings": [
+        {
+          "ko": "특징짓다",
+          "en": "To be a typical feature or quality of something.",
+          "wrongEn": "To paint a wall with bright colors."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-5-outdated",
+      "word": "outdated",
+      "sourceMeaning": "시대에 뒤떨어진, 구식의",
+      "meanings": [
+        {
+          "ko": "시대에 뒤떨어진, 구식의",
+          "en": "No longer modern, useful, or in fashion.",
+          "wrongEn": "Scheduled to happen at a later date."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-5-relevance",
+      "word": "relevance",
+      "sourceMeaning": "적절성, 연관성 (여기서는 특정 스타일이 시대에 맞게 계속 쓸모 있는 정도)",
+      "meanings": [
+        {
+          "ko": "적절성, 연관성",
+          "en": "The degree to which something is useful or connected to a situation.",
+          "wrongEn": "The speed at which something moves."
+        }
+      ]
+    }
+  ]
+}

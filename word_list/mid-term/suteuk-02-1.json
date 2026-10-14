@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 02-1",
+  "unitTitle": "수특라 02-1",
+  "source": "material/mid-term/수특라 02-1.md",
+  "words": [
+    {
+      "id": "mt-suteuk-02-1-receipts",
+      "word": "receipts",
+      "sourceMeaning": "수입, 수령액 (receipt는 '영수증'이라는 뜻도 있지만, 여기서는 관광으로 벌어들인 돈을 뜻한다.)",
+      "meanings": [
+        {
+          "ko": "수입, 수령액",
+          "en": "Money that is received, especially by a business or country.",
+          "wrongEn": "Instructions for preparing a particular dish."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-02-1-recipient",
+      "word": "recipient",
+      "sourceMeaning": "받는 사람·단체·국가 (여기서는 관광객을 받아들이는 국가를 뜻한다.)",
+      "meanings": [
+        {
+          "ko": "받는 사람·단체·국가",
+          "en": "A person, group, or country that receives something.",
+          "wrongEn": "A person who designs buildings."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-1-generator",
+      "word": "generator",
+      "sourceMeaning": "발생시키는 것, 창출하는 주체 ('발전기'라는 뜻도 있지만, 여기서는 관광객을 내보내 관광 수요를 만들어 내는 국가를 뜻한다.)",
+      "meanings": [
+        {
+          "ko": "발생시키는 것, 창출하는 주체",
+          "en": "Something that produces or creates something else.",
+          "wrongEn": "Something that stops a process from continuing."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-1-primary-commodities",
+      "word": "primary commodities",
+      "sourceMeaning": "1차 산품 (목재·광물·농산물처럼 자연에서 얻는 원료나 생산물을 뜻한다. primary는 여기서 단순히 '중요한'이라는 뜻이 아니다.)",
+      "meanings": [
+        {
+          "ko": "1차 산품",
+          "en": "Raw materials or products taken from nature, such as wood, minerals, and crops.",
+          "wrongEn": "Goods that are made by hand in small workshops for tourists."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-02-1-given",
+      "word": "given",
+      "sourceMeaning": "~을 고려하면 (여기서는 give의 과거분사 '주어진'이 아니라, 뒤에 오는 상황을 판단의 근거로 제시한다.)",
+      "meanings": [
+        {
+          "ko": "~을 고려하면",
+          "en": "Taking a particular fact or situation into account.",
+          "wrongEn": "In spite of a particular fact or situation."
+        }
+      ]
+    }
+  ]
+}

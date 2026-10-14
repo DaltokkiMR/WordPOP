@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 02-2",
+  "unitTitle": "수특라 02-2",
+  "words": [
+    {
+      "wordId": "mt-suteuk-02-2-thermal-insulation",
+      "key": "thermal insulation",
+      "word": "thermal insulation",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-02-2-custom",
+      "key": "custom",
+      "word": "custom",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-02-2-retain",
+      "key": "retain",
+      "word": "retain",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-02-2-tension",
+      "key": "tension",
+      "word": "tension",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-02-2-integral",
+      "key": "integral",
+      "word": "integral",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "mt-suteuk-02-2-heat-recovery-ventilation",
+      "key": "heat recovery ventilation",
+      "word": "heat recovery ventilation",
+      "retryCount": 1,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-02-2-airtightness",
+      "key": "airtightness",
+      "word": "airtightness",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-02-2-lifestyle",
+      "key": "lifestyle",
+      "word": "lifestyle",
+      "retryCount": 1,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-02-2-mold",
+      "key": "mold",
+      "word": "mold",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-02-2-subject-to",
+      "key": "subject to",
+      "word": "subject to",
+      "retryCount": 1,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    }
+  ],
+  "updatedAt": "2026-09-30T14:47:21.323Z"
+}

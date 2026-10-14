@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 01-6",
+  "unitTitle": "수특라 01-6",
+  "source": "material/mid-term/수특라 01-6.md",
+  "words": [
+    {
+      "id": "mt-suteuk-01-6-drain",
+      "word": "drain",
+      "sourceMeaning": "기운이나 자원을 소진시키다, 빼내다. 여기서는 물을 빼낸다는 뜻을 넘어, 일과 소비가 사람의 에너지를 고갈시킨다는 뜻이다.",
+      "meanings": [
+        {
+          "ko": "기운이나 자원을 소진시키다, 빼내다",
+          "en": "To use up someone's energy or resources, or to make liquid flow out of something.",
+          "wrongEn": "To fill a container completely with water."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-6-rat-race",
+      "word": "rat race",
+      "sourceMeaning": "출세나 돈을 얻기 위한 끝없는 경쟁. 본문은 이를 '쥐들의 경주'라는 문자 그대로의 이미지와 연결하여, 경쟁에서 이겨도 그 삶에서 벗어나지는 못한다는 뜻을 드러낸다.",
+      "meanings": [
+        {
+          "ko": "출세나 돈을 얻기 위한 끝없는 경쟁",
+          "en": "A tiring and endless struggle to succeed or earn more money in modern life.",
+          "wrongEn": "A calm and relaxed way of living in the countryside."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-6-baggage",
+      "word": "baggage",
+      "sourceMeaning": "짐, 부담. 여행용 짐뿐 아니라 감정적·심리적으로 짊어진 부담도 가리키며, 여기서는 물질적·감정적·심리적 짐을 모두 포함한다.",
+      "meanings": [
+        {
+          "ko": "짐",
+          "en": "The bags and cases that a person carries when traveling.",
+          "wrongEn": "A written list of the dishes served at a restaurant."
+        },
+        {
+          "ko": "부담",
+          "en": "Emotional or psychological problems or burdens that someone carries from past experience.",
+          "wrongEn": "A feeling of joy after winning a game."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "부담\u001fEmotional or psychological problems or burdens that someone carries from past experience."
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-6-moderate",
+      "word": "moderate",
+      "sourceMeaning": "적절한 (이번에 모의시험 보고서 헷갈린 단어임)",
+      "meanings": [
+        {
+          "ko": "적절한",
+          "en": "Reasonable and not extreme in amount or degree.",
+          "wrongEn": "Extremely loud and impossible to control."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-01-6-dysfunction",
+      "word": "dysfunction",
+      "sourceMeaning": "기능 장애, 제 기능을 하지 못하는 상태. function(기능)에 이상이나 장애를 나타내는 dys-가 붙은 말로, 여기서는 환경이 정상적으로 작동하지 못하는 상태를 뜻한다.",
+      "meanings": [
+        {
+          "ko": "기능 장애, 제 기능을 하지 못하는 상태",
+          "en": "A state in which something does not work in the normal or proper way.",
+          "wrongEn": "A formal party held to celebrate a wedding."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-6-mantra",
+      "word": "mantra",
+      "sourceMeaning": "반복해서 외우는 말, 주문. 여기서는 종교적인 주문이 아니라, 사람들이 신념처럼 되풀이하는 말을 뜻한다.",
+      "meanings": [
+        {
+          "ko": "반복해서 외우는 말, 주문",
+          "en": "A word or phrase that is repeated often, especially as a belief or rule.",
+          "wrongEn": "A long piece of cloth worn around the neck."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-6-fixable",
+      "word": "fixable",
+      "sourceMeaning": "고칠 수 있는, 수리 가능한. fix에 '-할 수 있는'이라는 뜻의 -able이 붙은 말이다. not broken은 '고장 나지 않은', not fixable은 '고칠 수 없는'이므로 두 표현을 구별해야 한다.",
+      "meanings": [
+        {
+          "ko": "고칠 수 있는, 수리 가능한",
+          "en": "Able to be repaired or corrected.",
+          "wrongEn": "Able to be folded into a small size."
+        }
+      ]
+    }
+  ]
+}

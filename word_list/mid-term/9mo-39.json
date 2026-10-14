@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "9모-39",
+  "unitTitle": "9모-39",
+  "source": "material/mid-term/9모-39.md",
+  "words": [
+    {
+      "id": "mt-9mo-39-colony",
+      "word": "colony",
+      "sourceMeaning": "(개미, 벌 등의) 군집, 집단 (보통 ‘식민지’라는 뜻으로 익숙하지만, 생물에서는 함께 모여 사는 같은 종의 무리를 뜻함)",
+      "meanings": [
+        {
+          "ko": "(개미, 벌 등의) 군집, 집단",
+          "en": "A group of animals or insects of the same kind that live together.",
+          "wrongEn": "A single plant that grows alone in a desert."
+        }
+      ]
+    },
+    {
+      "id": "mt-9mo-39-set-forth",
+      "word": "set forth",
+      "sourceMeaning": "출발하다, 길을 나서다 (set out과 같은 뜻. ‘(생각이나 계획을) 제시하다’라는 뜻도 있으므로 문맥으로 구별해야 함. [[9모-37]]의 put forth a revolutionary idea는 ‘혁명적인 생각을 내놓다’라는 뜻이니 함께 기억)",
+      "meanings": [
+        {
+          "ko": "출발하다, 길을 나서다",
+          "en": "To begin a journey.",
+          "wrongEn": "To sit down and rest after work."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    }
+  ]
+}

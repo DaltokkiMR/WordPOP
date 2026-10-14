@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "9모-33",
+  "unitTitle": "9모-33",
+  "source": "material/mid-term/9모-33.md",
+  "words": [
+    {
+      "id": "mt-9mo-33-surmise",
+      "word": "surmise",
+      "sourceMeaning": "짐작하다, 추측하다 (확실한 증거 없이 미루어 판단한다는 뜻. 그림이 남아 있지 않아 일화, 조각, 도자기 그림을 근거로 미루어 볼 수밖에 없다는 문맥)",
+      "meanings": [
+        {
+          "ko": "짐작하다, 추측하다",
+          "en": "To suppose that something is true without having clear evidence for it.",
+          "wrongEn": "To move quickly upward through the air."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-9mo-33-quality",
+      "word": "quality",
+      "sourceMeaning": "수준, 질 (여기서 their quality는 고대 그리스 화가들이 그린 그림의 수준을 가리킴. [[9모-31]]의 qualities ‘특성’과 구별)",
+      "meanings": [
+        {
+          "ko": "수준, 질",
+          "en": "How good or bad something is.",
+          "wrongEn": "The act of waiting in a line for one's turn."
+        }
+      ]
+    },
+    {
+      "id": "mt-9mo-33-pottery",
+      "word": "pottery",
+      "sourceMeaning": "도자기, 도기류 (흙으로 빚어 구운 그릇을 통틀어 이르는 말. 고대 그리스 도자기 표면에 남은 그림이 당시 회화 실력을 짐작하는 근거가 됨)",
+      "meanings": [
+        {
+          "ko": "도자기, 도기류",
+          "en": "Pots, dishes, and other objects made from clay and hardened by heat.",
+          "wrongEn": "Clothing made from the wool of sheep."
+        }
+      ]
+    },
+    {
+      "id": "mt-9mo-33-passage",
+      "word": "passage",
+      "sourceMeaning": "(그림의) 부분, 세부 (보통 ‘(글의) 구절, 통로’라는 뜻이지만, 미술에서는 작품의 한 부분이나 세부를 뜻함. marks or passages는 ‘붓 자국이나 화면의 부분’이라는 의미)",
+      "meanings": [
+        {
+          "ko": "(그림의) 부분, 세부",
+          "en": "A particular part or area of a painting or other work of art.",
+          "wrongEn": "A strong feeling of anger toward someone."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    }
+  ]
+}

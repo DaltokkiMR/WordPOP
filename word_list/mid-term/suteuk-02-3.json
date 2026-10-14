@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 02-3",
+  "unitTitle": "수특라 02-3",
+  "source": "material/mid-term/수특라 02-3.md",
+  "words": [
+    {
+      "id": "mt-suteuk-02-3-retrieval-practice",
+      "word": "retrieval practice",
+      "sourceMeaning": "인출 연습 (이미 배운 정보를 기억에서 꺼내는 연습. 답을 다시 읽는 복습과 구별)",
+      "meanings": [
+        {
+          "ko": "인출 연습",
+          "en": "A study method in which you try to recall information from memory.",
+          "wrongEn": "A method of storing old documents in a safe place."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-3-concept-map",
+      "word": "concept map",
+      "sourceMeaning": "개념도 (여러 개념 사이의 관계를 연결하여 나타낸 그림)",
+      "meanings": [
+        {
+          "ko": "개념도",
+          "en": "A diagram that shows the relationships between different ideas.",
+          "wrongEn": "A drawing that shows the streets of a city."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-3-as-opposed-to",
+      "word": "as opposed to",
+      "sourceMeaning": "~와는 달리, ~와 대조적으로 (이 글에서는 기억해 내려는 노력과 단순 반복을 대조)",
+      "meanings": [
+        {
+          "ko": "~와는 달리, ~와 대조적으로",
+          "en": "In contrast with something else.",
+          "wrongEn": "Because of or as a result of something."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-3-rehearse",
+      "word": "rehearse",
+      "sourceMeaning": "반복하여 되뇌다, 연습하다 (이 글에서는 정보를 단순히 반복하는 것)",
+      "meanings": [
+        {
+          "ko": "반복하여 되뇌다, 연습하다",
+          "en": "To repeat information or practice something again and again.",
+          "wrongEn": "To make a formal complaint to a manager."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-02-3-trigger",
+      "word": "trigger",
+      "sourceMeaning": "유발하다, 촉발하다 (명사로는 ‘방아쇠’, 여기서는 어떤 과정을 시작하게 한다는 뜻의 동사)",
+      "meanings": [
+        {
+          "ko": "유발하다, 촉발하다",
+          "en": "To cause something to start or happen.",
+          "wrongEn": "To stop something from growing any further."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-3-reconsolidation",
+      "word": "reconsolidation",
+      "sourceMeaning": "재공고화 (떠올린 기억이 다시 안정된 상태로 굳어지는 과정. consolidation은 ‘공고화’)",
+      "meanings": [
+        {
+          "ko": "재공고화",
+          "en": "The process by which a recalled memory becomes stable and fixed again.",
+          "wrongEn": "The process of dividing a company into smaller parts."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-02-3-propose",
+      "word": "propose",
+      "sourceMeaning": "제안하다 (It has been proposed that은 '~라는 설명이 제시되어 왔다')",
+      "meanings": [
+        {
+          "ko": "제안하다",
+          "en": "To put forward an idea or explanation for others to consider.",
+          "wrongEn": "To refuse to take part in a discussion."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    }
+  ]
+}

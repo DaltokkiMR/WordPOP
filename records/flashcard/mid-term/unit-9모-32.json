@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "9모-32",
+  "unitTitle": "9모-32",
+  "words": [
+    {
+      "wordId": "mt-9mo-32-empowering",
+      "key": "empowering",
+      "word": "empowering",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    }
+  ],
+  "updatedAt": "2026-09-30T13:29:31.037Z"
+}

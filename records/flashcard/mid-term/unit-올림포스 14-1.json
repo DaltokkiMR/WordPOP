@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "올림포스 14-1",
+  "unitTitle": "올림포스 14-1",
+  "words": [
+    {
+      "wordId": "mt-olympus-14-1-enterprise",
+      "key": "enterprise",
+      "word": "enterprise",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-olympus-14-1-poised",
+      "key": "poised",
+      "word": "poised",
+      "retryCount": 1,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-olympus-14-1-unparalleled",
+      "key": "unparalleled",
+      "word": "unparalleled",
+      "retryCount": 0,
+      "sessionId": "0d792d7f-6b28-447f-998e-7b2373cb5e56",
+      "startedAt": "2026-09-30T14:47:24.886Z",
+      "completedAt": "2026-09-30T15:07:59.073Z"
+    },
+    {
+      "wordId": "mt-olympus-14-1-barely",
+      "key": "barely",
+      "word": "barely",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-olympus-14-1-standpoint",
+      "key": "standpoint",
+      "word": "standpoint",
+      "retryCount": 1,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-olympus-14-1-interdisciplinary",
+      "key": "interdisciplinary",
+      "word": "interdisciplinary",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    }
+  ],
+  "updatedAt": "2026-09-30T15:07:59.073Z"
+}

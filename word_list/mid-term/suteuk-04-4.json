@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 04-4",
+  "unitTitle": "수특라 04-4",
+  "source": "material/mid-term/수특라 04-4.md",
+  "words": [
+    {
+      "id": "mt-suteuk-04-4-muster",
+      "word": "muster",
+      "sourceMeaning": "모으다, 끌어모으다 (증거나 지지, 용기 등을 애써 모은다는 뜻. 본래 군대를 '소집하다'라는 뜻이며, 여기서 evidence you muster against this idea는 '이 생각에 반대하여 여러분이 모으는 증거')",
+      "meanings": [
+        {
+          "ko": "모으다, 끌어모으다",
+          "en": "To gather together evidence, support, or courage with effort.",
+          "wrongEn": "To throw away things that are no longer needed."
+        }
+      ]
+    }
+  ]
+}

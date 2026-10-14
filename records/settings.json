@@ -1,0 +1,20 @@
+{
+  "stages": {
+    "collect": {
+      "provider": "claude",
+      "model": "claude-opus-5-5"
+    },
+    "select": {
+      "provider": "claude",
+      "model": "claude-opus-5-5"
+    },
+    "generate": {
+      "provider": "claude",
+      "model": "claude-opus-5-5"
+    },
+    "verify": {
+      "provider": "copilot",
+      "model": "gpt-5.6-terra"
+    }
+  }
+}

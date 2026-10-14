@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 01-6",
+  "unitTitle": "수특라 01-6",
+  "words": [
+    {
+      "wordId": "mt-suteuk-01-6-fixable",
+      "key": "fixable",
+      "word": "fixable",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-01-6-moderate",
+      "key": "moderate",
+      "word": "moderate",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-01-6-dysfunction",
+      "key": "dysfunction",
+      "word": "dysfunction",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-01-6-drain",
+      "key": "drain",
+      "word": "drain",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-01-6-mantra",
+      "key": "mantra",
+      "word": "mantra",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-01-6-rat-race",
+      "key": "rat race",
+      "word": "rat race",
+      "retryCount": 1,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-01-6-baggage",
+      "key": "baggage",
+      "word": "baggage",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    }
+  ],
+  "updatedAt": "2026-09-30T14:47:21.323Z"
+}

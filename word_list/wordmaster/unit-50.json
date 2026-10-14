@@ -1,0 +1,637 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "50",
+  "unitTitle": "50과",
+  "source": "material/wordmaster_25_30_46_50.md",
+  "words": [
+    {
+      "id": "wm-50-penetrate",
+      "word": "penetrate",
+      "sourceMeaning": "침투하다, 꿰뚫다",
+      "meanings": [
+        {
+          "ko": "침투하다, 꿰뚫다",
+          "en": "To enter or pass through the surface or barrier of something.",
+          "wrongEn": "To exchange one currency for another at a bank."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-intrude",
+      "word": "intrude",
+      "sourceMeaning": "방해하다, 침범하다",
+      "meanings": [
+        {
+          "ko": "방해하다",
+          "en": "To interrupt someone's privacy or activities without being welcome.",
+          "wrongEn": "To combine several numbers to calculate their total."
+        },
+        {
+          "ko": "침범하다",
+          "en": "To enter a place or situation without invitation or permission.",
+          "wrongEn": "To prepare food by cooking it in boiling water."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "방해하다\u001fTo interrupt someone's privacy or activities without being welcome."
+      ]
+    },
+    {
+      "id": "wm-50-notable",
+      "word": "notable",
+      "sourceMeaning": "주목할 만한, 유명한",
+      "meanings": [
+        {
+          "ko": "주목할 만한",
+          "en": "Important or unusual enough to deserve attention.",
+          "wrongEn": "Having a taste like that of a lemon."
+        },
+        {
+          "ko": "유명한",
+          "en": "Widely known for an achievement or special quality.",
+          "wrongEn": "Active mainly during the night."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-50-grumble",
+      "word": "grumble",
+      "sourceMeaning": "불평하다, 으르렁거리다, 불평",
+      "meanings": [
+        {
+          "ko": "불평하다",
+          "en": "To complain in a low voice or in a dissatisfied way.",
+          "wrongEn": "To travel around a planet along a regular path."
+        },
+        {
+          "ko": "으르렁거리다",
+          "en": "To make a low, rumbling sound.",
+          "wrongEn": "To join pieces of cloth using a needle and thread."
+        },
+        {
+          "ko": "불평",
+          "en": "A complaint made in a dissatisfied way.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "으르렁거리다\u001fTo make a low, rumbling sound."
+      ]
+    },
+    {
+      "id": "wm-50-landfill",
+      "word": "landfill",
+      "sourceMeaning": "쓰레기 매립지",
+      "meanings": [
+        {
+          "ko": "쓰레기 매립지",
+          "en": "A place where waste is buried under layers of earth.",
+          "wrongEn": "A form of energy carried by electromagnetic waves."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-scrutiny",
+      "word": "scrutiny",
+      "sourceMeaning": "조사",
+      "meanings": [
+        {
+          "ko": "조사",
+          "en": "Close and careful examination of something.",
+          "wrongEn": "A mark placed above a letter to show its pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-reckless",
+      "word": "reckless",
+      "sourceMeaning": "부주의한, 무모한",
+      "meanings": [
+        {
+          "ko": "부주의한, 무모한",
+          "en": "Acting without enough concern for danger or possible consequences.",
+          "wrongEn": "Capable of attracting iron through magnetic force."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-synthetic",
+      "word": "synthetic",
+      "sourceMeaning": "화학 합성의",
+      "meanings": [
+        {
+          "ko": "화학 합성의",
+          "en": "Made by combining chemical substances through an artificial process.",
+          "wrongEn": "Occurring once every two weeks."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-productive",
+      "word": "productive",
+      "sourceMeaning": "생산적인, 다산의",
+      "meanings": [
+        {
+          "ko": "생산적인",
+          "en": "Producing useful results or a large amount of work or goods.",
+          "wrongEn": "Having a surface covered with fine parallel ridges."
+        },
+        {
+          "ko": "다산의",
+          "en": "Producing many offspring or a large amount of new life.",
+          "wrongEn": "Located near the equator of the Earth."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-50-outset",
+      "word": "outset",
+      "sourceMeaning": "착수, 시작",
+      "meanings": [
+        {
+          "ko": "착수, 시작",
+          "en": "The beginning of an activity, process, or period.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [],
+      "studyNote": "'결과'로 의미를 착각함"
+    },
+    {
+      "id": "wm-50-peril",
+      "word": "peril",
+      "sourceMeaning": "위험, 위기",
+      "meanings": [
+        {
+          "ko": "위험, 위기",
+          "en": "Serious danger or a situation that could cause great harm.",
+          "wrongEn": "A device used to measure atmospheric pressure."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [],
+      "studyNote": "pupil과 헷갈림"
+    },
+    {
+      "id": "wm-50-rage",
+      "word": "rage",
+      "sourceMeaning": "격노",
+      "meanings": [
+        {
+          "ko": "격노",
+          "en": "A state of extremely strong anger.",
+          "wrongEn": "A line of equal temperature drawn on a weather map."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-kidnap",
+      "word": "kidnap",
+      "sourceMeaning": "유괴, 납치하다",
+      "meanings": [
+        {
+          "ko": "유괴하다, 납치하다",
+          "en": "To take someone away illegally by force and hold them captive.",
+          "wrongEn": "To record spoken words in written form."
+        }
+      ],
+      "sourceNote": "원문 '유괴, 납치하다'의 '유괴'를 동사 품사에 맞추어 '유괴하다'로 표기했습니다. sourceMeaning에는 원문을 보존했습니다."
+    },
+    {
+      "id": "wm-50-liable",
+      "word": "liable",
+      "sourceMeaning": "책임이 있는, ~할 것 같은, ~하기 쉬운",
+      "meanings": [
+        {
+          "ko": "책임이 있는",
+          "en": "Legally or officially responsible for something.",
+          "wrongEn": "Allowing light to pass through clearly."
+        },
+        {
+          "ko": "~할 것 같은, ~하기 쉬운",
+          "en": "Likely to do or experience something, especially something unwanted.",
+          "wrongEn": "Capable of attracting iron through magnetic force."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [],
+      "studyNote": "reliable(믿을 만한)과 헷갈림"
+    },
+    {
+      "id": "wm-50-insane",
+      "word": "insane",
+      "sourceMeaning": "정신 이상의, 비상식적인",
+      "meanings": [
+        {
+          "ko": "정신 이상의",
+          "en": "Unable to think or behave rationally because of a severe disturbance of the mind.",
+          "wrongEn": "Made from the fibers of the flax plant."
+        },
+        {
+          "ko": "비상식적인",
+          "en": "Extremely unreasonable or foolish.",
+          "wrongEn": "Occurring once every two weeks."
+        }
+      ],
+      "sourceNote": "정신 상태에 관한 원문 뜻을 보존했습니다. 사람을 지칭할 때 모욕적으로 받아들여질 수 있으며, 현대 의학의 진단명으로 사용하지 않습니다.",
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-50-pitfall",
+      "word": "pitfall",
+      "sourceMeaning": "함정, 위험",
+      "meanings": [
+        {
+          "ko": "함정",
+          "en": "A hidden hole used to trap an animal or person.",
+          "wrongEn": "A mark placed above a letter to show its pronunciation."
+        },
+        {
+          "ko": "위험",
+          "en": "A hidden danger or difficulty that can cause failure or trouble.",
+          "wrongEn": "A period during which an animal remains dormant in winter."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "위험\u001fA hidden danger or difficulty that can cause failure or trouble."
+      ]
+    },
+    {
+      "id": "wm-50-radius",
+      "word": "radius",
+      "sourceMeaning": "반지름",
+      "meanings": [
+        {
+          "ko": "반지름",
+          "en": "The distance from the center of a circle or sphere to its outer edge.",
+          "wrongEn": "A method of printing from a carved wooden block."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": [],
+      "studyNote": "diameter(직경)과 의미 차이 조심하자."
+    },
+    {
+      "id": "wm-50-hybrid",
+      "word": "hybrid",
+      "sourceMeaning": "혼합, 잡종",
+      "meanings": [
+        {
+          "ko": "혼합",
+          "en": "Something formed by combining elements of different types.",
+          "wrongEn": "A unit used to measure electrical resistance."
+        },
+        {
+          "ko": "잡종",
+          "en": "An animal or plant produced by breeding different species or varieties.",
+          "wrongEn": "A device used to measure atmospheric pressure."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-uncover",
+      "word": "uncover",
+      "sourceMeaning": "폭로하다, 알아내다",
+      "meanings": [
+        {
+          "ko": "폭로하다",
+          "en": "To reveal something that has been deliberately kept secret.",
+          "wrongEn": "To send a radio signal over a long distance."
+        },
+        {
+          "ko": "알아내다",
+          "en": "To discover information that was previously unknown.",
+          "wrongEn": "To remove the outer skin from a piece of fruit."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "알아내다\u001fTo discover information that was previously unknown."
+      ]
+    },
+    {
+      "id": "wm-50-limb",
+      "word": "limb",
+      "sourceMeaning": "사지, 팔다리",
+      "meanings": [
+        {
+          "ko": "사지, 팔다리",
+          "en": "An arm or leg of a person, or a similar part of an animal.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-setback",
+      "word": "setback",
+      "sourceMeaning": "좌절, 차질",
+      "meanings": [
+        {
+          "ko": "좌절, 차질",
+          "en": "An event or problem that delays progress or makes success more difficult.",
+          "wrongEn": "A device used to measure atmospheric pressure."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "drawback과 헷갈림"
+    },
+    {
+      "id": "wm-50-prudent",
+      "word": "prudent",
+      "sourceMeaning": "신중한, 빈틈없는",
+      "meanings": [
+        {
+          "ko": "신중한, 빈틈없는",
+          "en": "Careful and sensible in making decisions and preparing for the future.",
+          "wrongEn": "Located near the equator of the Earth."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-50-solidify",
+      "word": "solidify",
+      "sourceMeaning": "굳어지다, 굳히다, 확고히 하다",
+      "meanings": [
+        {
+          "ko": "굳어지다, 굳히다",
+          "en": "To become solid or make a liquid become solid.",
+          "wrongEn": "To record spoken words in written form."
+        },
+        {
+          "ko": "확고히 하다",
+          "en": "To make a plan, relationship, or position stronger and more certain.",
+          "wrongEn": "To measure temperature with a scientific instrument."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-50-grudge",
+      "word": "grudge",
+      "sourceMeaning": "원한, 유감",
+      "meanings": [
+        {
+          "ko": "원한, 유감",
+          "en": "A lasting feeling of resentment over a past wrong or disappointment.",
+          "wrongEn": "A small opening in a leaf through which gases pass."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "grumble(투덜거리다)와 헷갈림"
+    },
+    {
+      "id": "wm-50-transcend",
+      "word": "transcend",
+      "sourceMeaning": "초월하다",
+      "meanings": [
+        {
+          "ko": "초월하다",
+          "en": "To go beyond an ordinary limit, category, or level of experience.",
+          "wrongEn": "To prepare food by cooking it in boiling water."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-tangle",
+      "word": "tangle",
+      "sourceMeaning": "얽히게 하다, 혼란시키다",
+      "meanings": [
+        {
+          "ko": "얽히게 하다",
+          "en": "To twist or mix things together so they are difficult to separate.",
+          "wrongEn": "To measure temperature with a scientific instrument."
+        },
+        {
+          "ko": "혼란시키다",
+          "en": "To make a situation or set of ideas confused and difficult to understand.",
+          "wrongEn": "To send a radio signal over a long distance."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "혼란시키다\u001fTo make a situation or set of ideas confused and difficult to understand."
+      ]
+    },
+    {
+      "id": "wm-50-subsidy",
+      "word": "subsidy",
+      "sourceMeaning": "보조금, 장려금",
+      "meanings": [
+        {
+          "ko": "보조금, 장려금",
+          "en": "Money provided, often by a government, to support an activity or reduce its cost.",
+          "wrongEn": "A method of printing from a carved wooden block."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-ambiguous",
+      "word": "ambiguous",
+      "sourceMeaning": "애매모호한, 두 가지 뜻으로 해석 가능한",
+      "meanings": [
+        {
+          "ko": "애매모호한, 두 가지 뜻으로 해석 가능한",
+          "en": "Unclear because it can reasonably be understood in more than one way.",
+          "wrongEn": "Occurring once every two weeks."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-enthusiasm",
+      "word": "enthusiasm",
+      "sourceMeaning": "열광, 열정, 열의",
+      "meanings": [
+        {
+          "ko": "열광, 열정, 열의",
+          "en": "Strong excitement and eager interest in something.",
+          "wrongEn": "A period during which an animal remains dormant in winter."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-bankruptcy",
+      "word": "bankruptcy",
+      "sourceMeaning": "파산",
+      "meanings": [
+        {
+          "ko": "파산",
+          "en": "The legal state of being unable to pay one's debts.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-pollination",
+      "word": "pollination",
+      "sourceMeaning": "수분 작용",
+      "meanings": [
+        {
+          "ko": "수분 작용",
+          "en": "The transfer of pollen to the part of a flower where fertilization can begin.",
+          "wrongEn": "A device used to measure atmospheric pressure."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-prosper",
+      "word": "prosper",
+      "sourceMeaning": "번영하다, 번창하다",
+      "meanings": [
+        {
+          "ko": "번영하다, 번창하다",
+          "en": "To succeed and grow, especially in wealth or business.",
+          "wrongEn": "To remove the outer skin from a piece of fruit."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-50-phase",
+      "word": "phase",
+      "sourceMeaning": "단계, 상, 면, 양상",
+      "meanings": [
+        {
+          "ko": "단계",
+          "en": "A distinct stage in a process of development or change.",
+          "wrongEn": "A musical composition written for a solo instrument."
+        },
+        {
+          "ko": "상",
+          "en": "A physical form of matter, such as a solid, liquid, or gas.",
+          "wrongEn": "A mark placed above a letter to show its pronunciation."
+        },
+        {
+          "ko": "면, 양상",
+          "en": "A particular aspect or appearance of something.",
+          "wrongEn": "A period during which an animal remains dormant in winter."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-veterinarian",
+      "word": "veterinarian",
+      "sourceMeaning": "수의사",
+      "meanings": [
+        {
+          "ko": "수의사",
+          "en": "A person qualified to diagnose and treat illnesses and injuries in animals.",
+          "wrongEn": "A small opening in a leaf through which gases pass."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-counterattack",
+      "word": "counterattack",
+      "sourceMeaning": "반격, 역습, 반격하다, 역습하다",
+      "meanings": [
+        {
+          "ko": "반격, 역습",
+          "en": "An attack made in response to an opponent's attack.",
+          "wrongEn": "A form of energy carried by electromagnetic waves."
+        },
+        {
+          "ko": "반격하다, 역습하다",
+          "en": "To attack an opponent in response to being attacked.",
+          "wrongEn": "To add musical notes to a written melody."
+        }
+      ]
+    },
+    {
+      "id": "wm-50-cumulative",
+      "word": "cumulative",
+      "sourceMeaning": "누적되는, 점증적인",
+      "meanings": [
+        {
+          "ko": "누적되는, 점증적인",
+          "en": "Increasing as successive amounts or effects are added together.",
+          "wrongEn": "Active mainly during the night."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-50-infrastructure",
+      "word": "infrastructure",
+      "sourceMeaning": "사회 기반 시설, 하부 조직 구조",
+      "meanings": [
+        {
+          "ko": "사회 기반 시설",
+          "en": "The basic facilities and systems that allow a society or economy to function.",
+          "wrongEn": "A method of printing from a carved wooden block."
+        },
+        {
+          "ko": "하부 조직 구조",
+          "en": "The underlying organizational structure that supports a larger system.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "하부 조직 구조\u001fThe underlying organizational structure that supports a larger system."
+      ]
+    },
+    {
+      "id": "wm-50-wound",
+      "word": "wound",
+      "sourceMeaning": "부상을 입히다, 부상",
+      "meanings": [
+        {
+          "ko": "부상을 입히다",
+          "en": "To cause a physical injury, especially one that damages or breaks the skin.",
+          "wrongEn": "To add musical notes to a written melody."
+        },
+        {
+          "ko": "부상",
+          "en": "An injury to the body, especially one involving damaged or broken skin.",
+          "wrongEn": "A device used to measure atmospheric pressure."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-50-discrete",
+      "word": "discrete",
+      "sourceMeaning": "분리된, 별개의",
+      "meanings": [
+        {
+          "ko": "분리된, 별개의",
+          "en": "Separate and clearly distinct from other things.",
+          "wrongEn": "Having a surface covered with fine parallel ridges."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-50-fluctuation",
+      "word": "fluctuation",
+      "sourceMeaning": "변동, 오르내림, 요동",
+      "meanings": [
+        {
+          "ko": "변동, 오르내림, 요동",
+          "en": "An irregular rise and fall or repeated change in level, amount, or value.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ]
+    }
+  ]
+}

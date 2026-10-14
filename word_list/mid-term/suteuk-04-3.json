@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 04-3",
+  "unitTitle": "수특라 04-3",
+  "source": "material/mid-term/수특라 04-3.md",
+  "words": [
+    {
+      "id": "mt-suteuk-04-3-demonstrate",
+      "word": "demonstrate",
+      "sourceMeaning": "입증하다, 보여 주다 (실험이나 증거로 어떤 사실이 참임을 보여 준다는 뜻. '시위하다'라는 뜻도 있지만 여기서는 해당하지 않음)",
+      "meanings": [
+        {
+          "ko": "입증하다, 보여 주다",
+          "en": "To show clearly that something is true by giving proof or evidence.",
+          "wrongEn": "To hide the truth from other people."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-04-3-potential-energy",
+      "word": "potential energy",
+      "sourceMeaning": "위치 에너지 (물체가 놓인 위치 때문에 지니는 에너지. potential은 원래 '잠재적인'이라는 뜻이지만 물리 용어로는 '위치 에너지'로 옮김. gravitational potential energy는 '중력 위치 에너지'로, 천체들이 중력으로 끌려와 부딪힐 때 이 에너지가 방출되어 열로 바뀜)",
+      "meanings": [
+        {
+          "ko": "위치 에너지",
+          "en": "Energy that an object has because of its position, such as its height in a gravitational field.",
+          "wrongEn": "Energy produced by the movement of electricity through a wire."
+        }
+      ]
+    }
+  ]
+}

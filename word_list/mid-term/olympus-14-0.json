@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "올림포스 14-0",
+  "unitTitle": "올림포스 14-0",
+  "source": "material/mid-term/올림포스 14-0.md",
+  "words": [
+    {
+      "id": "mt-olympus-14-0-come-along",
+      "word": "come along",
+      "sourceMeaning": "나타나다",
+      "meanings": [
+        {
+          "ko": "나타나다",
+          "en": "To appear or arrive, especially for the first time.",
+          "wrongEn": "To leave a place quietly without being noticed."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-olympus-14-0-slope",
+      "word": "slope",
+      "sourceMeaning": "기울어지다",
+      "meanings": [
+        {
+          "ko": "기울어지다",
+          "en": "To be at an angle, with one end higher than the other.",
+          "wrongEn": "To stay completely flat and level."
+        }
+      ]
+    },
+    {
+      "id": "mt-olympus-14-0-specimen",
+      "word": "specimen",
+      "sourceMeaning": "표본",
+      "meanings": [
+        {
+          "ko": "표본",
+          "en": "An example of something, such as an animal or plant, kept for scientific study.",
+          "wrongEn": "A person who sells tickets at a cinema."
+        }
+      ]
+    },
+    {
+      "id": "mt-olympus-14-0-mounted",
+      "word": "mounted",
+      "sourceMeaning": "~에 부착된",
+      "meanings": [
+        {
+          "ko": "~에 부착된",
+          "en": "Fixed onto a surface or support, especially for display.",
+          "wrongEn": "Loose and free to move around."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-olympus-14-0-sorely",
+      "word": "sorely",
+      "sourceMeaning": "심하게",
+      "meanings": [
+        {
+          "ko": "심하게",
+          "en": "To a great or painful degree; severely.",
+          "wrongEn": "Slightly and without much effect."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-olympus-14-0-ligaments",
+      "word": "ligaments",
+      "sourceMeaning": "인대",
+      "meanings": [
+        {
+          "ko": "인대",
+          "en": "Strong bands of tissue that connect bones and hold joints together.",
+          "wrongEn": "Thin tubes that carry blood back to the heart."
+        }
+      ]
+    }
+  ]
+}

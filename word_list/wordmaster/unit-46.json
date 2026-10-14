@@ -1,0 +1,742 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "46",
+  "unitTitle": "46과",
+  "source": "material/wordmaster_25_30_46_50.md",
+  "words": [
+    {
+      "id": "wm-46-encircle",
+      "word": "encircle",
+      "sourceMeaning": "에워싸다, 둘러싸다",
+      "meanings": [
+        {
+          "ko": "에워싸다, 둘러싸다",
+          "en": "To form a circle around someone or something.",
+          "wrongEn": "To remove the outer covering from fruit."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [],
+      "studyNote": "enclose(동봉하다)와 헷갈림"
+    },
+    {
+      "id": "wm-46-notion",
+      "word": "notion",
+      "sourceMeaning": "개념, 의견",
+      "meanings": [
+        {
+          "ko": "개념",
+          "en": "An idea or understanding of what something is.",
+          "wrongEn": "A building where grain is stored after harvest."
+        },
+        {
+          "ko": "의견",
+          "en": "A personal belief or view about something.",
+          "wrongEn": "The distance between the lowest and highest notes of an instrument."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "의견\u001fA personal belief or view about something."
+      ]
+    },
+    {
+      "id": "wm-46-disgust",
+      "word": "disgust",
+      "sourceMeaning": "혐오감, 역겹게 하다",
+      "meanings": [
+        {
+          "ko": "혐오감",
+          "en": "A strong feeling of dislike toward something unpleasant or offensive.",
+          "wrongEn": "A formal invitation to attend a public event."
+        },
+        {
+          "ko": "역겹게 하다",
+          "en": "To cause a strong feeling of dislike or revulsion.",
+          "wrongEn": "To produce a bright light by burning fuel."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-fragment",
+      "word": "fragment",
+      "sourceMeaning": "일부분, 부서진 조각",
+      "meanings": [
+        {
+          "ko": "일부분, 부서진 조각",
+          "en": "A small part, especially one broken off from a larger whole.",
+          "wrongEn": "A person responsible for collecting taxes."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-oversee",
+      "word": "oversee",
+      "sourceMeaning": "감독하다, 감시하다",
+      "meanings": [
+        {
+          "ko": "감독하다, 감시하다",
+          "en": "To watch and direct work to make sure it is done properly.",
+          "wrongEn": "To soften food by keeping it in warm water."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [],
+      "studyNote": "overlook와 헷갈림"
+    },
+    {
+      "id": "wm-46-creep",
+      "word": "creep",
+      "sourceMeaning": "기다, (덩굴 등이) 얽히다, 포복, 서행",
+      "meanings": [
+        {
+          "ko": "기다",
+          "en": "To move slowly and close to the ground.",
+          "wrongEn": "To turn a solid substance into vapor by heating it."
+        },
+        {
+          "ko": "(덩굴 등이) 얽히다",
+          "en": "For a plant to spread slowly along a surface or around a support.",
+          "wrongEn": "To produce a ringing sound by striking glass."
+        },
+        {
+          "ko": "포복, 서행",
+          "en": "Very slow movement, often close to the ground.",
+          "wrongEn": "An agreement that ends a war between countries."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "(덩굴 등이) 얽히다\u001fFor a plant to spread slowly along a surface or around a support.",
+        "포복, 서행\u001fVery slow movement, often close to the ground."
+      ]
+    },
+    {
+      "id": "wm-46-clarify",
+      "word": "clarify",
+      "sourceMeaning": "분명히 하다, 명료하게 하다",
+      "meanings": [
+        {
+          "ko": "분명히 하다, 명료하게 하다",
+          "en": "To make something easier to understand by explaining it clearly.",
+          "wrongEn": "To decorate a surface with small colored stones."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-contagious",
+      "word": "contagious",
+      "sourceMeaning": "전염성의, 감염성의",
+      "meanings": [
+        {
+          "ko": "전염성의, 감염성의",
+          "en": "Able to pass from one person to another through infection.",
+          "wrongEn": "Designed to last for only a short period of time."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-deterioration",
+      "word": "deterioration",
+      "sourceMeaning": "악화, (가치의) 하락",
+      "meanings": [
+        {
+          "ko": "악화",
+          "en": "The process of becoming worse in condition or quality.",
+          "wrongEn": "The act of officially announcing a person's appointment."
+        },
+        {
+          "ko": "(가치의) 하락",
+          "en": "A decline in the worth or value of something.",
+          "wrongEn": "The movement of water from roots to leaves in a plant."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "(가치의) 하락\u001fA decline in the worth or value of something."
+      ]
+    },
+    {
+      "id": "wm-46-currency",
+      "word": "currency",
+      "sourceMeaning": "통화, 통용",
+      "meanings": [
+        {
+          "ko": "통화",
+          "en": "The money used in a particular country or region.",
+          "wrongEn": "The mark left on a surface by a sharp tool."
+        },
+        {
+          "ko": "통용",
+          "en": "The state of being widely used or accepted.",
+          "wrongEn": "The process of cooling a liquid until it becomes solid."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "통용\u001fThe state of being widely used or accepted."
+      ],
+      "studyNote": "2번 뜻(통용)이 정말 안 외워짐"
+    },
+    {
+      "id": "wm-46-janitor",
+      "word": "janitor",
+      "sourceMeaning": "문지기, 관리인, 잡역부",
+      "meanings": [
+        {
+          "ko": "문지기",
+          "en": "A person responsible for watching or controlling an entrance.",
+          "wrongEn": "A person who studies the behavior of insects."
+        },
+        {
+          "ko": "관리인, 잡역부",
+          "en": "A person who cleans and takes care of a building.",
+          "wrongEn": "A person who makes maps of the stars."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-46-blush",
+      "word": "blush",
+      "sourceMeaning": "얼굴을 붉히다, 부끄러워하다",
+      "meanings": [
+        {
+          "ko": "얼굴을 붉히다",
+          "en": "To become red in the face because of an emotion.",
+          "wrongEn": "To separate a mixture into its original ingredients."
+        },
+        {
+          "ko": "부끄러워하다",
+          "en": "To show embarrassment or shame, often by becoming red in the face.",
+          "wrongEn": "To measure the distance a vehicle has traveled."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-intervene",
+      "word": "intervene",
+      "sourceMeaning": "사이에 끼어들다, 개입하다, 방해하다",
+      "meanings": [
+        {
+          "ko": "사이에 끼어들다, 개입하다",
+          "en": "To become involved in a situation in order to change what happens.",
+          "wrongEn": "To preserve fruit by cooking it with sugar."
+        },
+        {
+          "ko": "방해하다",
+          "en": "To come between events and prevent or delay something.",
+          "wrongEn": "To give a speech praising someone's achievements."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "방해하다\u001fTo come between events and prevent or delay something."
+      ]
+    },
+    {
+      "id": "wm-46-nomad",
+      "word": "nomad",
+      "sourceMeaning": "유목민, 방랑자",
+      "meanings": [
+        {
+          "ko": "유목민",
+          "en": "A member of a group that moves from place to place with its animals.",
+          "wrongEn": "A person trained to operate on sick or injured patients."
+        },
+        {
+          "ko": "방랑자",
+          "en": "A person who moves frequently instead of living in one fixed place.",
+          "wrongEn": "A ruler who inherits authority over a kingdom."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-cuisine",
+      "word": "cuisine",
+      "sourceMeaning": "(독특한) 요리, 조리법",
+      "meanings": [
+        {
+          "ko": "(독특한) 요리, 조리법",
+          "en": "A style of food and cooking associated with a place or tradition.",
+          "wrongEn": "A set of rules for writing words correctly."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-dare",
+      "word": "dare",
+      "sourceMeaning": "감히 ~하다",
+      "meanings": [
+        {
+          "ko": "감히 ~하다",
+          "en": "To have enough courage or boldness to do something.",
+          "wrongEn": "To make a sharp edge smooth by rubbing it."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-solvent",
+      "word": "solvent",
+      "sourceMeaning": "용해력이 있는, 지불 능력이 있는, 용제",
+      "meanings": [
+        {
+          "ko": "용해력이 있는",
+          "en": "Able to dissolve another substance.",
+          "wrongEn": "Able to reflect most of the light that reaches it."
+        },
+        {
+          "ko": "지불 능력이 있는",
+          "en": "Able to pay the debts that one owes.",
+          "wrongEn": "Born and raised in a particular region."
+        },
+        {
+          "ko": "용제",
+          "en": "A substance, often a liquid, that dissolves another substance.",
+          "wrongEn": "A written record of events arranged by date."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "지불 능력이 있는\u001fAble to pay the debts that one owes.",
+        "용제\u001fA substance, often a liquid, that dissolves another substance."
+      ]
+    },
+    {
+      "id": "wm-46-cultivate",
+      "word": "cultivate",
+      "sourceMeaning": "경작하다, 양성하다, 계발하다",
+      "meanings": [
+        {
+          "ko": "경작하다",
+          "en": "To prepare land and grow crops on it.",
+          "wrongEn": "To remove stains from clothing with a chemical."
+        },
+        {
+          "ko": "양성하다, 계발하다",
+          "en": "To encourage the growth of a skill, quality, or ability.",
+          "wrongEn": "To send a message through a network of cables."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "양성하다, 계발하다\u001fTo encourage the growth of a skill, quality, or ability."
+      ]
+    },
+    {
+      "id": "wm-46-ascent",
+      "word": "ascent",
+      "sourceMeaning": "상승, 오름",
+      "meanings": [
+        {
+          "ko": "상승, 오름",
+          "en": "Movement upward or toward a higher position.",
+          "wrongEn": "An official order preventing someone from entering a place."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-46-advocate",
+      "word": "advocate",
+      "sourceMeaning": "옹호자, 지지자, 지지하다",
+      "meanings": [
+        {
+          "ko": "옹호자, 지지자",
+          "en": "A person who publicly supports an idea or cause.",
+          "wrongEn": "A person who repairs mechanical clocks."
+        },
+        {
+          "ko": "지지하다",
+          "en": "To publicly support or recommend an idea or action.",
+          "wrongEn": "To carry water from a river to a field through channels."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-46-spur",
+      "word": "spur",
+      "sourceMeaning": "박차, 자극(제), 박차를 가하다",
+      "meanings": [
+        {
+          "ko": "박차",
+          "en": "A small pointed tool on a rider's boot used to urge a horse forward.",
+          "wrongEn": "A flat piece of glass that separates two rooms."
+        },
+        {
+          "ko": "자극(제)",
+          "en": "Something that encourages action or greater effort.",
+          "wrongEn": "A measurement of the salt contained in water."
+        },
+        {
+          "ko": "박차를 가하다",
+          "en": "To urge someone or something into action or greater activity.",
+          "wrongEn": "To remove the bones from a fish before cooking it."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "자극(제)\u001fSomething that encourages action or greater effort."
+      ]
+    },
+    {
+      "id": "wm-46-discern",
+      "word": "discern",
+      "sourceMeaning": "식별하다, 분별하다, 인식하다",
+      "meanings": [
+        {
+          "ko": "식별하다, 분별하다, 인식하다",
+          "en": "To recognize or distinguish something through careful attention.",
+          "wrongEn": "To divide land into areas for different crops."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "concern과 헷갈림"
+    },
+    {
+      "id": "wm-46-scheme",
+      "word": "scheme",
+      "sourceMeaning": "계획, 체계, 계획하다",
+      "meanings": [
+        {
+          "ko": "계획",
+          "en": "An organized plan for achieving a particular result.",
+          "wrongEn": "A solid material left after a liquid has evaporated."
+        },
+        {
+          "ko": "체계",
+          "en": "An organized arrangement of related parts or ideas.",
+          "wrongEn": "A person who writes music for an orchestra."
+        },
+        {
+          "ko": "계획하다",
+          "en": "To make plans, especially plans kept secret from others.",
+          "wrongEn": "To heat a liquid until bubbles rise to its surface."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "체계\u001fAn organized arrangement of related parts or ideas."
+      ]
+    },
+    {
+      "id": "wm-46-weigh",
+      "word": "weigh",
+      "sourceMeaning": "무게를 달다",
+      "meanings": [
+        {
+          "ko": "무게를 달다",
+          "en": "To measure how heavy someone or something is.",
+          "wrongEn": "To join two pieces of cloth with thread."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-46-publicity",
+      "word": "publicity",
+      "sourceMeaning": "널리 알려짐, 명성, 광고, 선전",
+      "meanings": [
+        {
+          "ko": "널리 알려짐, 명성",
+          "en": "Public attention that makes a person or thing widely known.",
+          "wrongEn": "A method of sorting items according to their size."
+        },
+        {
+          "ko": "광고, 선전",
+          "en": "Activity intended to attract public attention to something.",
+          "wrongEn": "A regular payment made after someone stops working."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "광고, 선전\u001fActivity intended to attract public attention to something."
+      ]
+    },
+    {
+      "id": "wm-46-declare",
+      "word": "declare",
+      "sourceMeaning": "선포하다, 선언하다",
+      "meanings": [
+        {
+          "ko": "선포하다, 선언하다",
+          "en": "To announce something clearly, publicly, or officially.",
+          "wrongEn": "To make a surface level by filling its low parts."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-brisk",
+      "word": "brisk",
+      "sourceMeaning": "활발한, 번창하는, 상쾌한",
+      "meanings": [
+        {
+          "ko": "활발한",
+          "en": "Quick, energetic, and lively.",
+          "wrongEn": "Made entirely from materials that can dissolve in water."
+        },
+        {
+          "ko": "번창하는",
+          "en": "Showing a high level of business or activity.",
+          "wrongEn": "Unable to be seen without a microscope."
+        },
+        {
+          "ko": "상쾌한",
+          "en": "Cool and fresh in a way that makes one feel alert.",
+          "wrongEn": "Located far below the surface of the sea."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-46-exile",
+      "word": "exile",
+      "sourceMeaning": "망명, 망명자, 망명시키다",
+      "meanings": [
+        {
+          "ko": "망명",
+          "en": "The condition of living away from one's own country, often by force.",
+          "wrongEn": "A public competition in which people show their skills."
+        },
+        {
+          "ko": "망명자",
+          "en": "A person who lives away from their country because they cannot safely return or are forced away.",
+          "wrongEn": "A worker who unloads goods from ships."
+        },
+        {
+          "ko": "망명시키다",
+          "en": "To force someone to leave their own country.",
+          "wrongEn": "To add a protective cover to an electrical wire."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-whisper",
+      "word": "whisper",
+      "sourceMeaning": "속삭이다, 속삭임",
+      "meanings": [
+        {
+          "ko": "속삭이다",
+          "en": "To speak very quietly without using a full voice.",
+          "wrongEn": "To crush dried seeds into a powder."
+        },
+        {
+          "ko": "속삭임",
+          "en": "Very quiet speech that uses little or no voice.",
+          "wrongEn": "A strong current of water moving toward the shore."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-unanimous",
+      "word": "unanimous",
+      "sourceMeaning": "만장일치의, 합의의",
+      "meanings": [
+        {
+          "ko": "만장일치의, 합의의",
+          "en": "Agreed on by every person in a group.",
+          "wrongEn": "Capable of changing into vapor at room temperature."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-deviation",
+      "word": "deviation",
+      "sourceMeaning": "변경, 일탈",
+      "meanings": [
+        {
+          "ko": "변경, 일탈",
+          "en": "A change or departure from a usual path, rule, or standard.",
+          "wrongEn": "An official ceremony at which a ship is named."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "depletion과 헷갈림"
+    },
+    {
+      "id": "wm-46-dissolve",
+      "word": "dissolve",
+      "sourceMeaning": "용해하다, 해산하다, 해소하다",
+      "meanings": [
+        {
+          "ko": "용해하다",
+          "en": "To mix into a liquid until separate particles are no longer visible.",
+          "wrongEn": "To record spoken words as written text."
+        },
+        {
+          "ko": "해산하다",
+          "en": "To formally end a group, organization, or assembly.",
+          "wrongEn": "To calculate the area enclosed by a shape."
+        },
+        {
+          "ko": "해소하다",
+          "en": "To make a feeling, problem, or difficulty disappear.",
+          "wrongEn": "To strengthen a wall by adding upright supports."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "해산하다\u001fTo formally end a group, organization, or assembly.",
+        "해소하다\u001fTo make a feeling, problem, or difficulty disappear."
+      ]
+    },
+    {
+      "id": "wm-46-constraint",
+      "word": "constraint",
+      "sourceMeaning": "강제, 압박, 거북스러움",
+      "meanings": [
+        {
+          "ko": "강제, 압박",
+          "en": "Pressure or restriction that limits freedom of action.",
+          "wrongEn": "A small opening through which air enters a machine."
+        },
+        {
+          "ko": "거북스러움",
+          "en": "An uncomfortable lack of ease in behavior or social contact.",
+          "wrongEn": "The bright trail left by an object moving through the sky."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "'순응하는', '제약'이라는 의미로 착각함"
+    },
+    {
+      "id": "wm-46-itch",
+      "word": "itch",
+      "sourceMeaning": "가려움, (~하고 싶은) 욕구, 가렵다, (~하고 싶어) 못 견디다",
+      "meanings": [
+        {
+          "ko": "가려움",
+          "en": "An irritating feeling on the skin that makes one want to scratch.",
+          "wrongEn": "A payment made in advance to reserve a room."
+        },
+        {
+          "ko": "(~하고 싶은) 욕구",
+          "en": "A strong, restless desire to do something.",
+          "wrongEn": "The outer layer of a planet that is made of solid rock."
+        },
+        {
+          "ko": "가렵다",
+          "en": "To have an irritating skin sensation that makes one want to scratch.",
+          "wrongEn": "To deliver goods to another country for sale."
+        },
+        {
+          "ko": "(~하고 싶어) 못 견디다",
+          "en": "To feel very eager and restless to do something.",
+          "wrongEn": "To turn a written message into a secret code."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "(~하고 싶은) 욕구\u001fA strong, restless desire to do something.",
+        "(~하고 싶어) 못 견디다\u001fTo feel very eager and restless to do something."
+      ]
+    },
+    {
+      "id": "wm-46-fling",
+      "word": "fling",
+      "sourceMeaning": "내던지다, 돌진하다",
+      "meanings": [
+        {
+          "ko": "내던지다",
+          "en": "To throw something suddenly and forcefully.",
+          "wrongEn": "To make a drawing at a smaller scale."
+        },
+        {
+          "ko": "돌진하다",
+          "en": "To move or throw oneself suddenly and forcefully in a direction.",
+          "wrongEn": "To allow food to cool slowly before serving it."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "돌진하다\u001fTo move or throw oneself suddenly and forcefully in a direction."
+      ]
+    },
+    {
+      "id": "wm-46-delude",
+      "word": "delude",
+      "sourceMeaning": "속이다, 착각하게 되다",
+      "meanings": [
+        {
+          "ko": "속이다, 착각하게 하다",
+          "en": "To make someone believe something that is not true.",
+          "wrongEn": "To mark the position of a star on a map."
+        }
+      ],
+      "sourceNote": "원문의 \"착각하게 되다\"는 타동사 delude의 의미에 맞게 \"착각하게 하다\"로 바로잡았습니다. sourceMeaning에는 원문을 보존했습니다."
+    },
+    {
+      "id": "wm-46-dehydrate",
+      "word": "dehydrate",
+      "sourceMeaning": "탈수하다, 건조시키다",
+      "meanings": [
+        {
+          "ko": "탈수하다",
+          "en": "To lose water from the body or cause the body to lose water.",
+          "wrongEn": "To arrange objects in order of their age."
+        },
+        {
+          "ko": "건조시키다",
+          "en": "To remove water from something in order to dry it.",
+          "wrongEn": "To produce a musical sound by blowing air through a tube."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-underneath",
+      "word": "underneath",
+      "sourceMeaning": "~의 아래에, 밑에",
+      "meanings": [
+        {
+          "ko": "~의 아래에, 밑에",
+          "en": "In a position below or directly under something.",
+          "wrongEn": "At the same time as another event."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-metabolism",
+      "word": "metabolism",
+      "sourceMeaning": "물질대사, 신진대사",
+      "meanings": [
+        {
+          "ko": "물질대사, 신진대사",
+          "en": "The chemical processes that keep a living body functioning.",
+          "wrongEn": "The system by which a country selects its political leaders."
+        }
+      ]
+    },
+    {
+      "id": "wm-46-appoint",
+      "word": "appoint",
+      "sourceMeaning": "임명[지명]하다, (시간, 장소를) 정하다",
+      "meanings": [
+        {
+          "ko": "임명[지명]하다",
+          "en": "To officially choose someone for a job or duty.",
+          "wrongEn": "To reshape metal by striking it repeatedly."
+        },
+        {
+          "ko": "(시간, 장소를) 정하다",
+          "en": "To fix a time or place for something to happen.",
+          "wrongEn": "To remove dust from the surface of an object."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "(시간, 장소를) 정하다\u001fTo fix a time or place for something to happen."
+      ]
+    }
+  ]
+}

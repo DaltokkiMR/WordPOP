@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 04-1",
+  "unitTitle": "수특라 04-1",
+  "source": "material/mid-term/수특라 04-1.md",
+  "words": [
+    {
+      "id": "mt-suteuk-04-1-raid",
+      "word": "raid",
+      "sourceMeaning": "뒤지다 (군사 용어로는 '급습하다'이지만, 여기서는 먹을 것을 찾아 냉장고나 찬장을 뒤진다는 뜻. raiding은 동명사로 common themes의 구체적 예 중 하나)",
+      "meanings": [
+        {
+          "ko": "뒤지다",
+          "en": "To search through a place to take things from it, especially food.",
+          "wrongEn": "To put things back neatly where they belong."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-04-1-pleasurable",
+      "word": "pleasurable",
+      "sourceMeaning": "즐거운, 기분 좋은 (pleasure '즐거움'에 '~할 만한'이라는 뜻의 -able이 붙은 형용사)",
+      "meanings": [
+        {
+          "ko": "즐거운, 기분 좋은",
+          "en": "Giving enjoyment or pleasure.",
+          "wrongEn": "Causing pain or strong discomfort."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-04-1-thoughtlessness",
+      "word": "thoughtlessness",
+      "sourceMeaning": "무분별, 사려 깊지 못함 (thought '생각'에 '~이 없는'이라는 뜻의 -less와 명사를 만드는 -ness가 붙은 말. 여기서는 아이들의 경험을 깊이 생각하지 않는 태도)",
+      "meanings": [
+        {
+          "ko": "무분별, 사려 깊지 못함",
+          "en": "The quality of not thinking about how one's actions affect others.",
+          "wrongEn": "The quality of being very careful and considerate."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-04-1-rigid",
+      "word": "rigid",
+      "sourceMeaning": "엄격한, 융통성 없는 (본래 '단단한, 굳은'이라는 뜻이며, 여기서는 기준과 규정을 지나치게 딱딱하게 해석한다는 뜻)",
+      "meanings": [
+        {
+          "ko": "엄격한, 융통성 없는",
+          "en": "Strict and unwilling to change or adapt.",
+          "wrongEn": "Easily changed to fit new situations."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-04-1-equate",
+      "word": "equate",
+      "sourceMeaning": "동일시하다 (equate A with B는 'A를 B와 같은 것으로 여기다'. 여기서는 보육의 질을 규정 준수와 같은 것으로 여기는 생각)",
+      "meanings": [
+        {
+          "ko": "동일시하다",
+          "en": "To consider one thing to be the same as or equal to another.",
+          "wrongEn": "To separate one thing clearly from another."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-04-1-compliant",
+      "word": "compliant",
+      "sourceMeaning": "(규칙 등을) 따르는, 준수하는 (be compliant with는 '~을 준수하다'. 명사형은 compliance '준수')",
+      "meanings": [
+        {
+          "ko": "(규칙 등을) 따르는, 준수하는",
+          "en": "Obeying a rule, law, or standard.",
+          "wrongEn": "Complaining about something loudly and often."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    }
+  ]
+}

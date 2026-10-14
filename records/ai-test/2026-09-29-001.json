@@ -1,0 +1,4586 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "kind": "correct",
+      "difficulty": "easy",
+      "intent": "대표·사절이라는 delegate의 명사 뜻을 알아보는지 확인하는 쉬운 문항입니다. 나머지 보기는 음식·섬유·요리·바느질처럼 뜻이 분명히 다른 틀린 정의입니다.",
+      "answerIndex": 3,
+      "explanation": "옳은 정의는 delegate '사절, 대표'(집단을 대신해 말하거나 행동하도록 뽑힌 사람)입니다. peculiar, particular, despise, detest에 붙은 정의는 모두 이 단어들의 어떤 뜻과도 관계가 없습니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-27-peculiar",
+            "word": "peculiar",
+            "sourceMeaning": "독특한",
+            "meanings": [
+              {
+                "ko": "독특한",
+                "en": "Unusual or distinctive in a way that sets something apart.",
+                "wrongEn": "Safe to eat after being heated."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [
+              "독특한\u001fUnusual or distinctive in a way that sets something apart."
+            ],
+            "studyNote": "particular(특정한)와 헷갈림",
+            "key": "peculiar",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 27과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-27.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "27",
+                "unitTitle": "27과",
+                "wordId": "wm-27-peculiar",
+                "meaningKeys": [
+                  "독특한\u001fUnusual or distinctive in a way that sets something apart."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "Safe to eat after being heated.",
+          "isCorrect": false,
+          "explanation": "peculiar는 '독특한, 특이한'이라는 뜻입니다. '가열하면 먹어도 안전한'이라는 뜻은 어떤 의미에도 없습니다."
+        },
+        {
+          "word": {
+            "id": "wm-26-particular",
+            "word": "particular",
+            "sourceMeaning": "특정한, 개개의, 사항, (-s)상세",
+            "meanings": [
+              {
+                "ko": "특정한",
+                "en": "Referring to one specific person or thing rather than others.",
+                "wrongEn": "Having no fixed shape and flowing freely."
+              },
+              {
+                "ko": "개개의",
+                "en": "Considered separately as an individual item.",
+                "wrongEn": "Made entirely from natural fibers."
+              },
+              {
+                "ko": "사항, (-s)상세",
+                "en": "A specific fact or detail about something, usually expressed in the plural.",
+                "wrongEn": "A strong desire to travel to distant places."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "개개의\u001fConsidered separately as an individual item.",
+              "사항, (-s)상세\u001fA specific fact or detail about something, usually expressed in the plural."
+            ],
+            "key": "particular",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 26과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-26.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "26",
+                "unitTitle": "26과",
+                "wordId": "wm-26-particular",
+                "meaningKeys": [
+                  "특정한\u001fReferring to one specific person or thing rather than others.",
+                  "개개의\u001fConsidered separately as an individual item.",
+                  "사항, (-s)상세\u001fA specific fact or detail about something, usually expressed in the plural."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "Made entirely from natural fibers.",
+          "isCorrect": false,
+          "explanation": "particular는 '특정한', '개개의', '사항·상세' 같은 뜻입니다. '천연 섬유로만 만든'이라는 뜻은 없습니다."
+        },
+        {
+          "word": {
+            "id": "wm-47-despise",
+            "word": "despise",
+            "sourceMeaning": "경멸하다",
+            "meanings": [
+              {
+                "ko": "경멸하다",
+                "en": "To regard someone or something as worthless and feel strong dislike.",
+                "wrongEn": "To prepare food by cooking it in boiling water."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [
+              "경멸하다\u001fTo regard someone or something as worthless and feel strong dislike."
+            ],
+            "studyNote": "despite와 헷갈림",
+            "key": "despise",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 47과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-47.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "47",
+                "unitTitle": "47과",
+                "wordId": "wm-47-despise",
+                "meaningKeys": [
+                  "경멸하다\u001fTo regard someone or something as worthless and feel strong dislike."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "To prepare food by cooking it in boiling water.",
+          "isCorrect": false,
+          "explanation": "despise는 '경멸하다'라는 뜻입니다. '끓는 물에 삶아 요리하다'라는 뜻은 없습니다. despite(~에도 불구하고)와도 구별해 두세요."
+        },
+        {
+          "word": {
+            "id": "wm-47-delegate",
+            "word": "delegate",
+            "sourceMeaning": "파견하다, 사절, 대표",
+            "meanings": [
+              {
+                "ko": "파견하다",
+                "en": "To send someone to represent others or carry out a task.",
+                "wrongEn": "To measure temperature with a scientific instrument."
+              },
+              {
+                "ko": "사절, 대표",
+                "en": "A person chosen to speak or act on behalf of a group.",
+                "wrongEn": "A period during which an animal remains dormant in winter."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "delude(속이다), despise(경멸하다)와 헷갈림",
+            "key": "delegate",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 47과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-47.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "47",
+                "unitTitle": "47과",
+                "wordId": "wm-47-delegate",
+                "meaningKeys": [
+                  "파견하다\u001fTo send someone to represent others or carry out a task.",
+                  "사절, 대표\u001fA person chosen to speak or act on behalf of a group."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "A person chosen to speak or act on behalf of a group of people.",
+          "isCorrect": true,
+          "explanation": "delegate의 명사 뜻 '사절, 대표'를 바르게 풀어 쓴 정의입니다. 집단을 대신해 말하거나 행동하는 사람을 가리킵니다."
+        },
+        {
+          "word": {
+            "id": "wm-49-detest",
+            "word": "detest",
+            "sourceMeaning": "혐오하다, 미워하다",
+            "meanings": [
+              {
+                "ko": "혐오하다, 미워하다",
+                "en": "To dislike someone or something very strongly.",
+                "wrongEn": "To join pieces of cloth using a needle and thread."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "key": "detest",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-detest",
+                "meaningKeys": [
+                  "혐오하다, 미워하다\u001fTo dislike someone or something very strongly."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To join pieces of cloth using a needle and thread.",
+          "isCorrect": false,
+          "explanation": "detest는 '몹시 싫어하다, 혐오하다'라는 뜻입니다. '바늘과 실로 천을 잇다'라는 뜻은 없습니다."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "kind": "incorrect",
+      "difficulty": "easy",
+      "intent": "conform '일치하다', confine '가두다', contend '주장하다' 같은 뜻을 확인하면서 뜻이 분명히 다른 constraint의 틀린 정의 하나를 찾아내는 쉬운 문항입니다.",
+      "answerIndex": 1,
+      "explanation": "틀린 정의는 constraint에 붙은 '기계로 공기가 들어가는 작은 구멍'입니다. constraint는 '강제, 압박, 제약'이라는 뜻입니다. 나머지 네 보기는 각 단어에서 고른 뜻을 바르게 풀어 썼습니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-29-conform",
+            "word": "conform",
+            "sourceMeaning": "순응하다, 일치하다",
+            "meanings": [
+              {
+                "ko": "순응하다",
+                "en": "To behave according to an accepted rule or standard.",
+                "wrongEn": "To remove water from clothes by twisting them."
+              },
+              {
+                "ko": "일치하다",
+                "en": "To match a required pattern, description, or standard.",
+                "wrongEn": "To travel around an object in a circular path."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "일치하다\u001fTo match a required pattern, description, or standard."
+            ],
+            "studyNote": "confirm(확정하다)과 헷갈림",
+            "key": "conform",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 29과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-29.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "29",
+                "unitTitle": "29과",
+                "wordId": "wm-29-conform",
+                "meaningKeys": [
+                  "순응하다\u001fTo behave according to an accepted rule or standard.",
+                  "일치하다\u001fTo match a required pattern, description, or standard."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "To match or agree with a required pattern, description, or standard.",
+          "isCorrect": true,
+          "explanation": "conform의 '일치하다, 부합하다'라는 뜻을 바르게 풀어 쓴 정의입니다. confirm(확정하다)과 헷갈리지 마세요."
+        },
+        {
+          "word": {
+            "id": "wm-46-constraint",
+            "word": "constraint",
+            "sourceMeaning": "강제, 압박, 거북스러움",
+            "meanings": [
+              {
+                "ko": "강제, 압박",
+                "en": "Pressure or restriction that limits freedom of action.",
+                "wrongEn": "A small opening through which air enters a machine."
+              },
+              {
+                "ko": "거북스러움",
+                "en": "An uncomfortable lack of ease in behavior or social contact.",
+                "wrongEn": "The bright trail left by an object moving through the sky."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "studyNote": "'순응하는'이라는 의미로 착각함",
+            "key": "constraint",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 46과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-46.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "46",
+                "unitTitle": "46과",
+                "wordId": "wm-46-constraint",
+                "meaningKeys": [
+                  "강제, 압박\u001fPressure or restriction that limits freedom of action.",
+                  "거북스러움\u001fAn uncomfortable lack of ease in behavior or social contact."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "A small opening through which air enters a machine.",
+          "isCorrect": false,
+          "explanation": "constraint는 '행동의 자유를 제한하는 압박·제약' 또는 '거북스러움'이라는 뜻입니다. '공기가 들어가는 작은 구멍'이라는 뜻은 없으므로 틀린 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-29-confine",
+            "word": "confine",
+            "sourceMeaning": "제한하다, 가두다, 한계",
+            "meanings": [
+              {
+                "ko": "제한하다",
+                "en": "To keep something within a particular limit or range.",
+                "wrongEn": "To prepare soil for growing crops."
+              },
+              {
+                "ko": "가두다",
+                "en": "To keep a person or animal inside a restricted place.",
+                "wrongEn": "To make a loud public announcement of good news."
+              },
+              {
+                "ko": "한계",
+                "en": "The boundaries or limits of a place or situation, usually expressed as confines.",
+                "wrongEn": "The amount of money paid for one hour of work."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "studyNote": "refine(정제하다)와 헷갈림",
+            "key": "confine",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 29과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-29.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "29",
+                "unitTitle": "29과",
+                "wordId": "wm-29-confine",
+                "meaningKeys": [
+                  "제한하다\u001fTo keep something within a particular limit or range.",
+                  "가두다\u001fTo keep a person or animal inside a restricted place.",
+                  "한계\u001fThe boundaries or limits of a place or situation, usually expressed as confines."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "To keep a person or animal shut inside a limited space.",
+          "isCorrect": true,
+          "explanation": "confine의 '가두다'라는 뜻을 바르게 풀어 쓴 정의입니다. refine(정제하다)과 구별해 두세요."
+        },
+        {
+          "word": {
+            "id": "wm-28-conceive",
+            "word": "conceive",
+            "sourceMeaning": "생각해 내다, 마음속에 그리다",
+            "meanings": [
+              {
+                "ko": "생각해 내다, 마음속에 그리다",
+                "en": "To form an idea, plan, or mental image.",
+                "wrongEn": "To remove the skin from a piece of fruit."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "deceive와 헷갈림",
+            "key": "conceive",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 28과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-28.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "28",
+                "unitTitle": "28과",
+                "wordId": "wm-28-conceive",
+                "meaningKeys": [
+                  "생각해 내다, 마음속에 그리다\u001fTo form an idea, plan, or mental image."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "To form an idea, plan, or picture in the mind.",
+          "isCorrect": true,
+          "explanation": "conceive의 '생각해 내다, 마음속에 그리다'라는 뜻을 바르게 풀어 쓴 정의입니다. deceive(속이다)와 헷갈리지 마세요."
+        },
+        {
+          "word": {
+            "id": "wm-26-contend",
+            "word": "contend",
+            "sourceMeaning": "싸우다, 주장하다, 경쟁하다",
+            "meanings": [
+              {
+                "ko": "싸우다",
+                "en": "To struggle against someone or something in a conflict.",
+                "wrongEn": "To record sound for later playback."
+              },
+              {
+                "ko": "주장하다",
+                "en": "To state that something is true, especially in an argument.",
+                "wrongEn": "To transport goods in a large ship."
+              },
+              {
+                "ko": "경쟁하다",
+                "en": "To compete with others for a prize, position, or advantage.",
+                "wrongEn": "To make a surface smoother by rubbing it."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "studyNote": "content, intend와 헷갈림",
+            "key": "contend",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 26과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-26.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "26",
+                "unitTitle": "26과",
+                "wordId": "wm-26-contend",
+                "meaningKeys": [
+                  "싸우다\u001fTo struggle against someone or something in a conflict.",
+                  "주장하다\u001fTo state that something is true, especially in an argument.",
+                  "경쟁하다\u001fTo compete with others for a prize, position, or advantage."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "To claim or argue firmly that something is true.",
+          "isCorrect": true,
+          "explanation": "contend의 '주장하다'라는 뜻을 바르게 풀어 쓴 정의입니다."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "kind": "correct",
+      "difficulty": "medium",
+      "intent": "retort '반박하다'의 옳은 정의를 고르는 문항입니다. 분명히 틀린 보기(기압계, 온도 측정)와, 학습자가 헷갈리는 단어의 뜻을 가져온 그럴듯한 오답(withdraw–drawback, reprove–improve)을 섞었습니다.",
+      "answerIndex": 2,
+      "explanation": "옳은 정의는 retort '반박하다, 말대꾸하다'입니다. withdraw에 붙은 '단점'은 drawback의 뜻이고, reprove에 붙은 '개선하다'는 improve의 뜻입니다. setback과 proclaim의 정의는 전혀 관계없는 내용입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-50-setback",
+            "word": "setback",
+            "sourceMeaning": "좌절, 차질",
+            "meanings": [
+              {
+                "ko": "좌절, 차질",
+                "en": "An event or problem that delays progress or makes success more difficult.",
+                "wrongEn": "A device used to measure atmospheric pressure."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "studyNote": "drawback과 헷갈림",
+            "key": "setback",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 50과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-50.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "50",
+                "unitTitle": "50과",
+                "wordId": "wm-50-setback",
+                "meaningKeys": [
+                  "좌절, 차질\u001fAn event or problem that delays progress or makes success more difficult."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "A device used to measure atmospheric pressure.",
+          "isCorrect": false,
+          "explanation": "setback은 '좌절, 차질'이라는 뜻입니다. 기압을 재는 장치(기압계)라는 뜻은 없습니다."
+        },
+        {
+          "word": {
+            "id": "wm-27-withdraw",
+            "word": "withdraw",
+            "sourceMeaning": "철수하다, 철회하다, (돈을)인출하다",
+            "meanings": [
+              {
+                "ko": "철수하다",
+                "en": "To leave a place or remove people from it.",
+                "wrongEn": "To build a barrier across a river to hold back water."
+              },
+              {
+                "ko": "철회하다",
+                "en": "To take back a statement, offer, or request.",
+                "wrongEn": "To make a large object lighter by removing its center."
+              },
+              {
+                "ko": "(돈을)인출하다",
+                "en": "To take money out of a bank account.",
+                "wrongEn": "To exchange goods directly without using money."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "철수하다\u001fTo leave a place or remove people from it.",
+              "철회하다\u001fTo take back a statement, offer, or request."
+            ],
+            "studyNote": "단점, 결함이라는 뜻을 가진 것으로 자주 헷갈림.\n(drawback과 헷갈리는 것 같음)",
+            "key": "withdraw",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 27과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-27.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "27",
+                "unitTitle": "27과",
+                "wordId": "wm-27-withdraw",
+                "meaningKeys": [
+                  "철수하다\u001fTo leave a place or remove people from it.",
+                  "철회하다\u001fTo take back a statement, offer, or request.",
+                  "(돈을)인출하다\u001fTo take money out of a bank account."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "A feature that makes something less attractive; a disadvantage.",
+          "isCorrect": false,
+          "explanation": "'단점, 결점'은 drawback의 뜻입니다. withdraw는 '철수하다', '철회하다', '(돈을) 인출하다' 같은 뜻의 동사이고, 단점이라는 뜻은 없습니다."
+        },
+        {
+          "word": {
+            "id": "wm-47-retort",
+            "word": "retort",
+            "sourceMeaning": "반박, 말대꾸, 반박하다, 말대꾸하다",
+            "meanings": [
+              {
+                "ko": "반박, 말대꾸",
+                "en": "A quick, sharp reply to criticism or an argument.",
+                "wrongEn": "A form of energy carried by electromagnetic waves."
+              },
+              {
+                "ko": "반박하다, 말대꾸하다",
+                "en": "To reply quickly and sharply to criticism or an argument.",
+                "wrongEn": "To add musical notes to a written melody."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "retreat(후퇴), resort와 헷갈림",
+            "key": "retort",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 47과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-47.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "47",
+                "unitTitle": "47과",
+                "wordId": "wm-47-retort",
+                "meaningKeys": [
+                  "반박, 말대꾸\u001fA quick, sharp reply to criticism or an argument.",
+                  "반박하다, 말대꾸하다\u001fTo reply quickly and sharply to criticism or an argument."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "To reply quickly and sharply, especially to criticism or an argument.",
+          "isCorrect": true,
+          "explanation": "retort의 동사 뜻 '반박하다, 말대꾸하다'를 바르게 풀어 쓴 정의입니다. retreat(후퇴)이나 resort와 헷갈리지 마세요."
+        },
+        {
+          "word": {
+            "id": "wm-47-reprove",
+            "word": "reprove",
+            "sourceMeaning": "꾸짖다, 책망하다",
+            "meanings": [
+              {
+                "ko": "꾸짖다, 책망하다",
+                "en": "To tell someone that their behavior is wrong or unacceptable.",
+                "wrongEn": "To exchange one currency for another at a bank."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "studyNote": "improve, approve와 헷갈림",
+            "key": "reprove",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 47과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-47.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "47",
+                "unitTitle": "47과",
+                "wordId": "wm-47-reprove",
+                "meaningKeys": [
+                  "꾸짖다, 책망하다\u001fTo tell someone that their behavior is wrong or unacceptable."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "To make something better or more effective.",
+          "isCorrect": false,
+          "explanation": "'더 좋게 만들다'는 improve의 뜻입니다. reprove는 '꾸짖다, 책망하다'라는 뜻입니다."
+        },
+        {
+          "word": {
+            "id": "wm-48-proclaim",
+            "word": "proclaim",
+            "sourceMeaning": "선언하다, 증명하다",
+            "meanings": [
+              {
+                "ko": "선언하다",
+                "en": "To announce something publicly and clearly.",
+                "wrongEn": "To record spoken words in written form."
+              },
+              {
+                "ko": "증명하다",
+                "en": "To show or make a fact clearly evident.",
+                "wrongEn": "To measure temperature with a scientific instrument."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "studyNote": "claim(주장하다)와 헷갈림",
+            "key": "proclaim",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-proclaim",
+                "meaningKeys": [
+                  "선언하다\u001fTo announce something publicly and clearly.",
+                  "증명하다\u001fTo show or make a fact clearly evident."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "To measure temperature with a scientific instrument.",
+          "isCorrect": false,
+          "explanation": "proclaim은 '선언하다', '(사실을) 분명히 드러내다·증명하다'라는 뜻입니다. 온도를 잰다는 뜻은 없습니다."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "kind": "incorrect",
+      "difficulty": "medium",
+      "intent": "de-/dis- 단어들의 옳은 정의 사이에서 discern의 틀린 정의를 찾는 문항입니다. 틀린 정의에는 학습자가 헷갈린다고 적은 concern의 뜻 '걱정하다'를 써서 그럴듯하게 만들었습니다.",
+      "answerIndex": 1,
+      "explanation": "틀린 정의는 discern에 붙은 '걱정하다'로, 이것은 concern의 뜻입니다. discern은 '식별하다, 분별하다'라는 뜻입니다. defy, deviation, dispense, dispersal의 정의는 모두 옳습니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-49-defy",
+            "word": "defy",
+            "sourceMeaning": "물리치다, 반항하다, 무시하다",
+            "meanings": [
+              {
+                "ko": "물리치다",
+                "en": "To successfully resist a force or attempt to control or defeat someone.",
+                "wrongEn": "To send a radio signal over a long distance."
+              },
+              {
+                "ko": "반항하다",
+                "en": "To openly refuse to obey a person, rule, or authority.",
+                "wrongEn": "To remove the outer skin from a piece of fruit."
+              },
+              {
+                "ko": "무시하다",
+                "en": "To act without regard for a warning, expectation, or convention.",
+                "wrongEn": "To prepare food by cooking it in boiling water."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "studyNote": "deny와 혼동함",
+            "key": "defy",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-defy",
+                "meaningKeys": [
+                  "물리치다\u001fTo successfully resist a force or attempt to control or defeat someone.",
+                  "반항하다\u001fTo openly refuse to obey a person, rule, or authority.",
+                  "무시하다\u001fTo act without regard for a warning, expectation, or convention."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "To openly refuse to obey a person, rule, or authority.",
+          "isCorrect": true,
+          "explanation": "defy의 '반항하다'라는 뜻을 바르게 풀어 쓴 정의입니다. deny(부인하다)와 헷갈리지 마세요."
+        },
+        {
+          "word": {
+            "id": "wm-46-discern",
+            "word": "discern",
+            "sourceMeaning": "식별하다, 분별하다, 인식하다",
+            "meanings": [
+              {
+                "ko": "식별하다, 분별하다, 인식하다",
+                "en": "To recognize or distinguish something through careful attention.",
+                "wrongEn": "To divide land into areas for different crops."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "studyNote": "concern과 헷갈림",
+            "key": "discern",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 46과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-46.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "46",
+                "unitTitle": "46과",
+                "wordId": "wm-46-discern",
+                "meaningKeys": [
+                  "식별하다, 분별하다, 인식하다\u001fTo recognize or distinguish something through careful attention."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "To feel worried or anxious about something.",
+          "isCorrect": false,
+          "explanation": "'걱정하다'는 concern의 뜻입니다. discern은 '주의 깊게 보고 식별하다, 분별하다'라는 뜻이며 걱정한다는 뜻은 없습니다."
+        },
+        {
+          "word": {
+            "id": "wm-46-deviation",
+            "word": "deviation",
+            "sourceMeaning": "변경, 일탈",
+            "meanings": [
+              {
+                "ko": "변경, 일탈",
+                "en": "A change or departure from a usual path, rule, or standard.",
+                "wrongEn": "An official ceremony at which a ship is named."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "depletion과 헷갈림",
+            "key": "deviation",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 46과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-46.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "46",
+                "unitTitle": "46과",
+                "wordId": "wm-46-deviation",
+                "meaningKeys": [
+                  "변경, 일탈\u001fA change or departure from a usual path, rule, or standard."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "A departure from what is usual, expected, or accepted.",
+          "isCorrect": true,
+          "explanation": "deviation의 '일탈, 벗어남'이라는 뜻을 바르게 풀어 쓴 정의입니다. de+via(길에서 벗어남)로 기억하면 좋습니다."
+        },
+        {
+          "word": {
+            "id": "wm-48-dispense",
+            "word": "dispense",
+            "sourceMeaning": "나누어 주다, 내놓다",
+            "meanings": [
+              {
+                "ko": "나누어 주다, 내놓다",
+                "en": "To give out or supply something to people.",
+                "wrongEn": "To add musical notes to a written melody."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "dispose와 헷갈림",
+            "key": "dispense",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-dispense",
+                "meaningKeys": [
+                  "나누어 주다, 내놓다\u001fTo give out or supply something to people."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "To give out or provide something to people.",
+          "isCorrect": true,
+          "explanation": "dispense의 '나누어 주다, 내놓다'라는 뜻을 바르게 풀어 쓴 정의입니다. dispose(처분하다)와 구별해 두세요."
+        },
+        {
+          "word": {
+            "id": "wm-48-dispersal",
+            "word": "dispersal",
+            "sourceMeaning": "분산, 확산",
+            "meanings": [
+              {
+                "ko": "분산, 확산",
+                "en": "The process of spreading people or things over a wider area.",
+                "wrongEn": "A period during which an animal remains dormant in winter."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "studyNote": "disposal과 헷갈림",
+            "key": "dispersal",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-dispersal",
+                "meaningKeys": [
+                  "분산, 확산\u001fThe process of spreading people or things over a wider area."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "The spreading of people or things over a wide area.",
+          "isCorrect": true,
+          "explanation": "dispersal의 '분산, 확산'이라는 뜻을 바르게 풀어 쓴 정의입니다. disposal(처분)과 헷갈리지 마세요."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "kind": "correct",
+      "difficulty": "medium",
+      "intent": "compulsive '강박의'의 옳은 정의를 고르는 문항입니다. 학습자가 헷갈리는 단어의 뜻을 가져온 그럴듯한 오답(coherent–inherent, afflict–conflict, empirical–imperial)과 분명한 오답(encircle)을 섞었습니다.",
+      "answerIndex": 0,
+      "explanation": "옳은 정의는 compulsive '강박의'(억누르기 어려운 강한 충동에서 나오는)입니다. coherent에는 inherent의 뜻, afflict에는 conflict의 뜻, empirical에는 imperial의 뜻이 붙어 있습니다. encircle에 붙은 '과일 껍질을 벗기다'는 전혀 관계없는 뜻입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-28-compulsive",
+            "word": "compulsive",
+            "sourceMeaning": "강제적인, 강박의",
+            "meanings": [
+              {
+                "ko": "강제적인",
+                "en": "Having a compelling force that makes an action difficult to resist.",
+                "wrongEn": "Able to carry a heavy load without bending."
+              },
+              {
+                "ko": "강박의",
+                "en": "Driven by a strong urge that is difficult to control.",
+                "wrongEn": "Designed to keep the inside of a building warm."
+              }
+            ],
+            "sourceNote": "원문의 \"강제적인\"은 법적 의무를 뜻하는 것이 아니라, 행동을 억누르기 어렵게 만드는 힘이 있다는 의미로 풀이했습니다.",
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "강박의\u001fDriven by a strong urge that is difficult to control."
+            ],
+            "studyNote": "impulsive(충동적인)와 헷갈림",
+            "key": "compulsive",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 28과"
+            ],
+            "notes": [
+              "원문의 \"강제적인\"은 법적 의무를 뜻하는 것이 아니라, 행동을 억누르기 어렵게 만드는 힘이 있다는 의미로 풀이했습니다."
+            ],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-28.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "28",
+                "unitTitle": "28과",
+                "wordId": "wm-28-compulsive",
+                "meaningKeys": [
+                  "강제적인\u001fHaving a compelling force that makes an action difficult to resist.",
+                  "강박의\u001fDriven by a strong urge that is difficult to control."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "Resulting from a strong urge that is hard to control or resist.",
+          "isCorrect": true,
+          "explanation": "compulsive의 '강박의'라는 뜻을 바르게 풀어 쓴 정의입니다. impulsive(충동적인)와 구별해 두세요."
+        },
+        {
+          "word": {
+            "id": "wm-27-coherent",
+            "word": "coherent",
+            "sourceMeaning": "통일성 있는, 조리 있는",
+            "meanings": [
+              {
+                "ko": "통일성 있는, 조리 있는",
+                "en": "Clear and logically connected so that the parts make sense together.",
+                "wrongEn": "Covered with a rough layer of small stones."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "통일성 있는, 조리 있는\u001fClear and logically connected so that the parts make sense together."
+            ],
+            "studyNote": "inherent(내재되는)과 혼동함.",
+            "key": "coherent",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 27과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-27.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "27",
+                "unitTitle": "27과",
+                "wordId": "wm-27-coherent",
+                "meaningKeys": [
+                  "통일성 있는, 조리 있는\u001fClear and logically connected so that the parts make sense together."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "Existing as a natural, permanent part of something.",
+          "isCorrect": false,
+          "explanation": "'본래부터 갖추어진, 내재된'은 inherent의 뜻입니다. coherent는 '조리 있는, 논리적으로 일관된'이라는 뜻입니다."
+        },
+        {
+          "word": {
+            "id": "wm-27-afflict",
+            "word": "afflict",
+            "sourceMeaning": "괴롭히다",
+            "meanings": [
+              {
+                "ko": "괴롭히다",
+                "en": "To cause someone pain, suffering, or serious difficulty.",
+                "wrongEn": "To teach an animal to respond to a spoken command."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "괴롭히다\u001fTo cause someone pain, suffering, or serious difficulty."
+            ],
+            "studyNote": "conflict(갈등), affair(일)와 혼동함",
+            "key": "afflict",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 27과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-27.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "27",
+                "unitTitle": "27과",
+                "wordId": "wm-27-afflict",
+                "meaningKeys": [
+                  "괴롭히다\u001fTo cause someone pain, suffering, or serious difficulty."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "A serious disagreement or struggle between people.",
+          "isCorrect": false,
+          "explanation": "'심각한 의견 충돌이나 다툼'은 명사 conflict의 뜻입니다. afflict는 '괴롭히다'라는 뜻의 동사입니다."
+        },
+        {
+          "word": {
+            "id": "wm-27-empirical",
+            "word": "empirical",
+            "sourceMeaning": "경험적인, 실증적인",
+            "meanings": [
+              {
+                "ko": "경험적인, 실증적인",
+                "en": "Based on observation or experiment rather than theory alone.",
+                "wrongEn": "Produced in large quantities by automatic machinery."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "empire와 잘 헷갈림.",
+            "key": "empirical",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 27과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-27.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "27",
+                "unitTitle": "27과",
+                "wordId": "wm-27-empirical",
+                "meaningKeys": [
+                  "경험적인, 실증적인\u001fBased on observation or experiment rather than theory alone."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "Relating to an empire or an emperor.",
+          "isCorrect": false,
+          "explanation": "'제국이나 황제와 관련된'은 imperial의 뜻입니다. empirical은 '경험적인, 실증적인'(관찰이나 실험에 근거한)이라는 뜻입니다. empire와 연결하지 마세요."
+        },
+        {
+          "word": {
+            "id": "wm-46-encircle",
+            "word": "encircle",
+            "sourceMeaning": "에워싸다, 둘러싸다",
+            "meanings": [
+              {
+                "ko": "에워싸다, 둘러싸다",
+                "en": "To form a circle around someone or something.",
+                "wrongEn": "To remove the outer covering from fruit."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "enclose(동봉하다)와 헷갈림",
+            "key": "encircle",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 46과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-46.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "46",
+                "unitTitle": "46과",
+                "wordId": "wm-46-encircle",
+                "meaningKeys": [
+                  "에워싸다, 둘러싸다\u001fTo form a circle around someone or something."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "To remove the outer covering from fruit.",
+          "isCorrect": false,
+          "explanation": "encircle은 '에워싸다, 둘러싸다'라는 뜻입니다. 과일 껍질을 벗긴다는 뜻은 없습니다."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "kind": "incorrect",
+      "difficulty": "medium",
+      "intent": "철자가 비슷한 단어 혼동(liable–reliable)을 겨냥해, 뜻이 맞는 보기들 가운데 틀린 정의 하나를 찾는 문제입니다. 나머지 보기는 기본 뜻을 그대로 풀어 썼습니다.",
+      "answerIndex": 2,
+      "explanation": "liable은 '법적으로 책임이 있는' 또는 '(원치 않는 일을) ~하기 쉬운'이라는 뜻입니다. '믿고 의지할 수 있는'은 reliable의 뜻이고, liable에는 어떤 뜻으로도 이런 의미가 없습니다. 따라서 3번이 틀린 정의입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-46-oversee",
+            "word": "oversee",
+            "sourceMeaning": "감독하다, 감시하다",
+            "meanings": [
+              {
+                "ko": "감독하다, 감시하다",
+                "en": "To watch and direct work to make sure it is done properly.",
+                "wrongEn": "To soften food by keeping it in warm water."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "overlook와 헷갈림",
+            "key": "oversee",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 46과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-46.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "46",
+                "unitTitle": "46과",
+                "wordId": "wm-46-oversee",
+                "meaningKeys": [
+                  "감독하다, 감시하다\u001fTo watch and direct work to make sure it is done properly."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "To watch and direct work so that it is done correctly.",
+          "isCorrect": true,
+          "explanation": "oversee는 '감독하다, 감시하다'라는 뜻이므로 옳은 정의입니다. '못 보고 넘기다'라는 뜻의 overlook과 헷갈리지 않도록 주의하세요."
+        },
+        {
+          "word": {
+            "id": "wm-29-proficient",
+            "word": "proficient",
+            "sourceMeaning": "숙달된",
+            "meanings": [
+              {
+                "ko": "숙달된",
+                "en": "Able to do something well because of skill and practice.",
+                "wrongEn": "Likely to catch fire at a low temperature."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "sufficient, proliferate와 헷갈림",
+            "key": "proficient",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 29과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-29.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "29",
+                "unitTitle": "29과",
+                "wordId": "wm-29-proficient",
+                "meaningKeys": [
+                  "숙달된\u001fAble to do something well because of skill and practice."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "Able to do something well because of skill and practice.",
+          "isCorrect": true,
+          "explanation": "proficient는 '숙달된'이라는 뜻이므로 옳은 정의입니다. '충분한'이라는 뜻의 sufficient와는 다른 단어입니다."
+        },
+        {
+          "word": {
+            "id": "wm-50-liable",
+            "word": "liable",
+            "sourceMeaning": "책임이 있는, ~할 것 같은, ~하기 쉬운",
+            "meanings": [
+              {
+                "ko": "책임이 있는",
+                "en": "Legally or officially responsible for something.",
+                "wrongEn": "Allowing light to pass through clearly."
+              },
+              {
+                "ko": "~할 것 같은, ~하기 쉬운",
+                "en": "Likely to do or experience something, especially something unwanted.",
+                "wrongEn": "Capable of attracting iron through magnetic force."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "reliable(믿을 만한)과 헷갈림",
+            "key": "liable",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 50과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-50.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "50",
+                "unitTitle": "50과",
+                "wordId": "wm-50-liable",
+                "meaningKeys": [
+                  "책임이 있는\u001fLegally or officially responsible for something.",
+                  "~할 것 같은, ~하기 쉬운\u001fLikely to do or experience something, especially something unwanted."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "Able to be trusted or depended on.",
+          "isCorrect": false,
+          "explanation": "'믿을 만한'은 reliable의 뜻입니다. liable은 '책임이 있는' 또는 '~하기 쉬운'이라는 뜻이라 이 정의는 틀렸습니다."
+        },
+        {
+          "word": {
+            "id": "wm-48-tact",
+            "word": "tact",
+            "sourceMeaning": "재치, 기지",
+            "meanings": [
+              {
+                "ko": "재치, 기지",
+                "en": "Skill in dealing with people without upsetting or embarrassing them.",
+                "wrongEn": "A period during which an animal remains dormant in winter."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "tactic와 헷갈림",
+            "key": "tact",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-tact",
+                "meaningKeys": [
+                  "재치, 기지\u001fSkill in dealing with people without upsetting or embarrassing them."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "Skill in dealing with people without upsetting or embarrassing them.",
+          "isCorrect": true,
+          "explanation": "tact는 '재치, 기지'라는 뜻이므로 옳은 정의입니다. '전술'이라는 뜻의 tactic과는 다른 단어입니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-thorough",
+            "word": "thorough",
+            "sourceMeaning": "철저한",
+            "meanings": [
+              {
+                "ko": "철저한",
+                "en": "Done carefully and completely, with attention to every detail.",
+                "wrongEn": "Able to survive only in very cold environments."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "through, though와 헷갈림",
+            "key": "thorough",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-thorough",
+                "meaningKeys": [
+                  "철저한\u001fDone carefully and completely, with attention to every detail."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "Done carefully and completely, paying attention to every detail.",
+          "isCorrect": true,
+          "explanation": "thorough는 '철저한'이라는 뜻이므로 옳은 정의입니다. through(~을 통해), though(~이지만)와 철자를 구분하세요."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "kind": "correct",
+      "difficulty": "medium",
+      "intent": "본인이 특히 안 외워진다고 적은 prominent의 '현저한' 뜻을 옳은 보기로 제시했습니다. 틀린 보기는 분명히 틀린 것과 혼동을 노린 것(plausible–pleasurable, intact–contact)을 섞었습니다.",
+      "answerIndex": 1,
+      "explanation": "prominent는 '눈에 잘 띄어 두드러지는, 현저한'이라는 뜻이므로 2번이 유일하게 옳은 정의입니다. 나머지 보기는 해당 단어의 어떤 뜻과도 맞지 않습니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-48-plausible",
+            "word": "plausible",
+            "sourceMeaning": "그럴듯한, 말재주 있는",
+            "meanings": [
+              {
+                "ko": "그럴듯한",
+                "en": "Seeming reasonable or likely to be true.",
+                "wrongEn": "Occurring once every two weeks."
+              },
+              {
+                "ko": "말재주 있는",
+                "en": "Speaking convincingly in a way that can persuade people, sometimes dishonestly.",
+                "wrongEn": "Able to dissolve readily in water."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "studyNote": "pleasurable(즐거운)과 헷갈림",
+            "key": "plausible",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-plausible",
+                "meaningKeys": [
+                  "그럴듯한\u001fSeeming reasonable or likely to be true.",
+                  "말재주 있는\u001fSpeaking convincingly in a way that can persuade people, sometimes dishonestly."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "Giving pleasure or enjoyment.",
+          "isCorrect": false,
+          "explanation": "'즐거움을 주는'은 pleasurable의 뜻입니다. plausible은 '그럴듯한' 또는 '말재주 있는'이라는 뜻입니다."
+        },
+        {
+          "word": {
+            "id": "wm-29-prominent",
+            "word": "prominent",
+            "sourceMeaning": "현저한, 저명한",
+            "meanings": [
+              {
+                "ko": "현저한",
+                "en": "Very easy to notice because it stands out.",
+                "wrongEn": "Able to conduct electricity without resistance."
+              },
+              {
+                "ko": "저명한",
+                "en": "Well known and important in a particular field.",
+                "wrongEn": "Located beneath the surface of the ocean."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "studyNote": "특히 '현저한' 뜻이 안 외워짐.",
+            "key": "prominent",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 29과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-29.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "29",
+                "unitTitle": "29과",
+                "wordId": "wm-29-prominent",
+                "meaningKeys": [
+                  "현저한\u001fVery easy to notice because it stands out.",
+                  "저명한\u001fWell known and important in a particular field."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "Very easy to notice because it stands out.",
+          "isCorrect": true,
+          "explanation": "prominent의 '현저한, 두드러진' 뜻을 그대로 풀어 쓴 옳은 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-50-prudent",
+            "word": "prudent",
+            "sourceMeaning": "신중한, 빈틈없는",
+            "meanings": [
+              {
+                "ko": "신중한, 빈틈없는",
+                "en": "Careful and sensible in making decisions and preparing for the future.",
+                "wrongEn": "Located near the equator of the Earth."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "key": "prudent",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 50과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-50.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "50",
+                "unitTitle": "50과",
+                "wordId": "wm-50-prudent",
+                "meaningKeys": [
+                  "신중한, 빈틈없는\u001fCareful and sensible in making decisions and preparing for the future."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "Located near the equator of the Earth.",
+          "isCorrect": false,
+          "explanation": "prudent는 '신중한, 빈틈없는'이라는 뜻이며 지리적 위치와는 관계가 없습니다."
+        },
+        {
+          "word": {
+            "id": "wm-29-crude",
+            "word": "crude",
+            "sourceMeaning": "가공하지 않은, 조잡한",
+            "meanings": [
+              {
+                "ko": "가공하지 않은",
+                "en": "Still in a natural state without being processed.",
+                "wrongEn": "Able to spread easily from one person to another."
+              },
+              {
+                "ko": "조잡한",
+                "en": "Made roughly and without careful skill or detail.",
+                "wrongEn": "Relating to the study of ancient languages."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "key": "crude",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 29과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-29.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "29",
+                "unitTitle": "29과",
+                "wordId": "wm-29-crude",
+                "meaningKeys": [
+                  "가공하지 않은\u001fStill in a natural state without being processed.",
+                  "조잡한\u001fMade roughly and without careful skill or detail."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "Relating to the study of ancient languages.",
+          "isCorrect": false,
+          "explanation": "crude는 '가공하지 않은' 또는 '조잡한'이라는 뜻이며 고대 언어 연구와는 관계가 없습니다."
+        },
+        {
+          "word": {
+            "id": "wm-29-intact",
+            "word": "intact",
+            "sourceMeaning": "온전한, 손상되지 않은",
+            "meanings": [
+              {
+                "ko": "온전한, 손상되지 않은",
+                "en": "Complete and without damage or missing parts.",
+                "wrongEn": "Easily carried from one place to another."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "studyNote": "contact와 헷갈림",
+            "key": "intact",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 29과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-29.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "29",
+                "unitTitle": "29과",
+                "wordId": "wm-29-intact",
+                "meaningKeys": [
+                  "온전한, 손상되지 않은\u001fComplete and without damage or missing parts."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "Being in touch or communication with someone.",
+          "isCorrect": false,
+          "explanation": "'연락하고 있는 상태'는 contact와 관련된 뜻입니다. intact는 '온전한, 손상되지 않은'이라는 뜻입니다."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "kind": "incorrect",
+      "difficulty": "hard",
+      "intent": "endow '부여하다', staple '주요 산물', subdue '완화하다'처럼 덜 익숙한 뜻을 옳은 보기로 제시했습니다. 틀린 보기는 subdue의 '완화하다'를 정반대로 뒤집은 정의라서, 뜻을 정확히 알아야 가려낼 수 있습니다.",
+      "answerIndex": 3,
+      "explanation": "subdue는 '정복하다, 진압하다' 또는 '(감정·소리 등을) 완화하다'라는 뜻입니다. '더 강하게 하다'는 두 뜻 모두와 정반대이므로 4번이 틀린 정의입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-49-endow",
+            "word": "endow",
+            "sourceMeaning": "부여하다, 기부하다",
+            "meanings": [
+              {
+                "ko": "부여하다",
+                "en": "To give someone or something a particular quality or ability.",
+                "wrongEn": "To preserve food by keeping it below freezing."
+              },
+              {
+                "ko": "기부하다",
+                "en": "To provide money or property that permanently supports an institution.",
+                "wrongEn": "To record spoken words in written form."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "studyNote": "vow(맹세하다)와 헷갈림",
+            "key": "endow",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-endow",
+                "meaningKeys": [
+                  "부여하다\u001fTo give someone or something a particular quality or ability.",
+                  "기부하다\u001fTo provide money or property that permanently supports an institution."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "To give someone or something a particular quality or ability.",
+          "isCorrect": true,
+          "explanation": "endow의 '(자질·능력을) 부여하다' 뜻과 맞는 옳은 정의입니다. '맹세하다'라는 뜻의 vow와는 다른 단어입니다."
+        },
+        {
+          "word": {
+            "id": "wm-28-vow",
+            "word": "vow",
+            "sourceMeaning": "맹세, 맹세하다",
+            "meanings": [
+              {
+                "ko": "맹세",
+                "en": "A serious promise to do or not do something.",
+                "wrongEn": "A brief sound used to warn people of an approaching vehicle."
+              },
+              {
+                "ko": "맹세하다",
+                "en": "To make a serious promise.",
+                "wrongEn": "To place a border around a printed picture."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "vow",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 28과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-28.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "28",
+                "unitTitle": "28과",
+                "wordId": "wm-28-vow",
+                "meaningKeys": [
+                  "맹세\u001fA serious promise to do or not do something.",
+                  "맹세하다\u001fTo make a serious promise."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "To make a serious promise to do or not do something.",
+          "isCorrect": true,
+          "explanation": "vow의 동사 뜻 '맹세하다'와 맞는 옳은 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-50-prosper",
+            "word": "prosper",
+            "sourceMeaning": "번영하다, 번창하다",
+            "meanings": [
+              {
+                "ko": "번영하다, 번창하다",
+                "en": "To succeed and grow, especially in wealth or business.",
+                "wrongEn": "To remove the outer skin from a piece of fruit."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "key": "prosper",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 50과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-50.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "50",
+                "unitTitle": "50과",
+                "wordId": "wm-50-prosper",
+                "meaningKeys": [
+                  "번영하다, 번창하다\u001fTo succeed and grow, especially in wealth or business."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To succeed and grow, especially in wealth or business.",
+          "isCorrect": true,
+          "explanation": "prosper는 '번영하다, 번창하다'라는 뜻이므로 옳은 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-49-subdue",
+            "word": "subdue",
+            "sourceMeaning": "정복하다, 진압하다, 완화하다",
+            "meanings": [
+              {
+                "ko": "정복하다, 진압하다",
+                "en": "To bring a person, group, or place under control by force.",
+                "wrongEn": "To join pieces of cloth using a needle and thread."
+              },
+              {
+                "ko": "완화하다",
+                "en": "To make a feeling, sound, or activity less intense.",
+                "wrongEn": "To preserve food by keeping it below freezing."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "key": "subdue",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-subdue",
+                "meaningKeys": [
+                  "정복하다, 진압하다\u001fTo bring a person, group, or place under control by force.",
+                  "완화하다\u001fTo make a feeling, sound, or activity less intense."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "To make a feeling, sound, or activity stronger and more intense.",
+          "isCorrect": false,
+          "explanation": "subdue는 감정이나 소리를 '누그러뜨리다'라는 뜻이므로, '더 강하게 하다'는 정반대입니다. '진압하다'라는 뜻으로 보아도 맞지 않습니다."
+        },
+        {
+          "word": {
+            "id": "wm-48-staple",
+            "word": "staple",
+            "sourceMeaning": "주요한, 주요 산물",
+            "meanings": [
+              {
+                "ko": "주요한",
+                "en": "Basic and regularly needed or used.",
+                "wrongEn": "Capable of attracting iron through magnetic force."
+              },
+              {
+                "ko": "주요 산물",
+                "en": "A basic product that a place regularly produces or depends on.",
+                "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "key": "staple",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-staple",
+                "meaningKeys": [
+                  "주요한\u001fBasic and regularly needed or used.",
+                  "주요 산물\u001fA basic product that a place regularly produces or depends on."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "A basic product that a place regularly produces or depends on.",
+          "isCorrect": true,
+          "explanation": "staple의 명사 뜻 '주요 산물'과 맞는 옳은 정의입니다."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "kind": "correct",
+      "difficulty": "hard",
+      "intent": "imprint의 덜 익숙한 뜻 '감명시키다(기억에 새기다)'를 옳은 보기로 제시했습니다. 틀린 보기는 innermost–outermost, dusk–dawn처럼 뜻이 반대인 단어와 헷갈리게 만들었습니다.",
+      "answerIndex": 2,
+      "explanation": "imprint는 '어떤 생각이나 경험을 기억에 깊이 새기다(감명시키다)'라는 뜻이 있으므로 3번이 유일하게 옳은 정의입니다. 나머지 보기는 반대 뜻이거나 전혀 관계없는 뜻입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-48-innermost",
+            "word": "innermost",
+            "sourceMeaning": "가장 깊숙한, 가장 깊은 부분",
+            "meanings": [
+              {
+                "ko": "가장 깊숙한",
+                "en": "Situated deepest inside something.",
+                "wrongEn": "Able to dissolve readily in water."
+              },
+              {
+                "ko": "가장 깊은 부분",
+                "en": "The part that lies furthest inside something.",
+                "wrongEn": "A small opening in a leaf through which gases pass."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "key": "innermost",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-innermost",
+                "meaningKeys": [
+                  "가장 깊숙한\u001fSituated deepest inside something.",
+                  "가장 깊은 부분\u001fThe part that lies furthest inside something."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "The part that lies on the outermost edge of something.",
+          "isCorrect": false,
+          "explanation": "innermost는 '가장 깊은 부분', 즉 가장 안쪽을 뜻합니다. '가장 바깥 가장자리'는 반대 뜻입니다."
+        },
+        {
+          "word": {
+            "id": "wm-49-stout",
+            "word": "stout",
+            "sourceMeaning": "뚱뚱한, 튼튼한",
+            "meanings": [
+              {
+                "ko": "뚱뚱한",
+                "en": "Having a broad, thick, and somewhat heavy body.",
+                "wrongEn": "Having a surface covered with fine parallel ridges."
+              },
+              {
+                "ko": "튼튼한",
+                "en": "Strong and firmly built.",
+                "wrongEn": "Located near the equator of the Earth."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "key": "stout",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-stout",
+                "meaningKeys": [
+                  "뚱뚱한\u001fHaving a broad, thick, and somewhat heavy body.",
+                  "튼튼한\u001fStrong and firmly built."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "Thin and physically weak.",
+          "isCorrect": false,
+          "explanation": "stout는 '뚱뚱한' 또는 '튼튼한'이라는 뜻이므로, '마르고 약한'은 두 뜻 모두와 반대입니다."
+        },
+        {
+          "word": {
+            "id": "wm-29-imprint",
+            "word": "imprint",
+            "sourceMeaning": "(도장 등을)찍다, 감명시키다, 찍은 자국, 인상",
+            "meanings": [
+              {
+                "ko": "(도장 등을)찍다",
+                "en": "To press or print a mark onto a surface.",
+                "wrongEn": "To exchange goods without using money."
+              },
+              {
+                "ko": "감명시키다",
+                "en": "To fix an idea or experience firmly in someone's memory.",
+                "wrongEn": "To loosen soil around plants before watering them."
+              },
+              {
+                "ko": "찍은 자국",
+                "en": "A mark left by pressing one thing onto another.",
+                "wrongEn": "A tool used to measure the direction of the wind."
+              },
+              {
+                "ko": "인상",
+                "en": "A lasting effect that an experience leaves on the mind.",
+                "wrongEn": "A legal document giving permission to drive a vehicle."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "key": "imprint",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 29과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-29.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "29",
+                "unitTitle": "29과",
+                "wordId": "wm-29-imprint",
+                "meaningKeys": [
+                  "(도장 등을)찍다\u001fTo press or print a mark onto a surface.",
+                  "감명시키다\u001fTo fix an idea or experience firmly in someone's memory.",
+                  "찍은 자국\u001fA mark left by pressing one thing onto another.",
+                  "인상\u001fA lasting effect that an experience leaves on the mind."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "To fix an idea or experience firmly in someone's memory.",
+          "isCorrect": true,
+          "explanation": "imprint의 '감명시키다, 기억에 새기다' 뜻과 맞는 옳은 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-49-dusk",
+            "word": "dusk",
+            "sourceMeaning": "땅거미, 어스름",
+            "meanings": [
+              {
+                "ko": "땅거미, 어스름",
+                "en": "The time in the evening when daylight is fading into darkness.",
+                "wrongEn": "A line of equal temperature drawn on a weather map."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "key": "dusk",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-dusk",
+                "meaningKeys": [
+                  "땅거미, 어스름\u001fThe time in the evening when daylight is fading into darkness."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "The time in the morning when daylight first appears.",
+          "isCorrect": false,
+          "explanation": "아침에 날이 밝아 오는 때는 dawn(새벽)입니다. dusk는 저녁에 어두워지는 '땅거미, 어스름'입니다."
+        },
+        {
+          "word": {
+            "id": "wm-50-grudge",
+            "word": "grudge",
+            "sourceMeaning": "원한, 유감",
+            "meanings": [
+              {
+                "ko": "원한, 유감",
+                "en": "A lasting feeling of resentment over a past wrong or disappointment.",
+                "wrongEn": "A small opening in a leaf through which gases pass."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "studyNote": "'투덜거리다'와 헷갈림",
+            "key": "grudge",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 50과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-50.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "50",
+                "unitTitle": "50과",
+                "wordId": "wm-50-grudge",
+                "meaningKeys": [
+                  "원한, 유감\u001fA lasting feeling of resentment over a past wrong or disappointment."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "A warm feeling of thanks toward someone for their help.",
+          "isCorrect": false,
+          "explanation": "grudge는 지난 잘못에 대해 오래 남는 '원한, 유감'입니다. '고마운 마음'은 반대 뜻입니다."
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "kind": "incorrect",
+      "difficulty": "hard",
+      "intent": "다의어의 두 번째 이후 뜻(subordinate '경시하다', conduct '행위', furnish '갖추다', tangle '혼란시키다')을 옳은 보기로 제시했습니다. 틀린 보기는 본인이 잘 안 외워진다고 한 arbitrary '독단적인'을 정반대로 바꾼 정의입니다.",
+      "answerIndex": 1,
+      "explanation": "arbitrary는 '임의적인' 또는 '(권력을) 독단적으로 쓰는'이라는 뜻입니다. '공정하게 규칙을 따르고 남의 의견을 고려하는'은 두 뜻 모두와 반대이므로 2번이 틀린 정의입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-48-subordinate",
+            "word": "subordinate",
+            "sourceMeaning": "하급의, 부차적인, 하급자, 경시하다",
+            "meanings": [
+              {
+                "ko": "하급의",
+                "en": "Lower in rank or authority than someone else.",
+                "wrongEn": "Allowing light to pass through clearly."
+              },
+              {
+                "ko": "부차적인",
+                "en": "Less important than something else.",
+                "wrongEn": "Capable of attracting iron through magnetic force."
+              },
+              {
+                "ko": "하급자",
+                "en": "A person who works under someone with greater authority.",
+                "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+              },
+              {
+                "ko": "경시하다",
+                "en": "To treat something as less important than something else.",
+                "wrongEn": "To record spoken words in written form."
+              }
+            ],
+            "studyLevel": "priority",
+            "unknownMeaningKeys": [],
+            "key": "subordinate",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-subordinate",
+                "meaningKeys": [
+                  "하급의\u001fLower in rank or authority than someone else.",
+                  "부차적인\u001fLess important than something else.",
+                  "하급자\u001fA person who works under someone with greater authority.",
+                  "경시하다\u001fTo treat something as less important than something else."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 3,
+          "definition": "To treat something as less important than something else.",
+          "isCorrect": true,
+          "explanation": "subordinate의 동사 뜻 '경시하다(다른 것보다 덜 중요하게 다루다)'와 맞는 옳은 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-47-arbitrary",
+            "word": "arbitrary",
+            "sourceMeaning": "임의적인, 독단적인",
+            "meanings": [
+              {
+                "ko": "임의적인",
+                "en": "Based on personal choice or chance rather than a clear rule or reason.",
+                "wrongEn": "Requiring oxygen for growth or survival."
+              },
+              {
+                "ko": "독단적인",
+                "en": "Using power according to personal wishes without considering others.",
+                "wrongEn": "Having a taste like that of a lemon."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "2번 뜻(독단적인)이 더 안 외워짐",
+            "key": "arbitrary",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 47과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-47.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "47",
+                "unitTitle": "47과",
+                "wordId": "wm-47-arbitrary",
+                "meaningKeys": [
+                  "임의적인\u001fBased on personal choice or chance rather than a clear rule or reason.",
+                  "독단적인\u001fUsing power according to personal wishes without considering others."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "Using power fairly, following clear rules and considering others' views.",
+          "isCorrect": false,
+          "explanation": "arbitrary는 규칙이 아닌 개인의 뜻대로 권력을 쓰는 '독단적인'이라는 뜻입니다. 이 정의는 정반대 뜻이라 틀렸습니다."
+        },
+        {
+          "word": {
+            "id": "wm-28-conduct",
+            "word": "conduct",
+            "sourceMeaning": "수행하다, 실시하다, 행위, 안내",
+            "meanings": [
+              {
+                "ko": "수행하다, 실시하다",
+                "en": "To organize and carry out an activity or process.",
+                "wrongEn": "To remove a stain by rubbing a surface with water."
+              },
+              {
+                "ko": "행위",
+                "en": "The way a person behaves.",
+                "wrongEn": "The speed at which a planet moves around a star."
+              },
+              {
+                "ko": "안내",
+                "en": "The act of leading or guiding someone to a place.",
+                "wrongEn": "The process of turning a gas into a liquid."
+              }
+            ],
+            "sourceNote": "원문의 명사 뜻 \"안내\"는 사람을 이끌거나 동행하여 안내하는 행위를 뜻하며 현대 영어에서는 드문 용법입니다.",
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "행위\u001fThe way a person behaves.",
+              "안내\u001fThe act of leading or guiding someone to a place."
+            ],
+            "key": "conduct",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 28과"
+            ],
+            "notes": [
+              "원문의 명사 뜻 \"안내\"는 사람을 이끌거나 동행하여 안내하는 행위를 뜻하며 현대 영어에서는 드문 용법입니다."
+            ],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-28.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "28",
+                "unitTitle": "28과",
+                "wordId": "wm-28-conduct",
+                "meaningKeys": [
+                  "수행하다, 실시하다\u001fTo organize and carry out an activity or process.",
+                  "행위\u001fThe way a person behaves.",
+                  "안내\u001fThe act of leading or guiding someone to a place."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "The way a person behaves.",
+          "isCorrect": true,
+          "explanation": "conduct의 명사 뜻 '행위, 처신'과 맞는 옳은 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-48-furnish",
+            "word": "furnish",
+            "sourceMeaning": "제공하다, 갖추다",
+            "meanings": [
+              {
+                "ko": "제공하다",
+                "en": "To supply someone with something needed.",
+                "wrongEn": "To prepare food by cooking it in boiling water."
+              },
+              {
+                "ko": "갖추다",
+                "en": "To equip a room or building with furniture and other useful items.",
+                "wrongEn": "To add musical notes to a written melody."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "'장식하다' 의미와 헷갈림\nfurniture의 동사형으로 생각하면 잘 외워질 것 같다. (가구를) 갖추다, (꼭 필요한 것, 가구를) 제공하다",
+            "key": "furnish",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-furnish",
+                "meaningKeys": [
+                  "제공하다\u001fTo supply someone with something needed.",
+                  "갖추다\u001fTo equip a room or building with furniture and other useful items."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "To equip a room or building with furniture and other useful items.",
+          "isCorrect": true,
+          "explanation": "furnish의 '(방이나 건물에 가구 등을) 갖추다' 뜻과 맞는 옳은 정의입니다. 메모에 적은 대로 furniture의 동사형으로 생각하면 기억하기 쉽습니다."
+        },
+        {
+          "word": {
+            "id": "wm-50-tangle",
+            "word": "tangle",
+            "sourceMeaning": "얽히게 하다, 혼란시키다",
+            "meanings": [
+              {
+                "ko": "얽히게 하다",
+                "en": "To twist or mix things together so they are difficult to separate.",
+                "wrongEn": "To measure temperature with a scientific instrument."
+              },
+              {
+                "ko": "혼란시키다",
+                "en": "To make a situation or set of ideas confused and difficult to understand.",
+                "wrongEn": "To send a radio signal over a long distance."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "혼란시키다\u001fTo make a situation or set of ideas confused and difficult to understand."
+            ],
+            "key": "tangle",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 50과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-50.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "50",
+                "unitTitle": "50과",
+                "wordId": "wm-50-tangle",
+                "meaningKeys": [
+                  "얽히게 하다\u001fTo twist or mix things together so they are difficult to separate.",
+                  "혼란시키다\u001fTo make a situation or set of ideas confused and difficult to understand."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "To make a situation or set of ideas confused and difficult to understand.",
+          "isCorrect": true,
+          "explanation": "tangle의 '(상황이나 생각을) 혼란시키다' 뜻과 맞는 옳은 정의입니다."
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "kind": "correct",
+      "difficulty": "hard",
+      "intent": "옳은 정의 하나 고르기. 학습자가 메모한 혼동(outset을 '결과'로 착각, peril과 pupil 혼동)을 그대로 오답 보기로 넣어 헷갈리는 뜻을 가려내는지 확인합니다.",
+      "answerIndex": 2,
+      "explanation": "quest는 '가치 있거나 중요한 것을 오랫동안 끈질기게 찾는 일(탐색, 탐구)'이라서 옳은 정의입니다. outset은 '결과'가 아니라 '시작'이고, peril은 '학생(pupil)'이 아니라 '위험'입니다. interval은 음악 작품이 아니고, intrude는 환영하는 것이 아니라 불청객처럼 방해하는 것입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-50-outset",
+            "word": "outset",
+            "sourceMeaning": "착수, 시작",
+            "meanings": [
+              {
+                "ko": "착수, 시작",
+                "en": "The beginning of an activity, process, or period.",
+                "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "'결과'로 의미를 착각함",
+            "key": "outset",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 50과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-50.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "50",
+                "unitTitle": "50과",
+                "wordId": "wm-50-outset",
+                "meaningKeys": [
+                  "착수, 시작\u001fThe beginning of an activity, process, or period."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "The final result or consequence of an activity or process.",
+          "isCorrect": false,
+          "explanation": "outset은 '착수, 시작'이라는 뜻입니다. '최종 결과'는 정반대 의미라서 틀린 정의입니다. 메모에 적은 '결과'라는 착각을 노린 보기입니다."
+        },
+        {
+          "word": {
+            "id": "wm-50-peril",
+            "word": "peril",
+            "sourceMeaning": "위험, 위기",
+            "meanings": [
+              {
+                "ko": "위험, 위기",
+                "en": "Serious danger or a situation that could cause great harm.",
+                "wrongEn": "A device used to measure atmospheric pressure."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "pupil과 헷갈림",
+            "key": "peril",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 50과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-50.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "50",
+                "unitTitle": "50과",
+                "wordId": "wm-50-peril",
+                "meaningKeys": [
+                  "위험, 위기\u001fSerious danger or a situation that could cause great harm."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "A student who is being taught at a school.",
+          "isCorrect": false,
+          "explanation": "'학생'은 pupil의 뜻입니다. peril은 '심각한 위험, 위기'를 뜻하므로 틀린 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-48-quest",
+            "word": "quest",
+            "sourceMeaning": "탐색, 탐구",
+            "meanings": [
+              {
+                "ko": "탐색, 탐구",
+                "en": "A long or determined search for something valuable or important.",
+                "wrongEn": "A form of energy carried by electromagnetic waves."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "quest",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-quest",
+                "meaningKeys": [
+                  "탐색, 탐구\u001fA long or determined search for something valuable or important."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "A long, determined search for something valuable or important.",
+          "isCorrect": true,
+          "explanation": "quest '탐색, 탐구'를 정확히 풀어 쓴 정의입니다. 가치 있는 것을 오랫동안 끈질기게 찾는 일을 뜻합니다."
+        },
+        {
+          "word": {
+            "id": "wm-47-interval",
+            "word": "interval",
+            "sourceMeaning": "간격, 틈",
+            "meanings": [
+              {
+                "ko": "간격, 틈",
+                "en": "A period of time or an amount of space between two things or events.",
+                "wrongEn": "A musical composition written for a solo instrument."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "interval",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 47과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-47.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "47",
+                "unitTitle": "47과",
+                "wordId": "wm-47-interval",
+                "meaningKeys": [
+                  "간격, 틈\u001fA period of time or an amount of space between two things or events."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "A musical composition written for a solo instrument.",
+          "isCorrect": false,
+          "explanation": "interval은 두 사건이나 사물 사이의 시간·공간 '간격, 틈'입니다. 음악에서도 '음정(두 음 사이의 높이 차이)'을 뜻할 뿐 독주곡을 가리키지는 않으므로 틀린 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-50-intrude",
+            "word": "intrude",
+            "sourceMeaning": "방해하다, 침범하다",
+            "meanings": [
+              {
+                "ko": "방해하다",
+                "en": "To interrupt someone's privacy or activities without being welcome.",
+                "wrongEn": "To combine several numbers to calculate their total."
+              },
+              {
+                "ko": "침범하다",
+                "en": "To enter a place or situation without invitation or permission.",
+                "wrongEn": "To prepare food by cooking it in boiling water."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "방해하다\u001fTo interrupt someone's privacy or activities without being welcome."
+            ],
+            "key": "intrude",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 50과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-50.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "50",
+                "unitTitle": "50과",
+                "wordId": "wm-50-intrude",
+                "meaningKeys": [
+                  "방해하다\u001fTo interrupt someone's privacy or activities without being welcome.",
+                  "침범하다\u001fTo enter a place or situation without invitation or permission."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To welcome someone warmly into one's home.",
+          "isCorrect": false,
+          "explanation": "intrude는 환영받지 못한 채 남의 사생활이나 활동을 '방해하다', 허락 없이 '침범하다'라는 뜻입니다. 따뜻하게 맞이한다는 뜻은 없습니다."
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "kind": "incorrect",
+      "difficulty": "hard",
+      "intent": "틀린 정의 하나 고르기. extrinsic에 반대말 intrinsic(본질적인)의 정의를 붙여 헷갈리게 했고, offspring '성과'와 intervene '방해하다' 같은 덜 익숙한 두 번째 뜻은 옳은 보기로 넣었습니다.",
+      "answerIndex": 2,
+      "explanation": "extrinsic은 '외부에서 온, 비본질적인'이라는 뜻입니다. 보기의 '본질적으로 속한'은 intrinsic의 뜻이므로 이 보기가 틀린 정의입니다. 나머지 네 보기는 모두 옳습니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-49-offspring",
+            "word": "offspring",
+            "sourceMeaning": "자식, 새끼, 성과",
+            "meanings": [
+              {
+                "ko": "자식, 새끼",
+                "en": "The children of a person or the young of an animal.",
+                "wrongEn": "A mark placed above a letter to show its pronunciation."
+              },
+              {
+                "ko": "성과",
+                "en": "Something that results from a particular activity or process.",
+                "wrongEn": "A period during which an animal remains dormant in winter."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "offspring",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-offspring",
+                "meaningKeys": [
+                  "자식, 새끼\u001fThe children of a person or the young of an animal.",
+                  "성과\u001fSomething that results from a particular activity or process."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "A product or result that comes out of a particular activity or process.",
+          "isCorrect": true,
+          "explanation": "offspring의 두 번째 뜻 '성과, 산물'을 풀어 쓴 옳은 정의입니다. 어떤 활동이나 과정에서 생겨난 결과물을 뜻합니다."
+        },
+        {
+          "word": {
+            "id": "wm-46-intervene",
+            "word": "intervene",
+            "sourceMeaning": "사이에 끼어들다, 개입하다, 방해하다",
+            "meanings": [
+              {
+                "ko": "사이에 끼어들다, 개입하다",
+                "en": "To become involved in a situation in order to change what happens.",
+                "wrongEn": "To preserve fruit by cooking it with sugar."
+              },
+              {
+                "ko": "방해하다",
+                "en": "To come between events and prevent or delay something.",
+                "wrongEn": "To give a speech praising someone's achievements."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "방해하다\u001fTo come between events and prevent or delay something."
+            ],
+            "key": "intervene",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 46과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-46.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "46",
+                "unitTitle": "46과",
+                "wordId": "wm-46-intervene",
+                "meaningKeys": [
+                  "사이에 끼어들다, 개입하다\u001fTo become involved in a situation in order to change what happens.",
+                  "방해하다\u001fTo come between events and prevent or delay something."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "To occur between events in a way that prevents or delays something.",
+          "isCorrect": true,
+          "explanation": "intervene의 '방해하다' 뜻을 옳게 풀어 쓴 정의입니다. 사건 사이에 끼어들어 어떤 일을 막거나 늦춘다는 의미입니다."
+        },
+        {
+          "word": {
+            "id": "wm-49-extrinsic",
+            "word": "extrinsic",
+            "sourceMeaning": "외적인, 비본질적인",
+            "meanings": [
+              {
+                "ko": "외적인, 비본질적인",
+                "en": "Coming from outside rather than belonging to something's essential nature.",
+                "wrongEn": "Able to dissolve readily in water."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "extrinsic",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-extrinsic",
+                "meaningKeys": [
+                  "외적인, 비본질적인\u001fComing from outside rather than belonging to something's essential nature."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "Belonging naturally to something as part of its essential character.",
+          "isCorrect": false,
+          "explanation": "이 정의는 반대말 intrinsic(본질적인)의 뜻입니다. extrinsic은 '외부에서 온, 비본질적인'이라는 뜻이므로 틀린 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-29-reservoir",
+            "word": "reservoir",
+            "sourceMeaning": "저장소, 저수지",
+            "meanings": [
+              {
+                "ko": "저장소",
+                "en": "A place or supply in which something is stored for later use.",
+                "wrongEn": "A competition in which runners jump over barriers."
+              },
+              {
+                "ko": "저수지",
+                "en": "A lake or other large place where water is kept for use.",
+                "wrongEn": "A mark used in writing to show a missing letter."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "reservoir",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 29과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-29.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "29",
+                "unitTitle": "29과",
+                "wordId": "wm-29-reservoir",
+                "meaningKeys": [
+                  "저장소\u001fA place or supply in which something is stored for later use.",
+                  "저수지\u001fA lake or other large place where water is kept for use."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "A place or supply where something is stored until it is needed.",
+          "isCorrect": true,
+          "explanation": "reservoir '저장소'를 풀어 쓴 옳은 정의입니다. 나중에 쓰려고 무언가를 모아 두는 곳이나 비축분을 뜻합니다."
+        },
+        {
+          "word": {
+            "id": "wm-48-bypass",
+            "word": "bypass",
+            "sourceMeaning": "우회하다, 우회로",
+            "meanings": [
+              {
+                "ko": "우회하다",
+                "en": "To go around or avoid a place, obstacle, or usual procedure.",
+                "wrongEn": "To join pieces of cloth using a needle and thread."
+              },
+              {
+                "ko": "우회로",
+                "en": "A road that takes traffic around a town or busy area.",
+                "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "bypass",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-bypass",
+                "meaningKeys": [
+                  "우회하다\u001fTo go around or avoid a place, obstacle, or usual procedure.",
+                  "우회로\u001fA road that takes traffic around a town or busy area."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To go around or avoid an obstacle, place, or normal procedure.",
+          "isCorrect": true,
+          "explanation": "bypass '우회하다'를 풀어 쓴 옳은 정의입니다. 장애물이나 장소, 정해진 절차를 돌아가거나 피한다는 뜻입니다."
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "kind": "correct",
+      "difficulty": "hard",
+      "intent": "옳은 정의 하나 고르기. 학습자가 '진짜 안 외워진다'고 메모한 range의 두 번째 뜻 '정렬시키다'를 정답으로 두어, 기본 뜻 '범위'에 끌리지 않고 이 뜻을 알아보는지 확인합니다.",
+      "answerIndex": 0,
+      "explanation": "range는 동사로 '사람이나 사물을 줄지어 정렬시키다'라는 뜻이 있어 옳은 정의입니다(예: range the chairs). 나머지 보기는 undergo, pitfall, conviction, merge의 뜻과 반대되는 내용입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-27-range",
+            "word": "range",
+            "sourceMeaning": "범위, 정렬시키다",
+            "meanings": [
+              {
+                "ko": "범위",
+                "en": "The limits within which something varies or extends.",
+                "wrongEn": "A payment returned after a purchase is canceled."
+              },
+              {
+                "ko": "정렬시키다",
+                "en": "To arrange people or things in an ordered line or group.",
+                "wrongEn": "To remove the smell from a room by letting in fresh air."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "정렬시키다\u001fTo arrange people or things in an ordered line or group."
+            ],
+            "studyNote": "range의 뜻 '정렬시키다'는 진짜 안 외워짐... 추가 복습이 필요하다.",
+            "key": "range",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 27과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-27.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "27",
+                "unitTitle": "27과",
+                "wordId": "wm-27-range",
+                "meaningKeys": [
+                  "범위\u001fThe limits within which something varies or extends.",
+                  "정렬시키다\u001fTo arrange people or things in an ordered line or group."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "To arrange people or things in an orderly row or group.",
+          "isCorrect": true,
+          "explanation": "range의 동사 뜻 '정렬시키다'를 풀어 쓴 옳은 정의입니다. 명사 뜻 '범위'만 떠올리면 놓치기 쉬운 뜻입니다."
+        },
+        {
+          "word": {
+            "id": "wm-28-undergo",
+            "word": "undergo",
+            "sourceMeaning": "겪다",
+            "meanings": [
+              {
+                "ko": "겪다",
+                "en": "To experience a process, change, or difficult event.",
+                "wrongEn": "To direct sunlight through a curved piece of glass."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "undergo",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 28과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-28.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "28",
+                "unitTitle": "28과",
+                "wordId": "wm-28-undergo",
+                "meaningKeys": [
+                  "겪다\u001fTo experience a process, change, or difficult event."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To avoid or escape a difficult experience.",
+          "isCorrect": false,
+          "explanation": "undergo는 과정이나 변화, 힘든 일을 '겪다'라는 뜻입니다. 피하거나 벗어난다는 것은 정반대 의미라서 틀린 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-50-pitfall",
+            "word": "pitfall",
+            "sourceMeaning": "함정, 위험",
+            "meanings": [
+              {
+                "ko": "함정",
+                "en": "A hidden hole used to trap an animal or person.",
+                "wrongEn": "A mark placed above a letter to show its pronunciation."
+              },
+              {
+                "ko": "위험",
+                "en": "A hidden danger or difficulty that can cause failure or trouble.",
+                "wrongEn": "A period during which an animal remains dormant in winter."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "위험\u001fA hidden danger or difficulty that can cause failure or trouble."
+            ],
+            "key": "pitfall",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 50과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-50.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "50",
+                "unitTitle": "50과",
+                "wordId": "wm-50-pitfall",
+                "meaningKeys": [
+                  "함정\u001fA hidden hole used to trap an animal or person.",
+                  "위험\u001fA hidden danger or difficulty that can cause failure or trouble."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "A reward or advantage that is easily noticed.",
+          "isCorrect": false,
+          "explanation": "pitfall은 '숨은 위험이나 어려움' 또는 '함정'입니다. 눈에 잘 띄는 보상이나 이점이라는 뜻은 없으므로 틀린 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-49-conviction",
+            "word": "conviction",
+            "sourceMeaning": "확신, 유죄 판결",
+            "meanings": [
+              {
+                "ko": "확신",
+                "en": "A firmly held belief or a strong feeling of certainty.",
+                "wrongEn": "A unit used to measure electrical resistance."
+              },
+              {
+                "ko": "유죄 판결",
+                "en": "A formal decision by a court that someone is guilty of a crime.",
+                "wrongEn": "A device used to measure atmospheric pressure."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "확신\u001fA firmly held belief or a strong feeling of certainty."
+            ],
+            "key": "conviction",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-conviction",
+                "meaningKeys": [
+                  "확신\u001fA firmly held belief or a strong feeling of certainty.",
+                  "유죄 판결\u001fA formal decision by a court that someone is guilty of a crime."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "A feeling of doubt or uncertainty about what is true.",
+          "isCorrect": false,
+          "explanation": "conviction은 굳은 '확신'이나 '유죄 판결'이라는 뜻입니다. 의심이나 불확실함은 정반대 의미라서 틀린 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-49-merge",
+            "word": "merge",
+            "sourceMeaning": "합병하다, 차차 변하다",
+            "meanings": [
+              {
+                "ko": "합병하다",
+                "en": "To combine separate things into a single whole.",
+                "wrongEn": "To remove the outer skin from a piece of fruit."
+              },
+              {
+                "ko": "차차 변하다",
+                "en": "To gradually blend into or become part of something else.",
+                "wrongEn": "To prepare food by cooking it in boiling water."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "차차 변하다\u001fTo gradually blend into or become part of something else."
+            ],
+            "key": "merge",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-merge",
+                "meaningKeys": [
+                  "합병하다\u001fTo combine separate things into a single whole.",
+                  "차차 변하다\u001fTo gradually blend into or become part of something else."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "To gradually separate into distinct, unrelated parts.",
+          "isCorrect": false,
+          "explanation": "merge는 합치거나 점차 섞여 하나가 되는 것('합병하다', '차차 변하다')입니다. 서로 무관한 부분으로 갈라진다는 것은 반대 의미라서 틀린 정의입니다."
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "kind": "incorrect",
+      "difficulty": "hard",
+      "intent": "틀린 정의 하나 고르기. mow(풀·작물을 날로 베다)에 '손으로 과일을 따다'라는, 수확과 관련된 비슷한 행위를 붙여 헷갈리게 했습니다. 덜 익숙한 뜻인 embed '깊이 간직하다'는 옳은 보기로 넣었습니다.",
+      "answerIndex": 1,
+      "explanation": "mow는 날이나 기계로 풀이나 작물을 '베다'라는 뜻입니다. 나무에서 손으로 과일을 따는 것은 mow가 아니므로 이 보기가 틀린 정의입니다. 나머지 네 보기는 모두 옳습니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-48-enact",
+            "word": "enact",
+            "sourceMeaning": "법제화하다, 제정하다",
+            "meanings": [
+              {
+                "ko": "법제화하다, 제정하다",
+                "en": "To make a proposal officially become law.",
+                "wrongEn": "To add musical notes to a written melody."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "enact",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-enact",
+                "meaningKeys": [
+                  "법제화하다, 제정하다\u001fTo make a proposal officially become law."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To officially make a proposal into law.",
+          "isCorrect": true,
+          "explanation": "enact '법제화하다, 제정하다'를 풀어 쓴 옳은 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-27-mow",
+            "word": "mow",
+            "sourceMeaning": "(풀 등을)베다",
+            "meanings": [
+              {
+                "ko": "(풀 등을)베다",
+                "en": "To cut grass or a crop using a blade or machine.",
+                "wrongEn": "To collect ripe fruit from a tree by hand."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "mow",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 27과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-27.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "27",
+                "unitTitle": "27과",
+                "wordId": "wm-27-mow",
+                "meaningKeys": [
+                  "(풀 등을)베다\u001fTo cut grass or a crop using a blade or machine."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To gather ripe fruit from trees by hand.",
+          "isCorrect": false,
+          "explanation": "mow는 날이나 기계로 풀·작물을 '베다'라는 뜻입니다. 손으로 과일을 따는 것은 다른 행위이므로 틀린 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-48-alienate",
+            "word": "alienate",
+            "sourceMeaning": "소외시키다, 멀리하다",
+            "meanings": [
+              {
+                "ko": "소외시키다, 멀리하다",
+                "en": "To make someone feel excluded or no longer friendly or connected.",
+                "wrongEn": "To remove the outer skin from a piece of fruit."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "alienate",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-alienate",
+                "meaningKeys": [
+                  "소외시키다, 멀리하다\u001fTo make someone feel excluded or no longer friendly or connected."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To make someone feel excluded or no longer friendly or connected.",
+          "isCorrect": true,
+          "explanation": "alienate '소외시키다, 멀리하다'를 풀어 쓴 옳은 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-29-embody",
+            "word": "embody",
+            "sourceMeaning": "구현하다, 구체화하다",
+            "meanings": [
+              {
+                "ko": "구현하다, 구체화하다",
+                "en": "To give an idea or quality a clear, concrete form.",
+                "wrongEn": "To exchange one national currency for another."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "embody",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 29과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-29.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "29",
+                "unitTitle": "29과",
+                "wordId": "wm-29-embody",
+                "meaningKeys": [
+                  "구현하다, 구체화하다\u001fTo give an idea or quality a clear, concrete form."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To give an idea or quality a clear and concrete form.",
+          "isCorrect": true,
+          "explanation": "embody '구현하다, 구체화하다'를 풀어 쓴 옳은 정의입니다. 생각이나 특성에 뚜렷하고 구체적인 형태를 준다는 뜻입니다."
+        },
+        {
+          "word": {
+            "id": "wm-49-embed",
+            "word": "embed",
+            "sourceMeaning": "깊숙이 박다, 깊이 간직하다",
+            "meanings": [
+              {
+                "ko": "깊숙이 박다",
+                "en": "To fix something firmly and deeply inside another substance.",
+                "wrongEn": "To travel around a planet along a regular path."
+              },
+              {
+                "ko": "깊이 간직하다",
+                "en": "To establish something firmly in memory, thought, or culture.",
+                "wrongEn": "To join pieces of cloth using a needle and thread."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "깊이 간직하다\u001fTo establish something firmly in memory, thought, or culture."
+            ],
+            "key": "embed",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-embed",
+                "meaningKeys": [
+                  "깊숙이 박다\u001fTo fix something firmly and deeply inside another substance.",
+                  "깊이 간직하다\u001fTo establish something firmly in memory, thought, or culture."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "To fix something firmly in memory, thought, or culture.",
+          "isCorrect": true,
+          "explanation": "embed의 두 번째 뜻 '깊이 간직하다'를 풀어 쓴 옳은 정의입니다. 기억이나 생각, 문화 속에 단단히 자리 잡게 한다는 뜻입니다."
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "kind": "correct",
+      "difficulty": "hard",
+      "intent": "옳은 정의 하나 고르기. 덜 익숙한 scheme의 '체계' 뜻을 정답으로 두어, 흔히 아는 '계획' 뜻과 구분하는지 확인합니다. 나머지 보기는 각 단어와 반대되는 뜻입니다.",
+      "answerIndex": 3,
+      "explanation": "scheme에는 '계획' 말고도 '서로 관련된 부분이나 생각을 짜임새 있게 배열한 것(체계)'이라는 뜻이 있어 옳은 정의입니다(예: a color scheme). moan, renovate, monotonous, prone 보기는 모두 원래 뜻과 반대입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-49-moan",
+            "word": "moan",
+            "sourceMeaning": "신음, 신음하다, 불평하다",
+            "meanings": [
+              {
+                "ko": "신음",
+                "en": "A long, low sound made because of pain or distress.",
+                "wrongEn": "A small opening in a leaf through which gases pass."
+              },
+              {
+                "ko": "신음하다",
+                "en": "To make a long, low sound because of pain or distress.",
+                "wrongEn": "To join pieces of cloth using a needle and thread."
+              },
+              {
+                "ko": "불평하다",
+                "en": "To complain repeatedly about something.",
+                "wrongEn": "To preserve food by keeping it below freezing."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "불평하다\u001fTo complain repeatedly about something."
+            ],
+            "key": "moan",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-moan",
+                "meaningKeys": [
+                  "신음\u001fA long, low sound made because of pain or distress.",
+                  "신음하다\u001fTo make a long, low sound because of pain or distress.",
+                  "불평하다\u001fTo complain repeatedly about something."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 2,
+          "definition": "To praise something repeatedly and enthusiastically.",
+          "isCorrect": false,
+          "explanation": "moan은 '신음(하다)'이나 '(계속) 불평하다'라는 뜻입니다. 열렬히 칭찬한다는 것은 정반대 의미라서 틀린 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-47-renovate",
+            "word": "renovate",
+            "sourceMeaning": "새롭게 하다, 수리하다",
+            "meanings": [
+              {
+                "ko": "새롭게 하다, 수리하다",
+                "en": "To repair and improve something old, especially a building.",
+                "wrongEn": "To exchange one currency for another at a bank."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "renovate",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 47과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-47.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "47",
+                "unitTitle": "47과",
+                "wordId": "wm-47-renovate",
+                "meaningKeys": [
+                  "새롭게 하다, 수리하다\u001fTo repair and improve something old, especially a building."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To demolish an old building completely and leave the site empty.",
+          "isCorrect": false,
+          "explanation": "renovate는 낡은 건물 등을 '수리하여 새롭게 하다'라는 뜻입니다. 완전히 허물어 빈 터로 두는 것이 아니므로 틀린 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-48-monotonous",
+            "word": "monotonous",
+            "sourceMeaning": "단조로운, 지루한",
+            "meanings": [
+              {
+                "ko": "단조로운, 지루한",
+                "en": "Lacking variety or change in a way that becomes boring.",
+                "wrongEn": "Requiring oxygen for growth or survival."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "monotonous",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-monotonous",
+                "meaningKeys": [
+                  "단조로운, 지루한\u001fLacking variety or change in a way that becomes boring."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "Full of variety and constant change, so it stays exciting.",
+          "isCorrect": false,
+          "explanation": "monotonous는 변화가 없어 '단조롭고 지루한'이라는 뜻입니다. 다양하고 흥미진진하다는 것은 반대 의미라서 틀린 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-46-scheme",
+            "word": "scheme",
+            "sourceMeaning": "계획, 체계, 계획하다",
+            "meanings": [
+              {
+                "ko": "계획",
+                "en": "An organized plan for achieving a particular result.",
+                "wrongEn": "A solid material left after a liquid has evaporated."
+              },
+              {
+                "ko": "체계",
+                "en": "An organized arrangement of related parts or ideas.",
+                "wrongEn": "A person who writes music for an orchestra."
+              },
+              {
+                "ko": "계획하다",
+                "en": "To make plans, especially plans kept secret from others.",
+                "wrongEn": "To heat a liquid until bubbles rise to its surface."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "체계\u001fAn organized arrangement of related parts or ideas."
+            ],
+            "key": "scheme",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 46과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-46.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "46",
+                "unitTitle": "46과",
+                "wordId": "wm-46-scheme",
+                "meaningKeys": [
+                  "계획\u001fAn organized plan for achieving a particular result.",
+                  "체계\u001fAn organized arrangement of related parts or ideas.",
+                  "계획하다\u001fTo make plans, especially plans kept secret from others."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "An organized arrangement of connected parts or ideas.",
+          "isCorrect": true,
+          "explanation": "scheme의 '체계' 뜻을 풀어 쓴 옳은 정의입니다. 서로 관련된 부분이나 생각을 짜임새 있게 배열한 것을 말합니다."
+        },
+        {
+          "word": {
+            "id": "wm-28-prone",
+            "word": "prone",
+            "sourceMeaning": "~하는 경향이 있는",
+            "meanings": [
+              {
+                "ko": "~하는 경향이 있는",
+                "en": "Likely to behave in a particular way or experience a particular problem.",
+                "wrongEn": "Able to be divided into exactly equal halves."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "prone",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 28과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-28.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "28",
+                "unitTitle": "28과",
+                "wordId": "wm-28-prone",
+                "meaningKeys": [
+                  "~하는 경향이 있는\u001fLikely to behave in a particular way or experience a particular problem."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "Unlikely to be affected by a particular problem.",
+          "isCorrect": false,
+          "explanation": "prone은 어떤 문제를 '겪기 쉬운, ~하는 경향이 있는'이라는 뜻입니다. 영향을 받을 가능성이 낮다는 것은 반대 의미이고, prone의 다른 뜻(엎드린)과도 맞지 않으므로 틀린 정의입니다."
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "kind": "incorrect",
+      "difficulty": "hard",
+      "intent": "틀린 영영풀이 하나를 찾는 문제입니다. degenerate를 generate(만들어 내다)와 헷갈리게 만든 보기가 핵심 함정이며, dismay와 eligible은 덜 익숙한 명사 뜻으로 출제했습니다.",
+      "answerIndex": 2,
+      "explanation": "degenerate는 '퇴보하다, 타락하다'라는 뜻으로 질이나 도덕성이 나빠지는 것을 말합니다. 새로운 것을 만들어 낸다는 풀이는 generate의 뜻이며, degenerate의 어떤 뜻에도 해당하지 않습니다. 나머지 네 보기는 모두 옳은 풀이입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-28-boast",
+            "word": "boast",
+            "sourceMeaning": "자랑하다, 떠벌리다",
+            "meanings": [
+              {
+                "ko": "자랑하다, 떠벌리다",
+                "en": "To speak with excessive pride about oneself or one's achievements.",
+                "wrongEn": "To arrange a meeting between people who have not met before."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "boast",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 28과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-28.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "28",
+                "unitTitle": "28과",
+                "wordId": "wm-28-boast",
+                "meaningKeys": [
+                  "자랑하다, 떠벌리다\u001fTo speak with excessive pride about oneself or one's achievements."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To talk too proudly about one's own abilities or achievements.",
+          "isCorrect": true,
+          "explanation": "boast '자랑하다, 떠벌리다'의 올바른 풀이입니다. 자기 능력이나 성과를 지나치게 자랑스럽게 말한다는 뜻입니다."
+        },
+        {
+          "word": {
+            "id": "wm-29-dismay",
+            "word": "dismay",
+            "sourceMeaning": "실망시키다, 낙담시키다, 걱정, 실망",
+            "meanings": [
+              {
+                "ko": "실망시키다, 낙담시키다",
+                "en": "To make someone feel troubled and deeply disappointed.",
+                "wrongEn": "To make a liquid change into a solid by cooling it."
+              },
+              {
+                "ko": "걱정, 실망",
+                "en": "A feeling of worry and disappointment caused by bad news.",
+                "wrongEn": "A public performance in which musicians play together."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "걱정, 실망\u001fA feeling of worry and disappointment caused by bad news."
+            ],
+            "key": "dismay",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 29과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-29.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "29",
+                "unitTitle": "29과",
+                "wordId": "wm-29-dismay",
+                "meaningKeys": [
+                  "실망시키다, 낙담시키다\u001fTo make someone feel troubled and deeply disappointed.",
+                  "걱정, 실망\u001fA feeling of worry and disappointment caused by bad news."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "A feeling of distress and disappointment, often caused by unexpected bad news.",
+          "isCorrect": true,
+          "explanation": "명사 dismay '걱정, 실망'의 올바른 풀이입니다. 나쁜 소식 때문에 생기는 걱정과 실망을 뜻합니다."
+        },
+        {
+          "word": {
+            "id": "wm-49-degenerate",
+            "word": "degenerate",
+            "sourceMeaning": "퇴보하다, 타락하다",
+            "meanings": [
+              {
+                "ko": "퇴보하다, 타락하다",
+                "en": "To become worse in quality, ability, or moral character.",
+                "wrongEn": "To travel around a planet along a regular path."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "de + generate로 외우면 좋을 것 같음",
+            "key": "degenerate",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-degenerate",
+                "meaningKeys": [
+                  "퇴보하다, 타락하다\u001fTo become worse in quality, ability, or moral character."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 0,
+          "definition": "To produce or create something new, such as energy or ideas.",
+          "isCorrect": false,
+          "explanation": "틀린 풀이입니다. 이것은 generate(만들어 내다)의 뜻입니다. degenerate는 de-가 붙어 '나빠지다, 퇴보하다, 타락하다'라는 반대 방향의 뜻이 됩니다."
+        },
+        {
+          "word": {
+            "id": "wm-29-spacious",
+            "word": "spacious",
+            "sourceMeaning": "넓은, 훤히 트인",
+            "meanings": [
+              {
+                "ko": "넓은, 훤히 트인",
+                "en": "Having plenty of open room or space.",
+                "wrongEn": "Likely to break easily when bent."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "spacious",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 29과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-29.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "29",
+                "unitTitle": "29과",
+                "wordId": "wm-29-spacious",
+                "meaningKeys": [
+                  "넓은, 훤히 트인\u001fHaving plenty of open room or space."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "Having a large amount of room inside.",
+          "isCorrect": true,
+          "explanation": "spacious '넓은, 훤히 트인'의 올바른 풀이입니다. 공간이 넉넉하다는 뜻입니다."
+        },
+        {
+          "word": {
+            "id": "wm-48-eligible",
+            "word": "eligible",
+            "sourceMeaning": "적격의, 적임자",
+            "meanings": [
+              {
+                "ko": "적격의",
+                "en": "Meeting the conditions required to be chosen or receive something.",
+                "wrongEn": "Located near the equator of the Earth."
+              },
+              {
+                "ko": "적임자",
+                "en": "A person who meets the conditions for a position or opportunity.",
+                "wrongEn": "A form of energy carried by electromagnetic waves."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "적임자\u001fA person who meets the conditions for a position or opportunity."
+            ],
+            "key": "eligible",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-eligible",
+                "meaningKeys": [
+                  "적격의\u001fMeeting the conditions required to be chosen or receive something.",
+                  "적임자\u001fA person who meets the conditions for a position or opportunity."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "A person who qualifies to be chosen for a position or opportunity.",
+          "isCorrect": true,
+          "explanation": "명사 eligible '적임자'의 올바른 풀이입니다. 어떤 자리나 기회에 필요한 조건을 갖춘 사람을 뜻합니다."
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "kind": "correct",
+      "difficulty": "hard",
+      "intent": "옳은 영영풀이 하나를 찾는 문제입니다. 모든 단어를 두 번째 뜻으로 출제했습니다. 정답은 덜 익숙한 brisk '번창하는'이고, 오답에는 public과 연결되는 오해와 damp–dunk 혼동을 노린 보기를 넣었습니다.",
+      "answerIndex": 1,
+      "explanation": "brisk에는 '활발한', '상쾌한' 외에 '(장사·거래가) 번창하는'이라는 뜻이 있습니다. 예를 들어 brisk trade는 '활발한 거래'를 뜻합니다. 나머지 보기는 모두 해당 단어의 어떤 뜻과도 맞지 않습니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-46-publicity",
+            "word": "publicity",
+            "sourceMeaning": "널리 알려짐, 명성, 광고, 선전",
+            "meanings": [
+              {
+                "ko": "널리 알려짐, 명성",
+                "en": "Public attention that makes a person or thing widely known.",
+                "wrongEn": "A method of sorting items according to their size."
+              },
+              {
+                "ko": "광고, 선전",
+                "en": "Activity intended to attract public attention to something.",
+                "wrongEn": "A regular payment made after someone stops working."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "publicity",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 46과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-46.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "46",
+                "unitTitle": "46과",
+                "wordId": "wm-46-publicity",
+                "meaningKeys": [
+                  "널리 알려짐, 명성\u001fPublic attention that makes a person or thing widely known.",
+                  "광고, 선전\u001fActivity intended to attract public attention to something."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "The quality of being owned or run by the government for everyone's use.",
+          "isCorrect": false,
+          "explanation": "틀린 풀이입니다. public(공공의)에서 떠올린 함정입니다. publicity는 '광고, 선전' 또는 '널리 알려짐'이라는 뜻이며, 공공 소유를 뜻하지 않습니다."
+        },
+        {
+          "word": {
+            "id": "wm-46-brisk",
+            "word": "brisk",
+            "sourceMeaning": "활발한, 번창하는, 상쾌한",
+            "meanings": [
+              {
+                "ko": "활발한",
+                "en": "Quick, energetic, and lively.",
+                "wrongEn": "Made entirely from materials that can dissolve in water."
+              },
+              {
+                "ko": "번창하는",
+                "en": "Showing a high level of business or activity.",
+                "wrongEn": "Unable to be seen without a microscope."
+              },
+              {
+                "ko": "상쾌한",
+                "en": "Cool and fresh in a way that makes one feel alert.",
+                "wrongEn": "Located far below the surface of the sea."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "brisk",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 46과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-46.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "46",
+                "unitTitle": "46과",
+                "wordId": "wm-46-brisk",
+                "meaningKeys": [
+                  "활발한\u001fQuick, energetic, and lively.",
+                  "번창하는\u001fShowing a high level of business or activity.",
+                  "상쾌한\u001fCool and fresh in a way that makes one feel alert."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "Marked by a lot of lively activity, especially in trade or business.",
+          "isCorrect": true,
+          "explanation": "옳은 풀이입니다. brisk '번창하는'은 장사나 거래가 활발하다는 뜻입니다(예: Business was brisk)."
+        },
+        {
+          "word": {
+            "id": "wm-49-demolish",
+            "word": "demolish",
+            "sourceMeaning": "파괴하다, 폐지하다",
+            "meanings": [
+              {
+                "ko": "파괴하다",
+                "en": "To completely destroy a building or other structure.",
+                "wrongEn": "To record spoken words in written form."
+              },
+              {
+                "ko": "폐지하다",
+                "en": "To put an end to an established system, institution, or practice.",
+                "wrongEn": "To measure temperature with a scientific instrument."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "key": "demolish",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-demolish",
+                "meaningKeys": [
+                  "파괴하다\u001fTo completely destroy a building or other structure.",
+                  "폐지하다\u001fTo put an end to an established system, institution, or practice."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "To officially establish a new system or institution.",
+          "isCorrect": false,
+          "explanation": "틀린 풀이입니다. demolish는 제도를 '폐지하다' 또는 건물을 '파괴하다'라는 뜻입니다. 새로 세운다는 것은 반대 뜻입니다."
+        },
+        {
+          "word": {
+            "id": "wm-48-landslide",
+            "word": "landslide",
+            "sourceMeaning": "산사태, 압도적인 승리",
+            "meanings": [
+              {
+                "ko": "산사태",
+                "en": "A mass of earth and rock that slides down a slope.",
+                "wrongEn": "A method of printing from a carved wooden block."
+              },
+              {
+                "ko": "압도적인 승리",
+                "en": "A victory won by a very large margin.",
+                "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "압도적인 승리\u001fA victory won by a very large margin."
+            ],
+            "key": "landslide",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 48과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-48.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "48",
+                "unitTitle": "48과",
+                "wordId": "wm-48-landslide",
+                "meaningKeys": [
+                  "산사태\u001fA mass of earth and rock that slides down a slope.",
+                  "압도적인 승리\u001fA victory won by a very large margin."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "An election result that is too close to call.",
+          "isCorrect": false,
+          "explanation": "틀린 풀이입니다. landslide는 '압도적인 승리' 또는 '산사태'라는 뜻입니다. 승부를 가리기 힘들 만큼 박빙인 결과와는 정반대입니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-damp",
+            "word": "damp",
+            "sourceMeaning": "축축한, 습기",
+            "meanings": [
+              {
+                "ko": "축축한",
+                "en": "Slightly wet, often in an unpleasant way.",
+                "wrongEn": "Allowed by law or an official rule."
+              },
+              {
+                "ko": "습기",
+                "en": "A small amount of moisture in the air or on a surface.",
+                "wrongEn": "A written promise to repay borrowed money."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [],
+            "studyNote": "dunk(잠그다, 적시다)와 헷갈림",
+            "key": "damp",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-damp",
+                "meaningKeys": [
+                  "축축한\u001fSlightly wet, often in an unpleasant way.",
+                  "습기\u001fA small amount of moisture in the air or on a surface."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "The act of dipping food quickly into a liquid.",
+          "isCorrect": false,
+          "explanation": "틀린 풀이입니다. 이것은 헷갈린다고 메모한 dunk(담그다, 적시다)의 뜻입니다. 명사 damp는 공기 중이나 표면의 '습기'를 뜻합니다."
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "kind": "incorrect",
+      "difficulty": "hard",
+      "intent": "틀린 영영풀이 하나를 찾는 문제입니다. 학습자가 모른다고 표시한 다의어 뜻(contribute '기부하다', rear '기르다', attend '보살피다', foster '수양의')을 모아 출제했습니다. 틀린 보기는 foster의 뜻을 '친혈연'으로 뒤집은 것입니다.",
+      "answerIndex": 4,
+      "explanation": "foster '수양의, 위탁의'는 친부모나 법적 입양 관계가 아닌데도 가정에서 돌봄을 주거나 받는 것을 말합니다. '같은 친부모에게서 태어난'이라는 풀이는 정반대이며, foster의 '육성하다' 뜻과도 관계가 없습니다. 나머지 보기는 모두 옳은 풀이입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-49-reckon",
+            "word": "reckon",
+            "sourceMeaning": "세다, 계산하다, 생각하다",
+            "meanings": [
+              {
+                "ko": "세다, 계산하다",
+                "en": "To count or calculate a number or amount.",
+                "wrongEn": "To preserve food by keeping it below freezing."
+              },
+              {
+                "ko": "생각하다",
+                "en": "To believe, consider, or judge something to be true.",
+                "wrongEn": "To record spoken words in written form."
+              }
+            ],
+            "studyLevel": "unknown",
+            "unknownMeaningKeys": [
+              "세다, 계산하다\u001fTo count or calculate a number or amount."
+            ],
+            "key": "reckon",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 49과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-49.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "49",
+                "unitTitle": "49과",
+                "wordId": "wm-49-reckon",
+                "meaningKeys": [
+                  "세다, 계산하다\u001fTo count or calculate a number or amount.",
+                  "생각하다\u001fTo believe, consider, or judge something to be true."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To work out a total or amount by counting or calculating.",
+          "isCorrect": true,
+          "explanation": "reckon '세다, 계산하다'의 올바른 풀이입니다. 수나 양을 세거나 계산한다는 뜻입니다."
+        },
+        {
+          "word": {
+            "id": "wm-27-contribute",
+            "word": "contribute",
+            "sourceMeaning": "기여하다, 공헌하다, 기부하다",
+            "meanings": [
+              {
+                "ko": "기여하다, 공헌하다",
+                "en": "To help bring about a result or make something successful.",
+                "wrongEn": "To remove dust from a surface with a dry cloth."
+              },
+              {
+                "ko": "기부하다",
+                "en": "To give money, goods, or effort to support a shared purpose.",
+                "wrongEn": "To carry a message secretly from one person to another."
+              }
+            ],
+            "studyLevel": "review",
+            "unknownMeaningKeys": [
+              "기부하다\u001fTo give money, goods, or effort to support a shared purpose."
+            ],
+            "key": "contribute",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 27과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-27.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "27",
+                "unitTitle": "27과",
+                "wordId": "wm-27-contribute",
+                "meaningKeys": [
+                  "기여하다, 공헌하다\u001fTo help bring about a result or make something successful.",
+                  "기부하다\u001fTo give money, goods, or effort to support a shared purpose."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "To give money or help, together with others, toward a common cause.",
+          "isCorrect": true,
+          "explanation": "contribute '기부하다'의 올바른 풀이입니다. 공동의 목적을 위해 돈이나 물자, 노력을 내놓는다는 뜻입니다(예: contribute to charity). 001회 11번에서 알아보지 못한 뜻입니다."
+        },
+        {
+          "word": {
+            "id": "wm-25-rear",
+            "word": "rear",
+            "sourceMeaning": "뒤, 뒤의, 후방의, 가르다",
+            "meanings": [
+              {
+                "ko": "뒤",
+                "en": "The back part of something.",
+                "wrongEn": "The point at which two roads cross."
+              },
+              {
+                "ko": "뒤의, 후방의",
+                "en": "Situated at or toward the back of something.",
+                "wrongEn": "Made from a mixture of several metals."
+              },
+              {
+                "ko": "기르다",
+                "en": "To care for and raise children or young animals.",
+                "wrongEn": "To calculate the speed of a moving object."
+              }
+            ],
+            "sourceNote": "원문 뜻의 \"가르다\"는 \"기르다\"의 오타로 판단하여 학습 뜻을 바로잡았습니다. sourceMeaning에는 원문을 보존했습니다.",
+            "studyLevel": "review",
+            "unknownMeaningKeys": [
+              "기르다\u001fTo care for and raise children or young animals."
+            ],
+            "key": "rear",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 25과"
+            ],
+            "notes": [
+              "원문 뜻의 \"가르다\"는 \"기르다\"의 오타로 판단하여 학습 뜻을 바로잡았습니다. sourceMeaning에는 원문을 보존했습니다."
+            ],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-25.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "25",
+                "unitTitle": "25과",
+                "wordId": "wm-25-rear",
+                "meaningKeys": [
+                  "뒤\u001fThe back part of something.",
+                  "뒤의, 후방의\u001fSituated at or toward the back of something.",
+                  "기르다\u001fTo care for and raise children or young animals."
+                ]
+              }
+            ],
+            "studyNote": ""
+          },
+          "meaningIndex": 2,
+          "definition": "To bring up and look after young children or animals until they are grown.",
+          "isCorrect": true,
+          "explanation": "rear '기르다'의 올바른 풀이입니다. 아이나 어린 동물을 돌보며 키운다는 뜻입니다(예: rear children). 001회 5번에서 놓친 뜻입니다."
+        },
+        {
+          "word": {
+            "id": "wm-29-attend",
+            "word": "attend",
+            "sourceMeaning": "출석하다, 보살피다",
+            "meanings": [
+              {
+                "ko": "출석하다",
+                "en": "To be present at an event, class, or meeting.",
+                "wrongEn": "To separate solid particles from a liquid with a filter."
+              },
+              {
+                "ko": "보살피다",
+                "en": "To look after someone or give attention to their needs.",
+                "wrongEn": "To mark the outer edge of a piece of land."
+              }
+            ],
+            "studyLevel": "review",
+            "unknownMeaningKeys": [
+              "보살피다\u001fTo look after someone or give attention to their needs."
+            ],
+            "studyNote": "2번 뜻(보살피다)이 정말 안 외워진다.",
+            "key": "attend",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 29과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-29.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "29",
+                "unitTitle": "29과",
+                "wordId": "wm-29-attend",
+                "meaningKeys": [
+                  "출석하다\u001fTo be present at an event, class, or meeting.",
+                  "보살피다\u001fTo look after someone or give attention to their needs."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "To take care of someone and deal with their needs.",
+          "isCorrect": true,
+          "explanation": "attend '보살피다'의 올바른 풀이입니다. 누군가를 돌보고 필요한 것을 챙긴다는 뜻입니다(예: attend to a patient)."
+        },
+        {
+          "word": {
+            "id": "wm-25-foster",
+            "word": "foster",
+            "sourceMeaning": "육성하다, 촉진하다, 수양의, 위탁의",
+            "meanings": [
+              {
+                "ko": "육성하다, 촉진하다",
+                "en": "To encourage the growth or development of something.",
+                "wrongEn": "To remove a section from a written document."
+              },
+              {
+                "ko": "수양의, 위탁의",
+                "en": "Providing or receiving family care without a biological or legal adoptive relationship.",
+                "wrongEn": "Designed to operate under water."
+              }
+            ],
+            "studyLevel": "review",
+            "unknownMeaningKeys": [
+              "수양의, 위탁의\u001fProviding or receiving family care without a biological or legal adoptive relationship."
+            ],
+            "studyNote": "'수양의, 위탁의' 뜻이 아주 안 외워짐.",
+            "key": "foster",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 25과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-25.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "25",
+                "unitTitle": "25과",
+                "wordId": "wm-25-foster",
+                "meaningKeys": [
+                  "육성하다, 촉진하다\u001fTo encourage the growth or development of something.",
+                  "수양의, 위탁의\u001fProviding or receiving family care without a biological or legal adoptive relationship."
+                ]
+              }
+            ]
+          },
+          "meaningIndex": 1,
+          "definition": "Related by birth to the same biological parents.",
+          "isCorrect": false,
+          "explanation": "틀린 풀이입니다. foster는 '수양의, 위탁의'라는 뜻으로, 혈연이나 법적 입양 관계가 없는 돌봄을 가리킵니다(예: foster parents = 수양 부모). 친혈연은 정반대 개념입니다."
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "summary": "워드마스터 25~30과와 46~50과 학습 기록, 그리고 AI 영영풀이 시험 두 번(9/28 001회 17/20, 002회 7/8)을 분석했습니다.\n\n**가장 먼저 복습할 단어 (본인이 '우선 학습'으로 표시)**\n- 플래시카드 재시도 횟수가 많은 단어: prominent 5회, plausible·detest·defy·setback 각 4회, contend·crude·intact·confine·discern·constraint·reprove·despise·proclaim·subordinate·prudent 각 3회\n- 그 밖의 우선 학습 단어: peculiar, imprint, endow, subdue, grudge, prosper, staple, dispersal, innermost, stout, dusk\n\n**'모름'으로 표시했고 재시도가 많은 단어**\n- conceive 5회, particular·conform 각 4회, conduct·compulsive·deviation·arbitrary·delegate·furnish·tangle 각 3회\n\n**취약점 패턴 두 가지**\n1. **형태가 비슷한 단어 혼동:** con-/de-/dis- 등 접두사가 같거나 철자가 비슷한 단어를 헷갈립니다. 메모에 직접 적은 혼동 예:\n   - conceive–deceive, conform–confirm, confine–refine, discern–concern\n   - despise–despite, defy–deny, dispense–dispose, dispersal–disposal\n   - peculiar–particular, setback·withdraw–drawback\n2. **다의어의 두 번째 이후 뜻:** 기본 뜻과 달리 두 번째 이후 뜻을 모른다고 표시한 경우가 많습니다.\n   - 예: attend '보살피다', currency '통용', overall '작업복', foster '수양의', range '정렬시키다', maintain '지지하다', contribute '기부하다', rear '기르다'\n\n**시험에서 틀린 문항 (고른 답과 실제 정답을 구분)**\n- **001회 5번:** stun의 틀린 정의(포장하다)를 옳다고 골랐고, 정답은 rear '기르다'였습니다.\n- **001회 11번:** tension의 틀린 정의(곡물을 빻다)를 골랐고, 정답은 contribute '기부하다'였습니다.\n- **001회 18번:** 옳은 정의인 nourish '기르다'를 틀렸다고 골랐고, 실제로 틀린 보기는 crack의 정의였습니다.\n- **002회 5번:** surveillance의 틀린 정의(두 물질을 섞다)를 골랐고, 정답은 expose '노출시키다'였습니다.\n\n**이전 요약 정정**\n002회 이전 요약에는 '채점 근거가 엇갈린다'고 적혀 있었습니다. 하지만 기록을 다시 보면 고른 답(3번 surveillance)과 정답(1번 expose)이 일관되게 남아 있어 모순이 없습니다.",
+    "weaknesses": [
+      "**우선 학습으로 표시했고 재시도가 많은 단어:** prominent(5회, 메모 '현저한'이 특히 안 외워짐), plausible(4회, pleasurable과 혼동), detest(4회), defy(4회, deny와 혼동), setback(4회, drawback과 혼동), contend(3회, content·intend와 혼동), crude·intact(contact)·confine(refine)·discern(concern)·reprove(improve·approve)·proclaim(claim)·subordinate·prudent(각 3회). 가장 먼저 다뤄야 할 단어들입니다.",
+      "**constraint:** '순응하는'이라는 뜻으로 착각했다고 메모했습니다. 우선 학습 단어이고 재시도는 3회입니다. conform '순응하다'와 뜻이 섞였을 가능성이 있습니다(conform도 재시도 4회에 confirm과 헷갈린다고 메모).",
+      "**despise·peculiar:** 우선 학습으로 표시했고 유일한 뜻을 모른다고 표시했습니다. despise '경멸하다'는 despite와, peculiar '독특한'은 particular와 헷갈린다고 메모했습니다. particular도 '모름' 표시에 '개개의'·'사항' 뜻을 모른다고 했고 재시도가 4회라서, 두 단어를 함께 정리해야 합니다.",
+      "**접두사가 같거나 철자가 비슷한 단어 혼동 (본인 메모 기준):** conceive–deceive(재시도 5회), delegate–delude·despise, deviation–depletion, dispense–dispose, dispersal–disposal, compulsive–impulsive, empirical–empire, coherent–inherent, afflict–conflict·affair, encircle–enclose, oversee–overlook, liable–reliable, proficient–sufficient·proliferate, retort–retreat·resort, tact–tactic, thorough–through·though, damp–dunk.",
+      "**drawback 주변 혼동:** withdraw는 '모름' 표시에 '철수하다'·'철회하다' 뜻을 모른다고 했고, 메모에 drawback의 '결함'과 헷갈린다고 적었습니다. setback도 drawback과 혼동한다고 메모했습니다.",
+      "**다의어의 두 번째 이후 뜻 (모른다고 표시한 뜻):** attend '보살피다'(정말 안 외워짐), currency '통용', overall '작업복', foster '수양의·위탁의'(아주 안 외워짐), range '정렬시키다'(진짜 안 외워짐), arbitrary '독단적인', prominent '현저한', maintain '지지하다', promote '승진시키다', respect '관련', strike '떠오르다'·'파업', conduct '행위'·'안내', compulsive '강박의', conform '일치하다', discharge '배출'·'방전'·'배출하다'.",
+      "**시험 오답에서 확인된 약점:** 001회 11번에서 contribute '기부하다'를 정답으로 알아보지 못했습니다(본인도 모른다고 표시한 뜻). 001회 5번에서는 rear '기르다'를 알아보지 못했고 stun의 틀린 정의를 골랐습니다. rear '기르다'도 본인이 모른다고 표시한 뜻입니다.",
+      "**001회 18번:** 옳은 정의인 nourish '기르다(감정·능력을 키우다)'를 틀렸다고 판단했습니다. nourish의 이 뜻을 확실히 알지 못한다는 직접 근거입니다(nourish 재시도 1회). 정답인 crack의 틀린 정의는 가려내지 못했지만, crack '금 가다'를 모른다는 근거까지는 아닙니다.",
+      "**002회 5번:** surveillance에 붙은 틀린 정의(두 물질을 혼합)를 옳다고 골랐고, 정답인 expose '노출시키다'를 알아보지 못했습니다. 이 오답만으로 soar·disclose·invent를 모른다고 볼 수는 없습니다."
+    ],
+    "recommendations": [
+      "**1순위:** 우선 학습 단어부터 복습하세요. 재시도 4~5회인 prominent·plausible·detest·defy·setback을 먼저 하고, 다음으로 재시도 3회인 contend·crude·intact·confine·discern·constraint·reprove·despise·proclaim·subordinate·prudent를 복습하세요. 메모에 적은 혼동 단어와 짝으로 묶어서 하면 좋습니다.",
+      "**헷갈리는 짝을 표로 정리하세요.** 철자 차이, 뜻, 예문을 나란히 적는 방식입니다.\n- peculiar(독특한) vs particular(특정한)\n- despise(경멸하다) vs despite(~에도 불구하고)\n- conform(순응하다) vs confirm(확정하다) vs constraint(강제·압박)\n- conceive(생각해 내다) vs deceive(속이다)\n- defy(반항하다) vs deny(부인하다)\n- setback(차질) vs drawback(결점) vs withdraw(철수·철회하다)",
+      "**접두사와 어근으로 뜻을 붙잡으세요.**\n- dis-/de-: dispense(나누어 주다)–dispose(처분하다), dispersal(분산)–disposal(처분), deviation(일탈: de+via '길에서 벗어남')\n- 메모한 방법도 활용하세요: degenerate = de + generate, furnish = furniture의 동사형\n- 이렇게 어원으로 뜻을 고정하면 비슷한 철자에 덜 흔들립니다.",
+      "**다의어는 뜻마다 예문 하나씩 만들어 암기하세요.** 특히 모른다고 표시한 두 번째 이후 뜻에 집중합니다.\n- attend to a patient(보살피다)\n- currency of an idea(통용)\n- wear overalls(작업복)\n- foster parents(수양 부모)\n- range the chairs(정렬시키다)\n- contribute to charity(기부하다)\n- rear children(기르다)\n- nourish hope(키우다)",
+      "**시험에서 틀린 뜻을 다시 확인하세요.** stun '기절시키다', expose '노출시키다', surveillance '감시'를 영영풀이로 보고 옳은지 그른지 판단하는 O/X 형식으로 짧게 다시 점검하면 좋습니다. 오답에 함께 나온 나머지 보기 단어는 따로 확인이 필요할 때만 점검하세요.",
+      "**'모름'으로 표시했고 재시도가 많은 단어는 짧은 간격으로 반복하세요.** conceive·particular·conform·conduct·compulsive·deviation·arbitrary·delegate·furnish·tangle을 2~3일 간격으로 다시 보고, 플래시카드 재시도 횟수가 0이 되는지 확인하세요."
+    ],
+    "effectiveMode": "weak"
+  },
+  "modelsUsed": {
+    "collect": "claude-opus-5-5",
+    "select": "claude-opus-5-5",
+    "generate": "claude-opus-5-5",
+    "verify": "gpt-5.6-terra"
+  },
+  "providers": {
+    "collect": "claude",
+    "select": "claude",
+    "generate": "claude",
+    "verify": "copilot"
+  },
+  "type": "ai-test",
+  "createdAt": "2026-09-29T12:53:34.095Z",
+  "selectedScope": [
+    {
+      "bookId": "wordmaster",
+      "bookTitle": "2026 워드마스터 수능 2000",
+      "unitIds": [
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50"
+      ],
+      "units": [
+        {
+          "unitId": "25",
+          "unitTitle": "25과",
+          "unitKey": "wordmaster/unit-25.json"
+        },
+        {
+          "unitId": "26",
+          "unitTitle": "26과",
+          "unitKey": "wordmaster/unit-26.json"
+        },
+        {
+          "unitId": "27",
+          "unitTitle": "27과",
+          "unitKey": "wordmaster/unit-27.json"
+        },
+        {
+          "unitId": "28",
+          "unitTitle": "28과",
+          "unitKey": "wordmaster/unit-28.json"
+        },
+        {
+          "unitId": "29",
+          "unitTitle": "29과",
+          "unitKey": "wordmaster/unit-29.json"
+        },
+        {
+          "unitId": "30",
+          "unitTitle": "30과",
+          "unitKey": "wordmaster/unit-30.json"
+        },
+        {
+          "unitId": "46",
+          "unitTitle": "46과",
+          "unitKey": "wordmaster/unit-46.json"
+        },
+        {
+          "unitId": "47",
+          "unitTitle": "47과",
+          "unitKey": "wordmaster/unit-47.json"
+        },
+        {
+          "unitId": "48",
+          "unitTitle": "48과",
+          "unitKey": "wordmaster/unit-48.json"
+        },
+        {
+          "unitId": "49",
+          "unitTitle": "49과",
+          "unitKey": "wordmaster/unit-49.json"
+        },
+        {
+          "unitId": "50",
+          "unitTitle": "50과",
+          "unitKey": "wordmaster/unit-50.json"
+        }
+      ]
+    }
+  ],
+  "options": {
+    "scope": "all",
+    "count": 18,
+    "mode": "weak",
+    "difficulty": "hard"
+  },
+  "models": {
+    "collect": "claude-opus-5-5",
+    "select": "claude-opus-5-5",
+    "generate": "claude-opus-5-5",
+    "verify": "gpt-5.6-terra"
+  },
+  "schemaVersion": 1,
+  "examId": "2026-09-29-001",
+  "updatedAt": "2026-09-29T23:32:26.129Z",
+  "status": "complete",
+  "answers": [
+    3,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    3,
+    2,
+    1,
+    0,
+    2,
+    0,
+    4,
+    3,
+    2,
+    1,
+    2
+  ],
+  "position": 17,
+  "summary": {
+    "strengths": [
+      "총점은 13/18이고, 난이도별로는 쉬움 2/2, 보통 3/5, 어려움 8/11입니다. 어려운 문항에서도 정답률이 높은 편입니다.",
+      "직접 '안 외워진다'고 메모했던 다의어의 두 번째 뜻을 옳은 정의로 골랐습니다. range '정렬시키다'(q13), prominent '현저한'(q7), imprint '감명시키다'(q9), scheme '체계'(q15), brisk '번창하는'(q17)이 여기에 해당합니다. 다만 각각 한 문항씩만 확인했으므로, 이 뜻들이 완전히 자리 잡았다고 보기는 아직 이릅니다.",
+      "뜻을 정반대로 뒤집은 오답을 여러 번 가려냈습니다. subdue '완화하다'를 '더 강하게 하다'로 바꾼 보기(q8), arbitrary '독단적인'을 '공정하게'로 바꾼 보기(q10), extrinsic에 intrinsic의 뜻을 붙인 보기(q12)가 그 예입니다. 영어 풀이에서 방향(긍정·부정)을 읽어 내는 힘이 있다는 근거입니다.",
+      "비슷한 모양의 단어 뜻을 붙인 함정도 여러 번 피했습니다. discern에 붙은 concern의 뜻 '걱정하다'(q4)와 degenerate에 붙은 generate의 뜻(q16)을 틀린 정의로 찾아냈습니다. q3에서는 withdraw에 붙은 '단점'(drawback)이나 reprove에 붙은 '개선하다'(improve)를 고르지 않고 retort를 골랐습니다. 다만 이 결과만으로 withdraw·reprove의 뜻을 알고 있다고 단정할 수는 없습니다.",
+      "delegate의 명사 뜻 '대표'(q1)를 골랐고, constraint의 틀린 정의(q2)도 찾아냈습니다. 둘 다 쉬운 문항이지만 정답을 맞혔습니다."
+    ],
+    "weaknesses": [
+      "메모해 둔 기존 착각이 실제 오답으로 그대로 나타났습니다. q11에서는 outset에 '최종 결과'라는 정의가 붙은 보기를 골랐는데, 메모의 '결과로 착각함'과 같고 실제 뜻 '시작'과는 정반대입니다. q5에서는 coherent에 inherent의 뜻('본래 갖추어진')이 붙은 보기를 골랐고, 메모의 coherent–inherent 혼동과 일치합니다. 두 문항 모두 모양이 비슷한 단어와 뜻이 섞이는 '뜻' 문제이고, 철자 문제로 보기는 어렵습니다.",
+      "q6에서는 reliable의 뜻('믿을 만한')이 붙은 liable 보기를 옳은 정의로 넘겼습니다. 메모에 적은 liable–reliable 혼동이 여전하다는 근거입니다. 이때 틀렸다고 고른 보기는 proficient의 옳은 정의('숙달된')였습니다. 그래서 proficient의 뜻이 불확실할 가능성도 있지만, 한 번의 응답만으로는 판단하기 어렵습니다.",
+      "'틀린 정의 고르기' 문항에서 틀린 세 번(q6, q14, q18) 모두 실제로는 옳은 정의를 틀렸다고 골랐습니다. q14의 embed '깊이 간직하다'와 q18의 rear '기르다'는 기록에서 모르는 뜻(unknownMeaningKeys)으로 표시된 뜻이었습니다. 덜 익숙한 뜻을 보면 곧바로 '틀린 보기'로 판단하는 경향이 있을 수 있습니다. 다만 한 문항에 한 번씩만 응답한 결과이므로 확정할 수는 없습니다.",
+      "q18에서 foster '수양의, 위탁의'를 '같은 친부모에게서 태어난'으로 정반대로 바꾼 보기를 가려내지 못했습니다. 다른 문항에서는 반대 뜻을 잘 찾아냈으므로, 영어 풀이의 방향을 잘못 읽었다기보다 foster '수양의' 뜻 자체가 불확실했을 가능성이 큽니다. 메모에도 이 뜻이 아주 안 외워진다고 적혀 있습니다.",
+      "q14에서는 mow(날·기계로 풀을 베다)에 '손으로 과일을 따다'라는 비슷한 수확 동작을 붙인 보기를 찾아내지 못했습니다. 뜻이 완전히 다르지 않고 비슷한 범주로 살짝 바꾼 오답에는 약할 수 있습니다. 다만 근거는 이 한 문항뿐입니다.",
+      "q5에서 정답인 compulsive '강박의' 보기를 고르지 않았습니다. 이 뜻은 기록에서도 모르는 뜻으로 표시되어 있습니다. 모르는 뜻이어서 못 골랐는지, coherent 함정에 끌렸는지는 이 응답만으로 구별할 수 없습니다. 같은 문항의 afflict·empirical·encircle은 고르지 않았을 뿐이므로, 알고 있다는 근거로 보지 않습니다.",
+      "이번 평가는 모두 영어 풀이와 뜻을 짝짓는 객관식입니다. 철자를 직접 쓰는 능력은 측정하지 않았으므로 철자 실력은 판단할 수 없습니다."
+    ],
+    "recommendations": [
+      "outset은 반대말과 짝지어 외우세요. 'at the outset = 처음에 ↔ in the end = 결국'처럼 묶고, 'out(밖으로) + set(놓다) = 출발선에 놓다 → 시작'으로 기억하면 '결과'라는 착각을 바로잡는 데 도움이 됩니다.",
+      "철자가 비슷해서 헷갈리는 단어는 3쌍을 표로 만들어, 매일 영어 뜻을 보고 단어를 고르는 연습을 하세요. liable(책임이 있는·~하기 쉬운) vs reliable(믿을 만한), coherent(조리 있는) vs inherent(내재된), outset(시작) vs outcome(결과)입니다. 특히 'be liable for(~에 책임이 있다)', 'be liable to do(~하기 쉽다)'처럼 짧은 구로 익히세요.",
+      "이번에 틀린 정의로 잘못 고른 뜻들은 예문과 함께 복습하세요. embed '깊이 간직하다'(deeply embedded in the culture), rear '기르다'(rear children), foster '수양의'(foster parents, foster care)입니다. 이 뜻들이 영어 풀이로 나오면 옳은 뜻으로 알아볼 수 있어야 합니다.",
+      "'틀린 정의 고르기' 문항에서는 낯선 뜻을 곧바로 오답으로 고르지 마세요. 먼저 확실히 아는 보기부터 옳음·틀림을 판단하고, 잘 아는 단어(예: mow)에 뜻을 살짝 바꾼 풀이가 붙어 있지 않은지 확인하세요. 모든 보기를 확인한 뒤에 답을 고르는 습관을 들이면 좋습니다.",
+      "compulsive(강박의) vs impulsive(충동적인)도 따로 정리하세요. 'compel(강요하다) → compulsive'로 연결하면 좋습니다. proficient는 q6 응답 하나만으로 모른다고 단정할 수 없으니, 'proficient in English(영어에 능숙한)' 같은 예문으로 가볍게 다시 확인해 보세요.",
+      "q13·q7·q15·q17에서 맞힌 두 번째 뜻(range '정렬시키다', prominent '현저한', scheme '체계', brisk '번창하는')은 한 번 맞혔을 뿐입니다. 며칠 뒤 다른 형식의 문제로 한 번 더 확인해서 기억에 남아 있는지 점검하세요."
+    ]
+  },
+  "summaryStatus": "complete",
+  "results": [
+    {
+      "questionId": "q1",
+      "answer": 3,
+      "answerIndex": 3,
+      "correct": true,
+      "difficulty": "easy",
+      "wordKeys": [
+        "peculiar",
+        "particular",
+        "despise",
+        "delegate",
+        "detest"
+      ]
+    },
+    {
+      "questionId": "q2",
+      "answer": 1,
+      "answerIndex": 1,
+      "correct": true,
+      "difficulty": "easy",
+      "wordKeys": [
+        "conform",
+        "constraint",
+        "confine",
+        "conceive",
+        "contend"
+      ]
+    },
+    {
+      "questionId": "q3",
+      "answer": 2,
+      "answerIndex": 2,
+      "correct": true,
+      "difficulty": "medium",
+      "wordKeys": [
+        "setback",
+        "withdraw",
+        "retort",
+        "reprove",
+        "proclaim"
+      ]
+    },
+    {
+      "questionId": "q4",
+      "answer": 1,
+      "answerIndex": 1,
+      "correct": true,
+      "difficulty": "medium",
+      "wordKeys": [
+        "defy",
+        "discern",
+        "deviation",
+        "dispense",
+        "dispersal"
+      ]
+    },
+    {
+      "questionId": "q5",
+      "answer": 1,
+      "answerIndex": 0,
+      "correct": false,
+      "difficulty": "medium",
+      "wordKeys": [
+        "compulsive",
+        "coherent",
+        "afflict",
+        "empirical",
+        "encircle"
+      ]
+    },
+    {
+      "questionId": "q6",
+      "answer": 1,
+      "answerIndex": 2,
+      "correct": false,
+      "difficulty": "medium",
+      "wordKeys": [
+        "oversee",
+        "proficient",
+        "liable",
+        "tact",
+        "thorough"
+      ]
+    },
+    {
+      "questionId": "q7",
+      "answer": 1,
+      "answerIndex": 1,
+      "correct": true,
+      "difficulty": "medium",
+      "wordKeys": [
+        "plausible",
+        "prominent",
+        "prudent",
+        "crude",
+        "intact"
+      ]
+    },
+    {
+      "questionId": "q8",
+      "answer": 3,
+      "answerIndex": 3,
+      "correct": true,
+      "difficulty": "hard",
+      "wordKeys": [
+        "endow",
+        "vow",
+        "prosper",
+        "subdue",
+        "staple"
+      ]
+    },
+    {
+      "questionId": "q9",
+      "answer": 2,
+      "answerIndex": 2,
+      "correct": true,
+      "difficulty": "hard",
+      "wordKeys": [
+        "innermost",
+        "stout",
+        "imprint",
+        "dusk",
+        "grudge"
+      ]
+    },
+    {
+      "questionId": "q10",
+      "answer": 1,
+      "answerIndex": 1,
+      "correct": true,
+      "difficulty": "hard",
+      "wordKeys": [
+        "subordinate",
+        "arbitrary",
+        "conduct",
+        "furnish",
+        "tangle"
+      ]
+    },
+    {
+      "questionId": "q11",
+      "answer": 0,
+      "answerIndex": 2,
+      "correct": false,
+      "difficulty": "hard",
+      "wordKeys": [
+        "outset",
+        "peril",
+        "quest",
+        "interval",
+        "intrude"
+      ]
+    },
+    {
+      "questionId": "q12",
+      "answer": 2,
+      "answerIndex": 2,
+      "correct": true,
+      "difficulty": "hard",
+      "wordKeys": [
+        "offspring",
+        "intervene",
+        "extrinsic",
+        "reservoir",
+        "bypass"
+      ]
+    },
+    {
+      "questionId": "q13",
+      "answer": 0,
+      "answerIndex": 0,
+      "correct": true,
+      "difficulty": "hard",
+      "wordKeys": [
+        "range",
+        "undergo",
+        "pitfall",
+        "conviction",
+        "merge"
+      ]
+    },
+    {
+      "questionId": "q14",
+      "answer": 4,
+      "answerIndex": 1,
+      "correct": false,
+      "difficulty": "hard",
+      "wordKeys": [
+        "enact",
+        "mow",
+        "alienate",
+        "embody",
+        "embed"
+      ]
+    },
+    {
+      "questionId": "q15",
+      "answer": 3,
+      "answerIndex": 3,
+      "correct": true,
+      "difficulty": "hard",
+      "wordKeys": [
+        "moan",
+        "renovate",
+        "monotonous",
+        "scheme",
+        "prone"
+      ]
+    },
+    {
+      "questionId": "q16",
+      "answer": 2,
+      "answerIndex": 2,
+      "correct": true,
+      "difficulty": "hard",
+      "wordKeys": [
+        "boast",
+        "dismay",
+        "degenerate",
+        "spacious",
+        "eligible"
+      ]
+    },
+    {
+      "questionId": "q17",
+      "answer": 1,
+      "answerIndex": 1,
+      "correct": true,
+      "difficulty": "hard",
+      "wordKeys": [
+        "publicity",
+        "brisk",
+        "demolish",
+        "landslide",
+        "damp"
+      ]
+    },
+    {
+      "questionId": "q18",
+      "answer": 2,
+      "answerIndex": 4,
+      "correct": false,
+      "difficulty": "hard",
+      "wordKeys": [
+        "reckon",
+        "contribute",
+        "rear",
+        "attend",
+        "foster"
+      ]
+    }
+  ],
+  "score": {
+    "correct": 13,
+    "total": 18
+  },
+  "completedAt": "2026-09-29T23:31:38.270Z"
+}

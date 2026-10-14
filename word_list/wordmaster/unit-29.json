@@ -1,0 +1,679 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "29",
+  "unitTitle": "29과",
+  "source": "material/wordmaster_25_30_46_50.md",
+  "words": [
+    {
+      "id": "wm-29-draft",
+      "word": "draft",
+      "sourceMeaning": "원고, 초안, 초안을 그리다",
+      "meanings": [
+        {
+          "ko": "원고, 초안",
+          "en": "An early written version that may still be changed.",
+          "wrongEn": "A narrow passage connecting two large areas of water."
+        },
+        {
+          "ko": "초안을 그리다",
+          "en": "To prepare an early version of a text or plan.",
+          "wrongEn": "To preserve food by removing its moisture."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-29-crude",
+      "word": "crude",
+      "sourceMeaning": "가공하지 않은, 조잡한",
+      "meanings": [
+        {
+          "ko": "가공하지 않은",
+          "en": "Still in a natural state without being processed.",
+          "wrongEn": "Able to spread easily from one person to another."
+        },
+        {
+          "ko": "조잡한",
+          "en": "Made roughly and without careful skill or detail.",
+          "wrongEn": "Relating to the study of ancient languages."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-29-supplement",
+      "word": "supplement",
+      "sourceMeaning": "보충, 보충물, 보충하다",
+      "meanings": [
+        {
+          "ko": "보충, 보충물",
+          "en": "Something added to supply what is missing or needed.",
+          "wrongEn": "A formal ceremony marking the end of a school course."
+        },
+        {
+          "ko": "보충하다",
+          "en": "To add something extra to improve or complete something.",
+          "wrongEn": "To move quietly in order to avoid being noticed."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-velocity",
+      "word": "velocity",
+      "sourceMeaning": "속도",
+      "meanings": [
+        {
+          "ko": "속도",
+          "en": "The speed of movement, often considered with its direction.",
+          "wrongEn": "The amount of moisture present in the air."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-tame",
+      "word": "tame",
+      "sourceMeaning": "길들이다, 길들여진",
+      "meanings": [
+        {
+          "ko": "길들이다",
+          "en": "To train a wild animal to accept human control.",
+          "wrongEn": "To calculate the distance around a circle."
+        },
+        {
+          "ko": "길들여진",
+          "en": "Accustomed to people and no longer wild or dangerous.",
+          "wrongEn": "Unable to be dissolved in a liquid."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-adapt",
+      "word": "adapt",
+      "sourceMeaning": "적응하다, 적응시키다",
+      "meanings": [
+        {
+          "ko": "적응하다",
+          "en": "To become suited to new conditions or a new situation.",
+          "wrongEn": "To divide a number into equal mathematical parts."
+        },
+        {
+          "ko": "적응시키다",
+          "en": "To change something so that it suits a new purpose or situation.",
+          "wrongEn": "To cover a surface with a thin layer of metal."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-manage",
+      "word": "manage",
+      "sourceMeaning": "잘 해내다, 다루다",
+      "meanings": [
+        {
+          "ko": "잘 해내다",
+          "en": "To succeed in doing something, especially something difficult.",
+          "wrongEn": "To send light back from a polished surface."
+        },
+        {
+          "ko": "다루다",
+          "en": "To control or take care of a person, activity, or situation.",
+          "wrongEn": "To grow new leaves at the beginning of spring."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-dismay",
+      "word": "dismay",
+      "sourceMeaning": "실망시키다, 낙담시키다, 걱정, 실망",
+      "meanings": [
+        {
+          "ko": "실망시키다, 낙담시키다",
+          "en": "To make someone feel troubled and deeply disappointed.",
+          "wrongEn": "To make a liquid change into a solid by cooling it."
+        },
+        {
+          "ko": "걱정, 실망",
+          "en": "A feeling of worry and disappointment caused by bad news.",
+          "wrongEn": "A public performance in which musicians play together."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "걱정, 실망\u001fA feeling of worry and disappointment caused by bad news."
+      ]
+    },
+    {
+      "id": "wm-29-diagnose",
+      "word": "diagnose",
+      "sourceMeaning": "진단하다",
+      "meanings": [
+        {
+          "ko": "진단하다",
+          "en": "To identify an illness or problem by examining its signs.",
+          "wrongEn": "To decorate cloth with patterns made from thread."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-29-molecule",
+      "word": "molecule",
+      "sourceMeaning": "분자",
+      "meanings": [
+        {
+          "ko": "분자",
+          "en": "A group of atoms joined together as a unit of a substance.",
+          "wrongEn": "A person who studies the history of written languages."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-reservoir",
+      "word": "reservoir",
+      "sourceMeaning": "저장소, 저수지",
+      "meanings": [
+        {
+          "ko": "저장소",
+          "en": "A place or supply in which something is stored for later use.",
+          "wrongEn": "A competition in which runners jump over barriers."
+        },
+        {
+          "ko": "저수지",
+          "en": "A lake or other large place where water is kept for use.",
+          "wrongEn": "A mark used in writing to show a missing letter."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-29-conform",
+      "word": "conform",
+      "sourceMeaning": "순응하다, 일치하다",
+      "meanings": [
+        {
+          "ko": "순응하다",
+          "en": "To behave according to an accepted rule or standard.",
+          "wrongEn": "To remove water from clothes by twisting them."
+        },
+        {
+          "ko": "일치하다",
+          "en": "To match a required pattern, description, or standard.",
+          "wrongEn": "To travel around an object in a circular path."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "일치하다\u001fTo match a required pattern, description, or standard."
+      ],
+      "studyNote": "confirm(확정하다)과 헷갈림"
+    },
+    {
+      "id": "wm-29-spacious",
+      "word": "spacious",
+      "sourceMeaning": "넓은, 훤히 트인",
+      "meanings": [
+        {
+          "ko": "넓은, 훤히 트인",
+          "en": "Having plenty of open room or space.",
+          "wrongEn": "Likely to break easily when bent."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-29-weave",
+      "word": "weave",
+      "sourceMeaning": "엮다, 짜다, (생각 등을)엮어 넣다",
+      "meanings": [
+        {
+          "ko": "엮다, 짜다",
+          "en": "To form cloth or another object by crossing strands over and under one another.",
+          "wrongEn": "To measure the amount of heat in a substance."
+        },
+        {
+          "ko": "(생각 등을)엮어 넣다",
+          "en": "To combine ideas or details into a connected whole.",
+          "wrongEn": "To move goods from one country into another for sale."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "(생각 등을)엮어 넣다\u001fTo combine ideas or details into a connected whole."
+      ]
+    },
+    {
+      "id": "wm-29-boundary",
+      "word": "boundary",
+      "sourceMeaning": "경계, 경계선",
+      "meanings": [
+        {
+          "ko": "경계, 경계선",
+          "en": "A line or limit separating one area or thing from another.",
+          "wrongEn": "An instrument used to observe very distant objects."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-motive",
+      "word": "motive",
+      "sourceMeaning": "동기(행동의 원인)",
+      "meanings": [
+        {
+          "ko": "동기(행동의 원인)",
+          "en": "A reason that leads someone to act in a particular way.",
+          "wrongEn": "A written record of the money a business receives and spends."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-tangible",
+      "word": "tangible",
+      "sourceMeaning": "유형적인, 유형의, 만질 수 있는",
+      "meanings": [
+        {
+          "ko": "유형적인, 유형의, 만질 수 있는",
+          "en": "Existing as something physical that can be touched.",
+          "wrongEn": "Occurring at regular intervals of twelve months."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-29-prominent",
+      "word": "prominent",
+      "sourceMeaning": "현저한, 저명한",
+      "meanings": [
+        {
+          "ko": "현저한",
+          "en": "Very easy to notice because it stands out.",
+          "wrongEn": "Able to conduct electricity without resistance."
+        },
+        {
+          "ko": "저명한",
+          "en": "Well known and important in a particular field.",
+          "wrongEn": "Located beneath the surface of the ocean."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "특히 '현저한' 뜻이 안 외워짐."
+    },
+    {
+      "id": "wm-29-rigid",
+      "word": "rigid",
+      "sourceMeaning": "엄격한, 융통성이 없는",
+      "meanings": [
+        {
+          "ko": "엄격한, 융통성이 없는",
+          "en": "Strict and unwilling or unable to change to suit a situation.",
+          "wrongEn": "Having a strong pleasant smell, especially like flowers."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-archaeology",
+      "word": "archaeology",
+      "sourceMeaning": "고고학",
+      "meanings": [
+        {
+          "ko": "고고학",
+          "en": "The study of past human life through objects and remains.",
+          "wrongEn": "The study of how sounds travel through different materials."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-subtract",
+      "word": "subtract",
+      "sourceMeaning": "빼다",
+      "meanings": [
+        {
+          "ko": "빼다",
+          "en": "To take one number or amount away from another.",
+          "wrongEn": "To describe future events before they happen."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-breed",
+      "word": "breed",
+      "sourceMeaning": "낳다, 양육하다",
+      "meanings": [
+        {
+          "ko": "낳다",
+          "en": "To produce young animals.",
+          "wrongEn": "To join metal pieces by heating their edges."
+        },
+        {
+          "ko": "양육하다",
+          "en": "To raise and care for animals as they grow.",
+          "wrongEn": "To announce a final decision in a court of law."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "양육하다\u001fTo raise and care for animals as they grow."
+      ]
+    },
+    {
+      "id": "wm-29-utmost",
+      "word": "utmost",
+      "sourceMeaning": "최대한의, 최고의, 최대한도",
+      "meanings": [
+        {
+          "ko": "최대한의, 최고의",
+          "en": "Greatest in amount, degree, or effort.",
+          "wrongEn": "Positioned halfway between two equal points."
+        },
+        {
+          "ko": "최대한도",
+          "en": "The greatest amount or effort that is possible.",
+          "wrongEn": "A narrow strip of land joining two larger land areas."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-proficient",
+      "word": "proficient",
+      "sourceMeaning": "숙달된",
+      "meanings": [
+        {
+          "ko": "숙달된",
+          "en": "Able to do something well because of skill and practice.",
+          "wrongEn": "Likely to catch fire at a low temperature."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "sufficient, proliferate와 헷갈림"
+    },
+    {
+      "id": "wm-29-accumulate",
+      "word": "accumulate",
+      "sourceMeaning": "모으다, 축적하다",
+      "meanings": [
+        {
+          "ko": "모으다, 축적하다",
+          "en": "To collect or build up an increasing amount over time.",
+          "wrongEn": "To make a clear sound by striking a metal bell."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-embody",
+      "word": "embody",
+      "sourceMeaning": "구현하다, 구체화하다",
+      "meanings": [
+        {
+          "ko": "구현하다, 구체화하다",
+          "en": "To give an idea or quality a clear, concrete form.",
+          "wrongEn": "To exchange one national currency for another."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-29-equity",
+      "word": "equity",
+      "sourceMeaning": "공평",
+      "meanings": [
+        {
+          "ko": "공평",
+          "en": "Fair treatment that gives people what they reasonably deserve or need.",
+          "wrongEn": "The path taken by a planet around a star."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-29-violate",
+      "word": "violate",
+      "sourceMeaning": "위반하다, 침해하다",
+      "meanings": [
+        {
+          "ko": "위반하다",
+          "en": "To act against a law, rule, or agreement.",
+          "wrongEn": "To change a gas into liquid by cooling it."
+        },
+        {
+          "ko": "침해하다",
+          "en": "To disregard or interfere with someone's rights or privacy.",
+          "wrongEn": "To make a copy of a text in another language."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "침해하다\u001fTo disregard or interfere with someone's rights or privacy."
+      ]
+    },
+    {
+      "id": "wm-29-ambitious",
+      "word": "ambitious",
+      "sourceMeaning": "야심 있는",
+      "meanings": [
+        {
+          "ko": "야심 있는",
+          "en": "Strongly wanting to achieve success or an important goal.",
+          "wrongEn": "Able to live both on land and in water."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-intact",
+      "word": "intact",
+      "sourceMeaning": "온전한, 손상되지 않은",
+      "meanings": [
+        {
+          "ko": "온전한, 손상되지 않은",
+          "en": "Complete and without damage or missing parts.",
+          "wrongEn": "Easily carried from one place to another."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "contact와 헷갈림"
+    },
+    {
+      "id": "wm-29-impulse",
+      "word": "impulse",
+      "sourceMeaning": "충동, 추진",
+      "meanings": [
+        {
+          "ko": "충동",
+          "en": "A sudden strong wish to do something without much thought.",
+          "wrongEn": "A fixed payment made regularly for rented property."
+        },
+        {
+          "ko": "추진",
+          "en": "A force that starts or encourages movement or activity.",
+          "wrongEn": "A story passed down orally through generations."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "추진\u001fA force that starts or encourages movement or activity."
+      ]
+    },
+    {
+      "id": "wm-29-attend",
+      "word": "attend",
+      "sourceMeaning": "출석하다, 보살피다",
+      "meanings": [
+        {
+          "ko": "출석하다",
+          "en": "To be present at an event, class, or meeting.",
+          "wrongEn": "To separate solid particles from a liquid with a filter."
+        },
+        {
+          "ko": "보살피다",
+          "en": "To look after someone or give attention to their needs.",
+          "wrongEn": "To mark the outer edge of a piece of land."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "보살피다\u001fTo look after someone or give attention to their needs."
+      ],
+      "studyNote": "2번 뜻(보살피다)이 정말 안 외워진다."
+    },
+    {
+      "id": "wm-29-trim",
+      "word": "trim",
+      "sourceMeaning": "다듬다, 잘라 내다, 장식하다",
+      "meanings": [
+        {
+          "ko": "다듬다, 잘라 내다",
+          "en": "To make something neat by cutting away unwanted parts.",
+          "wrongEn": "To connect a device to a source of electricity."
+        },
+        {
+          "ko": "장식하다",
+          "en": "To decorate something by adding details along its edges.",
+          "wrongEn": "To determine how old an ancient object is."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "장식하다\u001fTo decorate something by adding details along its edges."
+      ]
+    },
+    {
+      "id": "wm-29-navigate",
+      "word": "navigate",
+      "sourceMeaning": "길을 찾다, 항해(비행)하다",
+      "meanings": [
+        {
+          "ko": "길을 찾다",
+          "en": "To find and follow a route to a destination.",
+          "wrongEn": "To produce a new substance through a chemical reaction."
+        },
+        {
+          "ko": "항해(비행)하다",
+          "en": "To guide a ship or aircraft along its course.",
+          "wrongEn": "To remove mistakes from a written document."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-remedy",
+      "word": "remedy",
+      "sourceMeaning": "치료, 요법",
+      "meanings": [
+        {
+          "ko": "치료, 요법",
+          "en": "A treatment or method used to relieve an illness or problem.",
+          "wrongEn": "A person selected to speak for a group at a meeting."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-consist",
+      "word": "consist",
+      "sourceMeaning": "(부분 요소로)이루어지다",
+      "meanings": [
+        {
+          "ko": "(부분 요소로)이루어지다",
+          "en": "To be made up of particular parts or elements.",
+          "wrongEn": "To move in the direction opposite to a river's flow."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-imprint",
+      "word": "imprint",
+      "sourceMeaning": "(도장 등을)찍다, 감명시키다, 찍은 자국, 인상",
+      "meanings": [
+        {
+          "ko": "(도장 등을)찍다",
+          "en": "To press or print a mark onto a surface.",
+          "wrongEn": "To exchange goods without using money."
+        },
+        {
+          "ko": "감명시키다",
+          "en": "To fix an idea or experience firmly in someone's memory.",
+          "wrongEn": "To loosen soil around plants before watering them."
+        },
+        {
+          "ko": "찍은 자국",
+          "en": "A mark left by pressing one thing onto another.",
+          "wrongEn": "A tool used to measure the direction of the wind."
+        },
+        {
+          "ko": "인상",
+          "en": "A lasting effect that an experience leaves on the mind.",
+          "wrongEn": "A legal document giving permission to drive a vehicle."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-29-modify",
+      "word": "modify",
+      "sourceMeaning": "변형하다, 수정하다",
+      "meanings": [
+        {
+          "ko": "변형하다, 수정하다",
+          "en": "To change something partly to improve it or suit a purpose.",
+          "wrongEn": "To take air into the lungs and release it again."
+        }
+      ]
+    },
+    {
+      "id": "wm-29-confine",
+      "word": "confine",
+      "sourceMeaning": "제한하다, 가두다, 한계",
+      "meanings": [
+        {
+          "ko": "제한하다",
+          "en": "To keep something within a particular limit or range.",
+          "wrongEn": "To prepare soil for growing crops."
+        },
+        {
+          "ko": "가두다",
+          "en": "To keep a person or animal inside a restricted place.",
+          "wrongEn": "To make a loud public announcement of good news."
+        },
+        {
+          "ko": "한계",
+          "en": "The boundaries or limits of a place or situation, usually expressed as confines.",
+          "wrongEn": "The amount of money paid for one hour of work."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [
+        "제한하다\u001fTo keep something within a particular limit or range.",
+        "가두다\u001fTo keep a person or animal inside a restricted place."
+      ],
+      "studyNote": "refine(정제하다)와 헷갈림"
+    },
+    {
+      "id": "wm-29-dispatch",
+      "word": "dispatch",
+      "sourceMeaning": "급파하다, 발송하다, 급파, 발송",
+      "meanings": [
+        {
+          "ko": "급파하다, 발송하다",
+          "en": "To send someone or something promptly to a destination.",
+          "wrongEn": "To make a plant grow from a seed."
+        },
+        {
+          "ko": "급파, 발송",
+          "en": "The act of sending people or things to a destination.",
+          "wrongEn": "The natural process by which water turns into vapor."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    }
+  ]
+}

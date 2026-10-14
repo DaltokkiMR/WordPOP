@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 04-5",
+  "unitTitle": "수특라 04-5",
+  "words": [
+    {
+      "wordId": "mt-suteuk-04-5-quality",
+      "key": "quality",
+      "word": "quality",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-04-5-deduce",
+      "key": "deduce",
+      "word": "deduce",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-04-5-reconstruct",
+      "key": "reconstruct",
+      "word": "reconstruct",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-04-5-in-that",
+      "key": "in that",
+      "word": "in that",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-04-5-complementary",
+      "key": "complementary",
+      "word": "complementary",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-suteuk-04-5-spectral-properties",
+      "key": "spectral properties",
+      "word": "spectral properties",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "mt-suteuk-04-5-monochromatic",
+      "key": "monochromatic",
+      "word": "monochromatic",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    }
+  ],
+  "updatedAt": "2026-09-30T14:47:21.323Z"
+}

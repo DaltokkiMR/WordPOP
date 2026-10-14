@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "9모-36",
+  "unitTitle": "9모-36",
+  "source": "material/mid-term/9모-36.md",
+  "words": [
+    {
+      "id": "mt-9mo-36-concern",
+      "word": "concern",
+      "sourceMeaning": "관심사, 중요한 문제 (동사 ‘걱정시키다, 관련되다’로 익숙하지만, 여기서는 명사로 ‘주로 다루는 대상, 관심사’라는 뜻. central concerns는 ‘핵심 관심사’)",
+      "meanings": [
+        {
+          "ko": "관심사, 중요한 문제",
+          "en": "A matter that is important to someone or that something mainly deals with.",
+          "wrongEn": "A small building used for storing garden tools."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-9mo-36-symmetry",
+      "word": "symmetry",
+      "sourceMeaning": "대칭 (한 점이나 선을 기준으로 양쪽이 같은 모양으로 마주 보는 성질. 형용사형은 symmetrical ‘대칭적인’)",
+      "meanings": [
+        {
+          "ko": "대칭",
+          "en": "The quality of having two halves that match each other exactly around a line or point.",
+          "wrongEn": "The speed at which a sound travels through water."
+        }
+      ]
+    },
+    {
+      "id": "mt-9mo-36-irrelevant",
+      "word": "irrelevant",
+      "sourceMeaning": "무관한, 중요하지 않은 (relevant ‘관련 있는’에 부정을 뜻하는 ir-이 붙은 말. 여기서는 스도쿠에서 숫자의 크기 자체는 풀이와 관계없다는 뜻)",
+      "meanings": [
+        {
+          "ko": "무관한, 중요하지 않은",
+          "en": "Not connected with or important to the matter being considered.",
+          "wrongEn": "Very old and no longer used by anyone."
+        }
+      ]
+    },
+    {
+      "id": "mt-9mo-36-objective",
+      "word": "objective",
+      "sourceMeaning": "목표, 목적 (형용사로는 ‘객관적인’이지만, 여기서는 명사로 ‘목표’라는 뜻. The objective is to 동사원형은 ‘목표는 ~하는 것이다’)",
+      "meanings": [
+        {
+          "ko": "목표, 목적",
+          "en": "Something that you are trying to achieve.",
+          "wrongEn": "A piece of furniture used for sleeping."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    }
+  ]
+}

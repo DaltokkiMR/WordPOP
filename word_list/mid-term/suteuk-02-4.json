@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 02-4",
+  "unitTitle": "수특라 02-4",
+  "source": "material/mid-term/수특라 02-4.md",
+  "words": [
+    {
+      "id": "mt-suteuk-02-4-bid",
+      "word": "bid",
+      "sourceMeaning": "시도, 노력 ('입찰'이라는 뜻도 있으며, in a bid to는 '~하기 위한 시도로')",
+      "meanings": [
+        {
+          "ko": "시도, 노력",
+          "en": "An attempt to achieve or obtain something.",
+          "wrongEn": "A refusal to take any action at all."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-02-4-utility",
+      "word": "utility",
+      "sourceMeaning": "효용 (경제학에서 어떤 선택으로 얻는 만족의 정도. '유용성, 공공 설비'라는 뜻도 있음)",
+      "meanings": [
+        {
+          "ko": "효용",
+          "en": "In economics, the satisfaction or benefit a person gets from a choice.",
+          "wrongEn": "The cost of transporting goods by ship."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-02-4-content",
+      "word": "content",
+      "sourceMeaning": "만족하는 (be content to는 '기꺼이 ~하다, ~에 만족하다'. 명사 '내용'과 강세 위치가 다름)",
+      "meanings": [
+        {
+          "ko": "만족하는",
+          "en": "Happy and satisfied with what one has.",
+          "wrongEn": "Angry and ready to argue with others."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-4-sequential",
+      "word": "sequential",
+      "sourceMeaning": "연속적인, 순차적인 (결정이 한 번에 끝나지 않고 차례로 이어진다는 뜻)",
+      "meanings": [
+        {
+          "ko": "연속적인, 순차적인",
+          "en": "Following one after another in a fixed order.",
+          "wrongEn": "Happening all at the same moment."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-4-should-inversion",
+      "word": "Should + 주어 + 동사원형",
+      "sourceMeaning": "만약 ~라면 (If the initial minimum requirements should prove too ambitious에서 If를 생략하고 Should를 앞으로 보낸 가정법 도치)",
+      "meanings": [
+        {
+          "ko": "만약 ~라면 (If를 생략한 가정법 도치)",
+          "en": "A structure in which \"should\" is placed before the subject to mean \"if\" something happens.",
+          "wrongEn": "A structure used to give a direct order to someone."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    }
+  ]
+}

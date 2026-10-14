@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "9모-32",
+  "unitTitle": "9모-32",
+  "source": "material/mid-term/9모-32.md",
+  "words": [
+    {
+      "id": "mt-9mo-32-empowering",
+      "word": "empowering",
+      "sourceMeaning": "힘을 북돋아 주는, 자신감을 주는 (동사 empower ‘권한을 주다, 힘을 실어 주다’에서 온 형용사. 여기서는 판단을 바꾸면 감정도 바꿀 수 있다는 통찰이 사람에게 스스로를 다스릴 힘을 준다는 뜻)",
+      "meanings": [
+        {
+          "ko": "힘을 북돋아 주는, 자신감을 주는",
+          "en": "Giving someone the confidence or strength to control their own life or situation.",
+          "wrongEn": "Making someone feel tired and unable to concentrate."
+        }
+      ]
+    }
+  ]
+}

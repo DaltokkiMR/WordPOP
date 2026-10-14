@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 01-4",
+  "unitTitle": "수특라 01-4",
+  "source": "material/mid-term/수특라 01-4.md",
+  "words": [
+    {
+      "id": "mt-suteuk-01-4-absurd",
+      "word": "absurd",
+      "sourceMeaning": "터무니없는, 불합리한. 단순히 ‘이상한’ 것보다 이치에 맞지 않는다는 뜻이 강하다.",
+      "meanings": [
+        {
+          "ko": "터무니없는, 불합리한",
+          "en": "Completely unreasonable or not making sense.",
+          "wrongEn": "Carefully planned and organized in advance."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [],
+      "studyNote": "'어리석은'으로 헷갈림"
+    },
+    {
+      "id": "mt-suteuk-01-4-in-the-long-run",
+      "word": "in the long run",
+      "sourceMeaning": "장기적으로 보면, 결국에는. run을 ‘달리기’로 직역하지 않는 관용 표현이며, in the short run(단기적으로 보면)과 대비된다.",
+      "meanings": [
+        {
+          "ko": "장기적으로 보면, 결국에는",
+          "en": "Over a long period of time; eventually.",
+          "wrongEn": "While running a race as fast as possible."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-4-adolescence",
+      "word": "adolescence",
+      "sourceMeaning": "청소년기, 사춘기. 시기를 가리키는 명사이며, adolescent는 ‘청소년’ 또는 ‘청소년기의’라는 뜻이다.",
+      "meanings": [
+        {
+          "ko": "청소년기, 사춘기",
+          "en": "The period of life when a child develops into an adult.",
+          "wrongEn": "The period of life after a person stops working."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-4-lose-sight-of",
+      "word": "lose sight of",
+      "sourceMeaning": "~을 잊다, ~을 놓치다. 본문에서는 실제로 보이지 않게 된다는 뜻이 아니라 중요한 사실을 잊는다는 뜻이다.",
+      "meanings": [
+        {
+          "ko": "~을 잊다, ~을 놓치다",
+          "en": "To forget or stop paying attention to something important.",
+          "wrongEn": "To become blind because of an illness."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-4-consequence",
+      "word": "consequence",
+      "sourceMeaning": "결과, 영향. 본문의 long-term consequences는 ‘장기적인 영향’이라는 뜻이며, 반드시 나쁜 결과만 가리키는 것은 아니다.",
+      "meanings": [
+        {
+          "ko": "결과, 영향",
+          "en": "A result or effect of an action or situation.",
+          "wrongEn": "A reason given in advance to explain a delay."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-4-irresponsible",
+      "word": "irresponsible",
+      "sourceMeaning": "무책임한. responsible(책임감 있는)에 부정의 뜻을 더하는 ir-이 붙은 말이다.",
+      "meanings": [
+        {
+          "ko": "무책임한",
+          "en": "Not thinking carefully about the results of one's actions; lacking a sense of duty.",
+          "wrongEn": "Unable to reply because one is asleep."
+        }
+      ]
+    }
+  ]
+}

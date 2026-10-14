@@ -1,0 +1,663 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "30",
+  "unitTitle": "30과",
+  "source": "material/wordmaster_25_30_46_50.md",
+  "words": [
+    {
+      "id": "wm-30-diameter",
+      "word": "diameter",
+      "sourceMeaning": "지름, 직경",
+      "meanings": [
+        {
+          "ko": "지름, 직경",
+          "en": "A straight line through the center of a circle, or its length.",
+          "wrongEn": "The force that pulls objects toward the earth."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-anecdote",
+      "word": "anecdote",
+      "sourceMeaning": "일화, 비화",
+      "meanings": [
+        {
+          "ko": "일화, 비화",
+          "en": "A short account of an interesting event in someone's life.",
+          "wrongEn": "A diagram showing how parts of a machine fit together."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-spatial",
+      "word": "spatial",
+      "sourceMeaning": "공간의, 공간적인",
+      "meanings": [
+        {
+          "ko": "공간의, 공간적인",
+          "en": "Relating to space or the position of things within it.",
+          "wrongEn": "Happening at exactly the same moment in time."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-blame",
+      "word": "blame",
+      "sourceMeaning": "비난하다, ~의 탓으로 돌리다, 비난, 책망",
+      "meanings": [
+        {
+          "ko": "비난하다, ~의 탓으로 돌리다",
+          "en": "To say that someone or something is responsible for a bad result.",
+          "wrongEn": "To pass a law after a formal vote."
+        },
+        {
+          "ko": "비난, 책망",
+          "en": "Criticism that holds someone responsible for something wrong.",
+          "wrongEn": "A container used to store drinking water underground."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-geology",
+      "word": "geology",
+      "sourceMeaning": "지질학",
+      "meanings": [
+        {
+          "ko": "지질학",
+          "en": "The study of the earth's rocks, structure, and physical history.",
+          "wrongEn": "The study of how people learn and use languages."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [],
+      "studyNote": "geography(지리학)와 헷갈림"
+    },
+    {
+      "id": "wm-30-pledge",
+      "word": "pledge",
+      "sourceMeaning": "약속, 맹세, 약속하다, 맹세하다",
+      "meanings": [
+        {
+          "ko": "약속, 맹세",
+          "en": "A serious promise to do or provide something.",
+          "wrongEn": "A line dividing a circle into two equal halves."
+        },
+        {
+          "ko": "약속하다, 맹세하다",
+          "en": "To make a serious promise to do or give something.",
+          "wrongEn": "To remove salt from seawater."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-cost",
+      "word": "cost",
+      "sourceMeaning": "(비용이)들다, 비용, 대가",
+      "meanings": [
+        {
+          "ko": "(비용이)들다",
+          "en": "To require a particular amount of money to buy or do something.",
+          "wrongEn": "To move a boat through water using oars."
+        },
+        {
+          "ko": "비용",
+          "en": "The amount of money needed to obtain or do something.",
+          "wrongEn": "A document recording someone's place and date of birth."
+        },
+        {
+          "ko": "대가",
+          "en": "Something lost or given up in order to achieve a result.",
+          "wrongEn": "A group of animals that travel together for safety."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-30-earn",
+      "word": "earn",
+      "sourceMeaning": "(신용 평판 등을)얻다, (돈을)벌다",
+      "meanings": [
+        {
+          "ko": "(신용 평판 등을)얻다",
+          "en": "To gain trust, respect, or a reputation through one's actions.",
+          "wrongEn": "To predict future weather from atmospheric measurements."
+        },
+        {
+          "ko": "(돈을)벌다",
+          "en": "To receive money in exchange for work or services.",
+          "wrongEn": "To divide an area into separate official regions."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-detect",
+      "word": "detect",
+      "sourceMeaning": "발견하다, 감지하다",
+      "meanings": [
+        {
+          "ko": "발견하다, 감지하다",
+          "en": "To notice or discover something that is not easily seen.",
+          "wrongEn": "To give a newly made object its name."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-temperate",
+      "word": "temperate",
+      "sourceMeaning": "(기후가)온화한, 절제하는",
+      "meanings": [
+        {
+          "ko": "(기후가)온화한",
+          "en": "Having a climate that is neither very hot nor very cold.",
+          "wrongEn": "Made of several metals mixed together."
+        },
+        {
+          "ko": "절제하는",
+          "en": "Showing control and avoiding excessive behavior.",
+          "wrongEn": "Unable to see objects that are far away."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "(기후가)온화한\u001fHaving a climate that is neither very hot nor very cold."
+      ]
+    },
+    {
+      "id": "wm-30-soar",
+      "word": "soar",
+      "sourceMeaning": "높이 치솟다",
+      "meanings": [
+        {
+          "ko": "높이 치솟다",
+          "en": "To rise high or increase very quickly.",
+          "wrongEn": "To rub a rough surface until it becomes smooth."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-30-mock",
+      "word": "mock",
+      "sourceMeaning": "조롱하다, 가짜의",
+      "meanings": [
+        {
+          "ko": "조롱하다",
+          "en": "To make fun of someone in an unkind way.",
+          "wrongEn": "To soak food in a liquid to add flavor."
+        },
+        {
+          "ko": "가짜의",
+          "en": "Made to imitate the real thing for practice or display.",
+          "wrongEn": "Capable of returning to its original shape after stretching."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "가짜의\u001fMade to imitate the real thing for practice or display."
+      ]
+    },
+    {
+      "id": "wm-30-disclose",
+      "word": "disclose",
+      "sourceMeaning": "드러내다, 폭로하다",
+      "meanings": [
+        {
+          "ko": "드러내다, 폭로하다",
+          "en": "To make information known that was previously hidden.",
+          "wrongEn": "To supply a building with heat during cold weather."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-exhibit",
+      "word": "exhibit",
+      "sourceMeaning": "전시하다, 보여 주다, 전시, 전시품",
+      "meanings": [
+        {
+          "ko": "전시하다",
+          "en": "To put objects or works on public display.",
+          "wrongEn": "To reduce a substance to a fine powder."
+        },
+        {
+          "ko": "보여 주다",
+          "en": "To clearly show a quality, feeling, or behavior.",
+          "wrongEn": "To move silently on hands and knees."
+        },
+        {
+          "ko": "전시",
+          "en": "A public display arranged for people to view.",
+          "wrongEn": "A long period with much less rain than usual."
+        },
+        {
+          "ko": "전시품",
+          "en": "An object placed on display for people to examine.",
+          "wrongEn": "A person who treats illnesses in animals."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-symptom",
+      "word": "symptom",
+      "sourceMeaning": "증상",
+      "meanings": [
+        {
+          "ko": "증상",
+          "en": "A physical or mental sign of an illness or condition.",
+          "wrongEn": "A payment made to support a public project."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-invent",
+      "word": "invent",
+      "sourceMeaning": "발명하다",
+      "meanings": [
+        {
+          "ko": "발명하다",
+          "en": "To create a device or method that did not exist before.",
+          "wrongEn": "To carry goods from one location to another."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-awkward",
+      "word": "awkward",
+      "sourceMeaning": "어색한, 서투른",
+      "meanings": [
+        {
+          "ko": "어색한",
+          "en": "Causing discomfort or embarrassment in a social situation.",
+          "wrongEn": "Made from materials that occur naturally in the ground."
+        },
+        {
+          "ko": "서투른",
+          "en": "Lacking skill or ease in movement or action.",
+          "wrongEn": "Able to remember something with perfect accuracy."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-grind",
+      "word": "grind",
+      "sourceMeaning": "갈다, 빻다",
+      "meanings": [
+        {
+          "ko": "갈다, 빻다",
+          "en": "To crush something into small particles by pressing or rubbing.",
+          "wrongEn": "To protect wood with a clear layer of coating."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-expose",
+      "word": "expose",
+      "sourceMeaning": "드러내다, (비밀을)폭로하다, 노출시키다",
+      "meanings": [
+        {
+          "ko": "드러내다",
+          "en": "To uncover something so that it can be seen.",
+          "wrongEn": "To arrange a set of numbers from smallest to largest."
+        },
+        {
+          "ko": "(비밀을)폭로하다",
+          "en": "To reveal information or wrongdoing that was kept secret.",
+          "wrongEn": "To make a cloth stronger by adding extra stitches."
+        },
+        {
+          "ko": "노출시키다",
+          "en": "To put someone or something in contact with an influence or condition.",
+          "wrongEn": "To decide the winner of a competition by counting votes."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-closet",
+      "word": "closet",
+      "sourceMeaning": "벽장",
+      "meanings": [
+        {
+          "ko": "벽장",
+          "en": "A small enclosed space or cupboard for storing clothes and other things.",
+          "wrongEn": "A device that measures changes in air pressure."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-damp",
+      "word": "damp",
+      "sourceMeaning": "축축한, 습기",
+      "meanings": [
+        {
+          "ko": "축축한",
+          "en": "Slightly wet, often in an unpleasant way.",
+          "wrongEn": "Allowed by law or an official rule."
+        },
+        {
+          "ko": "습기",
+          "en": "A small amount of moisture in the air or on a surface.",
+          "wrongEn": "A written promise to repay borrowed money."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [],
+      "studyNote": "dunk(잠그다, 적시다)와 헷갈림"
+    },
+    {
+      "id": "wm-30-script",
+      "word": "script",
+      "sourceMeaning": "손으로 쓰기, 대본",
+      "meanings": [
+        {
+          "ko": "손으로 쓰기",
+          "en": "Writing formed by hand in a particular style.",
+          "wrongEn": "A machine that converts sunlight into electrical energy."
+        },
+        {
+          "ko": "대본",
+          "en": "The written words to be spoken in a play, film, or broadcast.",
+          "wrongEn": "A supply of food kept for an emergency."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "손으로 쓰기\u001fWriting formed by hand in a particular style."
+      ]
+    },
+    {
+      "id": "wm-30-signify",
+      "word": "signify",
+      "sourceMeaning": "의미하다, 중요하다",
+      "meanings": [
+        {
+          "ko": "의미하다",
+          "en": "To represent or communicate a particular meaning.",
+          "wrongEn": "To move with short, quick steps."
+        },
+        {
+          "ko": "중요하다",
+          "en": "To matter or have importance.",
+          "wrongEn": "To allow a liquid to pass slowly through tiny openings."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "중요하다\u001fTo matter or have importance."
+      ]
+    },
+    {
+      "id": "wm-30-discuss",
+      "word": "discuss",
+      "sourceMeaning": "토론하다",
+      "meanings": [
+        {
+          "ko": "토론하다",
+          "en": "To talk about a subject and exchange ideas or opinions.",
+          "wrongEn": "To cut crops and gather them from a field."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-sibling",
+      "word": "sibling",
+      "sourceMeaning": "형제자매, 동기",
+      "meanings": [
+        {
+          "ko": "형제자매, 동기",
+          "en": "A brother or sister of the same person.",
+          "wrongEn": "A person chosen to lead a religious ceremony."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-lay",
+      "word": "lay",
+      "sourceMeaning": "(물건을)놓다, (알을)낳다",
+      "meanings": [
+        {
+          "ko": "(물건을)놓다",
+          "en": "To put something down in a particular position.",
+          "wrongEn": "To make a liquid flow through a filter."
+        },
+        {
+          "ko": "(알을)낳다",
+          "en": "For a bird or another animal to produce an egg.",
+          "wrongEn": "To remove a person from an official position."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-surveillance",
+      "word": "surveillance",
+      "sourceMeaning": "감시",
+      "meanings": [
+        {
+          "ko": "감시",
+          "en": "Close observation of people or places to gather information or ensure security.",
+          "wrongEn": "The process of combining two substances into one mixture."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-discharge",
+      "word": "discharge",
+      "sourceMeaning": "배출, 내보냄, 방전, 배출하다, 내보내다, 해고하다",
+      "meanings": [
+        {
+          "ko": "배출, 내보냄",
+          "en": "The act of releasing a substance or allowing something to leave.",
+          "wrongEn": "The practice of growing plants without soil."
+        },
+        {
+          "ko": "방전",
+          "en": "The release of stored electrical energy.",
+          "wrongEn": "A public vote used to choose a political leader."
+        },
+        {
+          "ko": "배출하다, 내보내다",
+          "en": "To release a substance or allow someone or something to leave.",
+          "wrongEn": "To copy a handwritten text onto a computer."
+        },
+        {
+          "ko": "해고하다",
+          "en": "To dismiss someone from a job or position.",
+          "wrongEn": "To attach a label showing the price of an item."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "배출, 내보냄\u001fThe act of releasing a substance or allowing something to leave.",
+        "방전\u001fThe release of stored electrical energy.",
+        "배출하다, 내보내다\u001fTo release a substance or allow someone or something to leave."
+      ]
+    },
+    {
+      "id": "wm-30-thorough",
+      "word": "thorough",
+      "sourceMeaning": "철저한",
+      "meanings": [
+        {
+          "ko": "철저한",
+          "en": "Done carefully and completely, with attention to every detail.",
+          "wrongEn": "Able to survive only in very cold environments."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [],
+      "studyNote": "through, though와 헷갈림"
+    },
+    {
+      "id": "wm-30-undertake",
+      "word": "undertake",
+      "sourceMeaning": "수행하다, (일을)떠맡다, 착수하다",
+      "meanings": [
+        {
+          "ko": "수행하다",
+          "en": "To carry out a task or activity.",
+          "wrongEn": "To make cloth by crossing threads over and under each other."
+        },
+        {
+          "ko": "(일을)떠맡다",
+          "en": "To accept responsibility for doing a task.",
+          "wrongEn": "To change spoken words into written symbols."
+        },
+        {
+          "ko": "착수하다",
+          "en": "To begin a task or project that requires effort.",
+          "wrongEn": "To estimate the weight of an object by lifting it."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "(일을)떠맡다\u001fTo accept responsibility for doing a task.",
+        "착수하다\u001fTo begin a task or project that requires effort."
+      ]
+    },
+    {
+      "id": "wm-30-panel",
+      "word": "panel",
+      "sourceMeaning": "토론자단, 패널, 넓은 직사각형의 합판",
+      "meanings": [
+        {
+          "ko": "토론자단, 패널",
+          "en": "A group of people chosen to discuss a topic or make a judgment.",
+          "wrongEn": "A liquid medicine used to relieve a cough."
+        },
+        {
+          "ko": "넓은 직사각형의 합판",
+          "en": "A broad, usually rectangular sheet of wood used in construction.",
+          "wrongEn": "A narrow stream that flows into a larger river."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-linguistic",
+      "word": "linguistic",
+      "sourceMeaning": "언어의, 언어학의",
+      "meanings": [
+        {
+          "ko": "언어의",
+          "en": "Relating to language and its use.",
+          "wrongEn": "Designed to prevent the spread of fire."
+        },
+        {
+          "ko": "언어학의",
+          "en": "Relating to the scientific study of language.",
+          "wrongEn": "Located at the highest point of a mountain."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-flourish",
+      "word": "flourish",
+      "sourceMeaning": "번영하다, 번창하다",
+      "meanings": [
+        {
+          "ko": "번영하다, 번창하다",
+          "en": "To grow or develop successfully and strongly.",
+          "wrongEn": "To become solid after being cooled below freezing."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-feed",
+      "word": "feed",
+      "sourceMeaning": "먹이를 주다, 부양하다",
+      "meanings": [
+        {
+          "ko": "먹이를 주다",
+          "en": "To give food to a person or an animal.",
+          "wrongEn": "To mark the edge of a field with a fence."
+        },
+        {
+          "ko": "부양하다",
+          "en": "To provide the food needed to support someone.",
+          "wrongEn": "To cause light to change direction as it enters glass."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "부양하다\u001fTo provide the food needed to support someone."
+      ]
+    },
+    {
+      "id": "wm-30-sophomore",
+      "word": "sophomore",
+      "sourceMeaning": "(대학 고등학교의)2학년생",
+      "meanings": [
+        {
+          "ko": "(대학 고등학교의)2학년생",
+          "en": "A student in the second year of high school or college.",
+          "wrongEn": "A person who has recently retired from a profession."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-30-remind",
+      "word": "remind",
+      "sourceMeaning": "생각나게 하다, 상기시키다",
+      "meanings": [
+        {
+          "ko": "생각나게 하다, 상기시키다",
+          "en": "To cause someone to remember something.",
+          "wrongEn": "To repair damage to the outer surface of a road."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-sole",
+      "word": "sole",
+      "sourceMeaning": "유일한",
+      "meanings": [
+        {
+          "ko": "유일한",
+          "en": "Being the only one.",
+          "wrongEn": "Made from several different substances mixed together."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-30-pillar",
+      "word": "pillar",
+      "sourceMeaning": "기둥",
+      "meanings": [
+        {
+          "ko": "기둥",
+          "en": "A tall upright structure used to support a building.",
+          "wrongEn": "A shallow container used for washing dishes."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-explode",
+      "word": "explode",
+      "sourceMeaning": "폭발하다",
+      "meanings": [
+        {
+          "ko": "폭발하다",
+          "en": "To burst apart suddenly with violent force.",
+          "wrongEn": "To slowly join separate parts into a single piece."
+        }
+      ]
+    },
+    {
+      "id": "wm-30-illusion",
+      "word": "illusion",
+      "sourceMeaning": "환상, 착각",
+      "meanings": [
+        {
+          "ko": "환상, 착각",
+          "en": "A false appearance or belief that makes something seem different from reality.",
+          "wrongEn": "A written instruction explaining how to assemble a machine."
+        }
+      ]
+    }
+  ]
+}

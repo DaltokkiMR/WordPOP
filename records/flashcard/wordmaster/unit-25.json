@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "25",
+  "unitTitle": "25과",
+  "words": [
+    {
+      "wordId": "wm-25-carve",
+      "key": "carve",
+      "word": "carve",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-context",
+      "key": "context",
+      "word": "context",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-breakdown",
+      "key": "breakdown",
+      "word": "breakdown",
+      "retryCount": 1,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-rear",
+      "key": "rear",
+      "word": "rear",
+      "retryCount": 0,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-25-brochure",
+      "key": "brochure",
+      "word": "brochure",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-astound",
+      "key": "astound",
+      "word": "astound",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-tin",
+      "key": "tin",
+      "word": "tin",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-attribute",
+      "key": "attribute",
+      "word": "attribute",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-postpone",
+      "key": "postpone",
+      "word": "postpone",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-paralysis",
+      "key": "paralysis",
+      "word": "paralysis",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-rob",
+      "key": "rob",
+      "word": "rob",
+      "retryCount": 1,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-psychologist",
+      "key": "psychologist",
+      "word": "psychologist",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-aggressive",
+      "key": "aggressive",
+      "word": "aggressive",
+      "retryCount": 1,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-25-sew",
+      "key": "sew",
+      "word": "sew",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-disguise",
+      "key": "disguise",
+      "word": "disguise",
+      "retryCount": 1,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-25-complain",
+      "key": "complain",
+      "word": "complain",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-blueprint",
+      "key": "blueprint",
+      "word": "blueprint",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-dictator",
+      "key": "dictator",
+      "word": "dictator",
+      "retryCount": 0,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-25-tease",
+      "key": "tease",
+      "word": "tease",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-cheer",
+      "key": "cheer",
+      "word": "cheer",
+      "retryCount": 1,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-abuse",
+      "key": "abuse",
+      "word": "abuse",
+      "retryCount": 0,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-25-force",
+      "key": "force",
+      "word": "force",
+      "retryCount": 0,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-25-complete",
+      "key": "complete",
+      "word": "complete",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-race",
+      "key": "race",
+      "word": "race",
+      "retryCount": 0,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-25-crucial",
+      "key": "crucial",
+      "word": "crucial",
+      "retryCount": 1,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-bystander",
+      "key": "bystander",
+      "word": "bystander",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-dominate",
+      "key": "dominate",
+      "word": "dominate",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-output",
+      "key": "output",
+      "word": "output",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-vehicle",
+      "key": "vehicle",
+      "word": "vehicle",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-cure",
+      "key": "cure",
+      "word": "cure",
+      "retryCount": 2,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-25-sprout",
+      "key": "sprout",
+      "word": "sprout",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-assessment",
+      "key": "assessment",
+      "word": "assessment",
+      "retryCount": 0,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-25-deck",
+      "key": "deck",
+      "word": "deck",
+      "retryCount": 1,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-25-frown",
+      "key": "frown",
+      "word": "frown",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-sermon",
+      "key": "sermon",
+      "word": "sermon",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-gain",
+      "key": "gain",
+      "word": "gain",
+      "retryCount": 1,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-nest",
+      "key": "nest",
+      "word": "nest",
+      "retryCount": 1,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-25-curriculum",
+      "key": "curriculum",
+      "word": "curriculum",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    },
+    {
+      "wordId": "wm-25-foster",
+      "key": "foster",
+      "word": "foster",
+      "retryCount": 1,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-25-masculine",
+      "key": "masculine",
+      "word": "masculine",
+      "retryCount": 0,
+      "sessionId": "4cf2d42e-d9f8-457d-a4c7-ff4260f4bc98",
+      "startedAt": "2026-09-22T01:44:01.880Z",
+      "completedAt": "2026-09-27T15:10:20.296Z"
+    }
+  ],
+  "updatedAt": "2026-09-29T12:18:20.472Z"
+}

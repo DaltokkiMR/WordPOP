@@ -1,0 +1,2076 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "kind": "correct",
+      "difficulty": "easy",
+      "intent": "쉬운 난이도: 익숙한 직접적 의미(temperate=온화한)를 정답으로 하고, 나머지는 전혀 다른 단어의 뜻을 오답으로 배치하여 명확하게 구분되도록 구성",
+      "answerIndex": 0,
+      "explanation": "temperate의 올바른 뜻은 '기후가 온화한'이며, 나머지 보기는 모두 해당 단어의 어떤 의미로도 성립하지 않는 다른 단어의 정의입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-30-temperate",
+            "word": "temperate",
+            "sourceMeaning": "(기후가)온화한, 절제하는",
+            "meanings": [
+              {
+                "ko": "(기후가)온화한",
+                "en": "Having a climate that is neither very hot nor very cold.",
+                "wrongEn": "Made of several metals mixed together."
+              },
+              {
+                "ko": "절제하는",
+                "en": "Showing control and avoiding excessive behavior.",
+                "wrongEn": "Unable to see objects that are far away."
+              }
+            ],
+            "studyMarks": [
+              "review"
+            ],
+            "unknownMeaningKeys": [
+              "(기후가)온화한\u001fHaving a climate that is neither very hot nor very cold."
+            ],
+            "key": "temperate",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-temperate",
+                "meaningKeys": [
+                  "(기후가)온화한\u001fHaving a climate that is neither very hot nor very cold.",
+                  "절제하는\u001fShowing control and avoiding excessive behavior."
+                ]
+              }
+            ],
+            "studyMark": "review",
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "Having a climate that is neither very hot nor very cold.",
+          "isCorrect": true,
+          "explanation": "temperate(온화한)는 기후가 너무 덥지도 춥지도 않음을 뜻하므로 이 정의가 정답입니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-mock",
+            "word": "mock",
+            "sourceMeaning": "조롱하다, 가짜의",
+            "meanings": [
+              {
+                "ko": "조롱하다",
+                "en": "To make fun of someone in an unkind way.",
+                "wrongEn": "To soak food in a liquid to add flavor."
+              },
+              {
+                "ko": "가짜의",
+                "en": "Made to imitate the real thing for practice or display.",
+                "wrongEn": "Capable of returning to its original shape after stretching."
+              }
+            ],
+            "studyMarks": [],
+            "unknownMeaningKeys": [
+              "가짜의\u001fMade to imitate the real thing for practice or display."
+            ],
+            "key": "mock",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-mock",
+                "meaningKeys": [
+                  "조롱하다\u001fTo make fun of someone in an unkind way.",
+                  "가짜의\u001fMade to imitate the real thing for practice or display."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "Capable of returning to its original shape after stretching.",
+          "isCorrect": false,
+          "explanation": "이는 'elastic(탄력 있는)'의 정의로, mock(가짜의/조롱하다)의 어떤 의미와도 관련이 없습니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-damp",
+            "word": "damp",
+            "sourceMeaning": "축축한, 습기",
+            "meanings": [
+              {
+                "ko": "축축한",
+                "en": "Slightly wet, often in an unpleasant way.",
+                "wrongEn": "Allowed by law or an official rule."
+              },
+              {
+                "ko": "습기",
+                "en": "A small amount of moisture in the air or on a surface.",
+                "wrongEn": "A written promise to repay borrowed money."
+              }
+            ],
+            "studyMarks": [
+              "unknown",
+              "review"
+            ],
+            "unknownMeaningKeys": [],
+            "studyNote": "dunk(잠그다, 적시다)와 헷갈림",
+            "key": "damp",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-damp",
+                "meaningKeys": [
+                  "축축한\u001fSlightly wet, often in an unpleasant way.",
+                  "습기\u001fA small amount of moisture in the air or on a surface."
+                ]
+              }
+            ],
+            "studyMark": "unknown"
+          },
+          "meaningIndex": 0,
+          "definition": "Allowed by law or an official rule.",
+          "isCorrect": false,
+          "explanation": "이는 'legal(합법적인)'의 정의로, damp(축축한/습기)의 어떤 의미와도 맞지 않습니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-thorough",
+            "word": "thorough",
+            "sourceMeaning": "철저한",
+            "meanings": [
+              {
+                "ko": "철저한",
+                "en": "Done carefully and completely, with attention to every detail.",
+                "wrongEn": "Able to survive only in very cold environments."
+              }
+            ],
+            "studyMarks": [
+              "unknown",
+              "review"
+            ],
+            "unknownMeaningKeys": [],
+            "studyNote": "through, though와 헷갈림",
+            "key": "thorough",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-thorough",
+                "meaningKeys": [
+                  "철저한\u001fDone carefully and completely, with attention to every detail."
+                ]
+              }
+            ],
+            "studyMark": "unknown"
+          },
+          "meaningIndex": 0,
+          "definition": "Able to survive only in very cold environments.",
+          "isCorrect": false,
+          "explanation": "이는 특정 생물이 추운 환경에서만 생존한다는 뜻으로, thorough(철저한)와는 전혀 관련이 없습니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-script",
+            "word": "script",
+            "sourceMeaning": "손으로 쓰기, 대본",
+            "meanings": [
+              {
+                "ko": "손으로 쓰기",
+                "en": "Writing formed by hand in a particular style.",
+                "wrongEn": "A machine that converts sunlight into electrical energy."
+              },
+              {
+                "ko": "대본",
+                "en": "The written words to be spoken in a play, film, or broadcast.",
+                "wrongEn": "A supply of food kept for an emergency."
+              }
+            ],
+            "studyMarks": [
+              "review"
+            ],
+            "unknownMeaningKeys": [
+              "손으로 쓰기\u001fWriting formed by hand in a particular style."
+            ],
+            "key": "script",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-script",
+                "meaningKeys": [
+                  "손으로 쓰기\u001fWriting formed by hand in a particular style.",
+                  "대본\u001fThe written words to be spoken in a play, film, or broadcast."
+                ]
+              }
+            ],
+            "studyMark": "review",
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "A machine that converts sunlight into electrical energy.",
+          "isCorrect": false,
+          "explanation": "이는 '태양광 패널'의 정의로, script(손으로 쓰기/대본)의 어떤 의미와도 무관합니다."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "kind": "incorrect",
+      "difficulty": "medium",
+      "intent": "중간 난이도: 대부분 자연스러운 참 정의를 배치하고, 그중 하나(discharge)만 완전히 다른 단어의 뜻으로 바꿔 오답을 찾게 함",
+      "answerIndex": 4,
+      "explanation": "discharge에 제시된 정의는 '가격표를 붙이다'라는 뜻으로 discharge의 어떤 의미(배출, 방전, 해고 등)와도 맞지 않는 거짓 정의입니다. 나머지 네 단어는 모두 선택된 의미를 올바르게 설명합니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-30-signify",
+            "word": "signify",
+            "sourceMeaning": "의미하다, 중요하다",
+            "meanings": [
+              {
+                "ko": "의미하다",
+                "en": "To represent or communicate a particular meaning.",
+                "wrongEn": "To move with short, quick steps."
+              },
+              {
+                "ko": "중요하다",
+                "en": "To matter or have importance.",
+                "wrongEn": "To allow a liquid to pass slowly through tiny openings."
+              }
+            ],
+            "studyMarks": [
+              "unknown",
+              "review"
+            ],
+            "unknownMeaningKeys": [],
+            "key": "signify",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-signify",
+                "meaningKeys": [
+                  "의미하다\u001fTo represent or communicate a particular meaning.",
+                  "중요하다\u001fTo matter or have importance."
+                ]
+              }
+            ],
+            "studyMark": "unknown",
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "To matter or have importance.",
+          "isCorrect": true,
+          "explanation": "signify는 '중요하다'라는 뜻으로도 쓰이므로 이 정의는 참입니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-sophomore",
+            "word": "sophomore",
+            "sourceMeaning": "(대학 고등학교의)2학년생",
+            "meanings": [
+              {
+                "ko": "(대학 고등학교의)2학년생",
+                "en": "A student in the second year of high school or college.",
+                "wrongEn": "A person who has recently retired from a profession."
+              }
+            ],
+            "studyMarks": [
+              "unknown",
+              "review"
+            ],
+            "unknownMeaningKeys": [],
+            "key": "sophomore",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-sophomore",
+                "meaningKeys": [
+                  "(대학 고등학교의)2학년생\u001fA student in the second year of high school or college."
+                ]
+              }
+            ],
+            "studyMark": "unknown",
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "A student in the second year of high school or college.",
+          "isCorrect": true,
+          "explanation": "sophomore는 고등학교나 대학교 2학년생을 뜻하므로 이 정의는 참입니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-sole",
+            "word": "sole",
+            "sourceMeaning": "유일한",
+            "meanings": [
+              {
+                "ko": "유일한",
+                "en": "Being the only one.",
+                "wrongEn": "Made from several different substances mixed together."
+              }
+            ],
+            "studyMarks": [
+              "review"
+            ],
+            "unknownMeaningKeys": [],
+            "key": "sole",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-sole",
+                "meaningKeys": [
+                  "유일한\u001fBeing the only one."
+                ]
+              }
+            ],
+            "studyMark": "review",
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "Being the only one.",
+          "isCorrect": true,
+          "explanation": "sole은 '유일한'이라는 뜻이므로 이 정의는 참입니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-undertake",
+            "word": "undertake",
+            "sourceMeaning": "수행하다, (일을)떠맡다, 착수하다",
+            "meanings": [
+              {
+                "ko": "수행하다",
+                "en": "To carry out a task or activity.",
+                "wrongEn": "To make cloth by crossing threads over and under each other."
+              },
+              {
+                "ko": "(일을)떠맡다",
+                "en": "To accept responsibility for doing a task.",
+                "wrongEn": "To change spoken words into written symbols."
+              },
+              {
+                "ko": "착수하다",
+                "en": "To begin a task or project that requires effort.",
+                "wrongEn": "To estimate the weight of an object by lifting it."
+              }
+            ],
+            "key": "undertake",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-undertake",
+                "meaningKeys": [
+                  "수행하다\u001fTo carry out a task or activity.",
+                  "(일을)떠맡다\u001fTo accept responsibility for doing a task.",
+                  "착수하다\u001fTo begin a task or project that requires effort."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 2,
+          "definition": "To begin a task or project that requires effort.",
+          "isCorrect": true,
+          "explanation": "undertake는 노력이 필요한 일을 착수한다는 뜻으로 쓰이므로 이 정의는 참입니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-discharge",
+            "word": "discharge",
+            "sourceMeaning": "배출, 내보냄, 방전, 배출하다, 내보내다, 해고하다",
+            "meanings": [
+              {
+                "ko": "배출, 내보냄",
+                "en": "The act of releasing a substance or allowing something to leave.",
+                "wrongEn": "The practice of growing plants without soil."
+              },
+              {
+                "ko": "방전",
+                "en": "The release of stored electrical energy.",
+                "wrongEn": "A public vote used to choose a political leader."
+              },
+              {
+                "ko": "배출하다, 내보내다",
+                "en": "To release a substance or allow someone or something to leave.",
+                "wrongEn": "To copy a handwritten text onto a computer."
+              },
+              {
+                "ko": "해고하다",
+                "en": "To dismiss someone from a job or position.",
+                "wrongEn": "To attach a label showing the price of an item."
+              }
+            ],
+            "key": "discharge",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-discharge",
+                "meaningKeys": [
+                  "배출, 내보냄\u001fThe act of releasing a substance or allowing something to leave.",
+                  "방전\u001fThe release of stored electrical energy.",
+                  "배출하다, 내보내다\u001fTo release a substance or allow someone or something to leave.",
+                  "해고하다\u001fTo dismiss someone from a job or position."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 3,
+          "definition": "To attach a label showing the price of an item.",
+          "isCorrect": false,
+          "explanation": "이는 '가격표를 붙이다'라는 뜻으로, discharge의 배출/방전/해고 등 어떤 실제 의미와도 일치하지 않는 거짓 정의입니다."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "kind": "correct",
+      "difficulty": "medium",
+      "intent": "중간 난이도: lay(알을 낳다)를 정답으로 하고, 나머지 단어는 자연스럽지만 명확히 다른 단어의 정의를 오답으로 배치",
+      "answerIndex": 0,
+      "explanation": "lay의 '(알을) 낳다'라는 의미가 정답이며, 나머지 보기는 각각 linguistic, pledge, feed, panel의 실제 의미와 무관한 다른 단어의 정의입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-30-lay",
+            "word": "lay",
+            "sourceMeaning": "(물건을)놓다, (알을)낳다",
+            "meanings": [
+              {
+                "ko": "(물건을)놓다",
+                "en": "To put something down in a particular position.",
+                "wrongEn": "To make a liquid flow through a filter."
+              },
+              {
+                "ko": "(알을)낳다",
+                "en": "For a bird or another animal to produce an egg.",
+                "wrongEn": "To remove a person from an official position."
+              }
+            ],
+            "key": "lay",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-lay",
+                "meaningKeys": [
+                  "(물건을)놓다\u001fTo put something down in a particular position.",
+                  "(알을)낳다\u001fFor a bird or another animal to produce an egg."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "For a bird or another animal to produce an egg.",
+          "isCorrect": true,
+          "explanation": "lay는 새나 동물이 알을 낳는다는 뜻으로 쓰이므로 이 정의가 정답입니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-linguistic",
+            "word": "linguistic",
+            "sourceMeaning": "언어의, 언어학의",
+            "meanings": [
+              {
+                "ko": "언어의",
+                "en": "Relating to language and its use.",
+                "wrongEn": "Designed to prevent the spread of fire."
+              },
+              {
+                "ko": "언어학의",
+                "en": "Relating to the scientific study of language.",
+                "wrongEn": "Located at the highest point of a mountain."
+              }
+            ],
+            "key": "linguistic",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-linguistic",
+                "meaningKeys": [
+                  "언어의\u001fRelating to language and its use.",
+                  "언어학의\u001fRelating to the scientific study of language."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "Located at the highest point of a mountain.",
+          "isCorrect": false,
+          "explanation": "이는 '산의 정상에 위치한'이라는 뜻으로, linguistic(언어학의)의 의미와 전혀 관련이 없습니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-pledge",
+            "word": "pledge",
+            "sourceMeaning": "약속, 맹세, 약속하다, 맹세하다",
+            "meanings": [
+              {
+                "ko": "약속, 맹세",
+                "en": "A serious promise to do or provide something.",
+                "wrongEn": "A line dividing a circle into two equal halves."
+              },
+              {
+                "ko": "약속하다, 맹세하다",
+                "en": "To make a serious promise to do or give something.",
+                "wrongEn": "To remove salt from seawater."
+              }
+            ],
+            "key": "pledge",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-pledge",
+                "meaningKeys": [
+                  "약속, 맹세\u001fA serious promise to do or provide something.",
+                  "약속하다, 맹세하다\u001fTo make a serious promise to do or give something."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "To remove salt from seawater.",
+          "isCorrect": false,
+          "explanation": "이는 '해수를 담수화하다'라는 뜻으로, pledge(약속하다)의 의미와 무관한 거짓 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-feed",
+            "word": "feed",
+            "sourceMeaning": "먹이를 주다, 부양하다",
+            "meanings": [
+              {
+                "ko": "먹이를 주다",
+                "en": "To give food to a person or an animal.",
+                "wrongEn": "To mark the edge of a field with a fence."
+              },
+              {
+                "ko": "부양하다",
+                "en": "To provide the food needed to support someone.",
+                "wrongEn": "To cause light to change direction as it enters glass."
+              }
+            ],
+            "key": "feed",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-feed",
+                "meaningKeys": [
+                  "먹이를 주다\u001fTo give food to a person or an animal.",
+                  "부양하다\u001fTo provide the food needed to support someone."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "To cause light to change direction as it enters glass.",
+          "isCorrect": false,
+          "explanation": "이는 '빛을 굴절시키다'라는 뜻으로, feed(부양하다)의 의미와 관련이 없습니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-panel",
+            "word": "panel",
+            "sourceMeaning": "토론자단, 패널, 넓은 직사각형의 합판",
+            "meanings": [
+              {
+                "ko": "토론자단, 패널",
+                "en": "A group of people chosen to discuss a topic or make a judgment.",
+                "wrongEn": "A liquid medicine used to relieve a cough."
+              },
+              {
+                "ko": "넓은 직사각형의 합판",
+                "en": "A broad, usually rectangular sheet of wood used in construction.",
+                "wrongEn": "A narrow stream that flows into a larger river."
+              }
+            ],
+            "key": "panel",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-panel",
+                "meaningKeys": [
+                  "토론자단, 패널\u001fA group of people chosen to discuss a topic or make a judgment.",
+                  "넓은 직사각형의 합판\u001fA broad, usually rectangular sheet of wood used in construction."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "A narrow stream that flows into a larger river.",
+          "isCorrect": false,
+          "explanation": "이는 '지류'라는 뜻으로, panel(합판)의 의미와 전혀 다릅니다."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "kind": "incorrect",
+      "difficulty": "hard",
+      "intent": "고난도: 네 개의 참 정의는 덜 익숙한 확장된 의미(대가, 신용을 얻다, 비난 등)를 사용하고, exhibit(전시품)만 완전히 다른 직업을 뜻하는 거짓 정의로 바꿔 신중히 판별하게 함",
+      "answerIndex": 2,
+      "explanation": "exhibit에 제시된 정의는 '동물을 치료하는 사람'으로, 이는 수의사(veterinarian)의 정의이며 exhibit의 어떤 실제 의미와도 맞지 않습니다. 나머지 단어들은 모두 선택된 의미를 올바르게 설명합니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-30-awkward",
+            "word": "awkward",
+            "sourceMeaning": "어색한, 서투른",
+            "meanings": [
+              {
+                "ko": "어색한",
+                "en": "Causing discomfort or embarrassment in a social situation.",
+                "wrongEn": "Made from materials that occur naturally in the ground."
+              },
+              {
+                "ko": "서투른",
+                "en": "Lacking skill or ease in movement or action.",
+                "wrongEn": "Able to remember something with perfect accuracy."
+              }
+            ],
+            "key": "awkward",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-awkward",
+                "meaningKeys": [
+                  "어색한\u001fCausing discomfort or embarrassment in a social situation.",
+                  "서투른\u001fLacking skill or ease in movement or action."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "Lacking skill or ease in movement or action.",
+          "isCorrect": true,
+          "explanation": "awkward는 '서투른'이라는 뜻으로 동작이나 행동에서 능숙하지 못함을 나타내므로 참입니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-cost",
+            "word": "cost",
+            "sourceMeaning": "(비용이)들다, 비용, 대가",
+            "meanings": [
+              {
+                "ko": "(비용이)들다",
+                "en": "To require a particular amount of money to buy or do something.",
+                "wrongEn": "To move a boat through water using oars."
+              },
+              {
+                "ko": "비용",
+                "en": "The amount of money needed to obtain or do something.",
+                "wrongEn": "A document recording someone's place and date of birth."
+              },
+              {
+                "ko": "대가",
+                "en": "Something lost or given up in order to achieve a result.",
+                "wrongEn": "A group of animals that travel together for safety."
+              }
+            ],
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "key": "cost",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-cost",
+                "meaningKeys": [
+                  "(비용이)들다\u001fTo require a particular amount of money to buy or do something.",
+                  "비용\u001fThe amount of money needed to obtain or do something.",
+                  "대가\u001fSomething lost or given up in order to achieve a result."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyNote": ""
+          },
+          "meaningIndex": 2,
+          "definition": "Something lost or given up in order to achieve a result.",
+          "isCorrect": true,
+          "explanation": "cost는 '대가'라는 뜻으로 어떤 결과를 위해 잃거나 포기한 것을 의미하므로 참입니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-exhibit",
+            "word": "exhibit",
+            "sourceMeaning": "전시하다, 보여 주다, 전시, 전시품",
+            "meanings": [
+              {
+                "ko": "전시하다",
+                "en": "To put objects or works on public display.",
+                "wrongEn": "To reduce a substance to a fine powder."
+              },
+              {
+                "ko": "보여 주다",
+                "en": "To clearly show a quality, feeling, or behavior.",
+                "wrongEn": "To move silently on hands and knees."
+              },
+              {
+                "ko": "전시",
+                "en": "A public display arranged for people to view.",
+                "wrongEn": "A long period with much less rain than usual."
+              },
+              {
+                "ko": "전시품",
+                "en": "An object placed on display for people to examine.",
+                "wrongEn": "A person who treats illnesses in animals."
+              }
+            ],
+            "key": "exhibit",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-exhibit",
+                "meaningKeys": [
+                  "전시하다\u001fTo put objects or works on public display.",
+                  "보여 주다\u001fTo clearly show a quality, feeling, or behavior.",
+                  "전시\u001fA public display arranged for people to view.",
+                  "전시품\u001fAn object placed on display for people to examine."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 3,
+          "definition": "A person who treats illnesses in animals.",
+          "isCorrect": false,
+          "explanation": "이는 '수의사'의 정의로, exhibit(전시품, 전시하다, 보여주다)의 어떤 의미와도 일치하지 않습니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-earn",
+            "word": "earn",
+            "sourceMeaning": "(신용 평판 등을)얻다, (돈을)벌다",
+            "meanings": [
+              {
+                "ko": "(신용 평판 등을)얻다",
+                "en": "To gain trust, respect, or a reputation through one's actions.",
+                "wrongEn": "To predict future weather from atmospheric measurements."
+              },
+              {
+                "ko": "(돈을)벌다",
+                "en": "To receive money in exchange for work or services.",
+                "wrongEn": "To divide an area into separate official regions."
+              }
+            ],
+            "key": "earn",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-earn",
+                "meaningKeys": [
+                  "(신용 평판 등을)얻다\u001fTo gain trust, respect, or a reputation through one's actions.",
+                  "(돈을)벌다\u001fTo receive money in exchange for work or services."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To gain trust, respect, or a reputation through one's actions.",
+          "isCorrect": true,
+          "explanation": "earn은 행동을 통해 신용이나 평판을 얻는다는 뜻으로도 쓰이므로 참입니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-blame",
+            "word": "blame",
+            "sourceMeaning": "비난하다, ~의 탓으로 돌리다, 비난, 책망",
+            "meanings": [
+              {
+                "ko": "비난하다, ~의 탓으로 돌리다",
+                "en": "To say that someone or something is responsible for a bad result.",
+                "wrongEn": "To pass a law after a formal vote."
+              },
+              {
+                "ko": "비난, 책망",
+                "en": "Criticism that holds someone responsible for something wrong.",
+                "wrongEn": "A container used to store drinking water underground."
+              }
+            ],
+            "key": "blame",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-blame",
+                "meaningKeys": [
+                  "비난하다, ~의 탓으로 돌리다\u001fTo say that someone or something is responsible for a bad result.",
+                  "비난, 책망\u001fCriticism that holds someone responsible for something wrong."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 1,
+          "definition": "Criticism that holds someone responsible for something wrong.",
+          "isCorrect": true,
+          "explanation": "blame은 명사로 '비난, 책망'을 뜻하며 누군가에게 잘못의 책임을 묻는 비판을 의미하므로 참입니다."
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "kind": "correct",
+      "difficulty": "hard",
+      "intent": "고난도: expose의 덜 익숙한 확장 의미(노출시키다)를 정답으로 하고, 나머지는 유사 주제(감시, 폭로, 발명)의 단어이지만 실제로는 전혀 다른 행위를 뜻하는 거짓 정의로 혼동을 유도",
+      "answerIndex": 0,
+      "explanation": "expose의 '노출시키다'라는 의미가 정답이며, 나머지 보기는 감시·폭로·발명이라는 주제와 관련된 단어들이지만 실제로는 각기 다른 행위(연마, 혼합, 난방, 운송)를 뜻하는 거짓 정의입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-30-expose",
+            "word": "expose",
+            "sourceMeaning": "드러내다, (비밀을)폭로하다, 노출시키다",
+            "meanings": [
+              {
+                "ko": "드러내다",
+                "en": "To uncover something so that it can be seen.",
+                "wrongEn": "To arrange a set of numbers from smallest to largest."
+              },
+              {
+                "ko": "(비밀을)폭로하다",
+                "en": "To reveal information or wrongdoing that was kept secret.",
+                "wrongEn": "To make a cloth stronger by adding extra stitches."
+              },
+              {
+                "ko": "노출시키다",
+                "en": "To put someone or something in contact with an influence or condition.",
+                "wrongEn": "To decide the winner of a competition by counting votes."
+              }
+            ],
+            "key": "expose",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-expose",
+                "meaningKeys": [
+                  "드러내다\u001fTo uncover something so that it can be seen.",
+                  "(비밀을)폭로하다\u001fTo reveal information or wrongdoing that was kept secret.",
+                  "노출시키다\u001fTo put someone or something in contact with an influence or condition."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 2,
+          "definition": "To put someone or something in contact with an influence or condition.",
+          "isCorrect": true,
+          "explanation": "expose는 사람이나 사물을 어떤 영향이나 조건에 노출시킨다는 뜻으로 쓰이므로 이 정의가 정답입니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-soar",
+            "word": "soar",
+            "sourceMeaning": "높이 치솟다",
+            "meanings": [
+              {
+                "ko": "높이 치솟다",
+                "en": "To rise high or increase very quickly.",
+                "wrongEn": "To rub a rough surface until it becomes smooth."
+              }
+            ],
+            "key": "soar",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-soar",
+                "meaningKeys": [
+                  "높이 치솟다\u001fTo rise high or increase very quickly."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To rub a rough surface until it becomes smooth.",
+          "isCorrect": false,
+          "explanation": "이는 '표면을 문질러 매끄럽게 하다'라는 뜻으로, soar(치솟다)의 의미와 전혀 다릅니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-surveillance",
+            "word": "surveillance",
+            "sourceMeaning": "감시",
+            "meanings": [
+              {
+                "ko": "감시",
+                "en": "Close observation of people or places to gather information or ensure security.",
+                "wrongEn": "The process of combining two substances into one mixture."
+              }
+            ],
+            "key": "surveillance",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-surveillance",
+                "meaningKeys": [
+                  "감시\u001fClose observation of people or places to gather information or ensure security."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "The process of combining two substances into one mixture.",
+          "isCorrect": false,
+          "explanation": "이는 '두 물질을 혼합하는 과정'을 뜻하며, surveillance(감시)의 의미와 무관한 거짓 정의입니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-disclose",
+            "word": "disclose",
+            "sourceMeaning": "드러내다, 폭로하다",
+            "meanings": [
+              {
+                "ko": "드러내다, 폭로하다",
+                "en": "To make information known that was previously hidden.",
+                "wrongEn": "To supply a building with heat during cold weather."
+              }
+            ],
+            "key": "disclose",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-disclose",
+                "meaningKeys": [
+                  "드러내다, 폭로하다\u001fTo make information known that was previously hidden."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To supply a building with heat during cold weather.",
+          "isCorrect": false,
+          "explanation": "이는 '건물에 난방을 공급하다'라는 뜻으로, disclose(폭로하다)의 의미와 관련이 없습니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-invent",
+            "word": "invent",
+            "sourceMeaning": "발명하다",
+            "meanings": [
+              {
+                "ko": "발명하다",
+                "en": "To create a device or method that did not exist before.",
+                "wrongEn": "To carry goods from one location to another."
+              }
+            ],
+            "key": "invent",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-invent",
+                "meaningKeys": [
+                  "발명하다\u001fTo create a device or method that did not exist before."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To carry goods from one location to another.",
+          "isCorrect": false,
+          "explanation": "이는 '물건을 한 장소에서 다른 장소로 운송하다'라는 뜻으로, invent(발명하다)의 의미와 전혀 다릅니다."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "kind": "incorrect",
+      "difficulty": "hard",
+      "intent": "다섯 단어 중 실제 의미와 전혀 맞지 않는 거짓 정의 하나를 찾아내는 문제로, 유사한 단어(spatial vs. simultaneous 등)와 혼동하지 않고 각 단어의 정확한 뜻을 아는지 평가함",
+      "answerIndex": 4,
+      "explanation": "flourish는 '번영하다, 번창하다'라는 뜻으로, '차게 식어 얼어서 굳어지다'라는 뜻은 flourish의 어떤 의미로도 존재하지 않습니다. 나머지 네 단어(spatial, illusion, remind, explode)는 모두 제시된 정의가 실제 의미와 정확히 일치합니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-30-spatial",
+            "word": "spatial",
+            "sourceMeaning": "공간의, 공간적인",
+            "meanings": [
+              {
+                "ko": "공간의, 공간적인",
+                "en": "Relating to space or the position of things within it.",
+                "wrongEn": "Happening at exactly the same moment in time."
+              }
+            ],
+            "key": "spatial",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-spatial",
+                "meaningKeys": [
+                  "공간의, 공간적인\u001fRelating to space or the position of things within it."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "Relating to space or the position of things within it.",
+          "isCorrect": true,
+          "explanation": "spatial은 '공간의, 공간적인'이라는 뜻으로 이 정의는 정확합니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-illusion",
+            "word": "illusion",
+            "sourceMeaning": "환상, 착각",
+            "meanings": [
+              {
+                "ko": "환상, 착각",
+                "en": "A false appearance or belief that makes something seem different from reality.",
+                "wrongEn": "A written instruction explaining how to assemble a machine."
+              }
+            ],
+            "key": "illusion",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-illusion",
+                "meaningKeys": [
+                  "환상, 착각\u001fA false appearance or belief that makes something seem different from reality."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "A false appearance or belief that makes something seem different from reality.",
+          "isCorrect": true,
+          "explanation": "illusion은 '환상, 착각'이라는 뜻으로 이 정의는 정확합니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-remind",
+            "word": "remind",
+            "sourceMeaning": "생각나게 하다, 상기시키다",
+            "meanings": [
+              {
+                "ko": "생각나게 하다, 상기시키다",
+                "en": "To cause someone to remember something.",
+                "wrongEn": "To repair damage to the outer surface of a road."
+              }
+            ],
+            "key": "remind",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-remind",
+                "meaningKeys": [
+                  "생각나게 하다, 상기시키다\u001fTo cause someone to remember something."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To cause someone to remember something.",
+          "isCorrect": true,
+          "explanation": "remind는 '생각나게 하다, 상기시키다'라는 뜻으로 이 정의는 정확합니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-explode",
+            "word": "explode",
+            "sourceMeaning": "폭발하다",
+            "meanings": [
+              {
+                "ko": "폭발하다",
+                "en": "To burst apart suddenly with violent force.",
+                "wrongEn": "To slowly join separate parts into a single piece."
+              }
+            ],
+            "key": "explode",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-explode",
+                "meaningKeys": [
+                  "폭발하다\u001fTo burst apart suddenly with violent force."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To burst apart suddenly with violent force.",
+          "isCorrect": true,
+          "explanation": "explode는 '폭발하다'라는 뜻으로 이 정의는 정확합니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-flourish",
+            "word": "flourish",
+            "sourceMeaning": "번영하다, 번창하다",
+            "meanings": [
+              {
+                "ko": "번영하다, 번창하다",
+                "en": "To grow or develop successfully and strongly.",
+                "wrongEn": "To become solid after being cooled below freezing."
+              }
+            ],
+            "key": "flourish",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-flourish",
+                "meaningKeys": [
+                  "번영하다, 번창하다\u001fTo grow or develop successfully and strongly."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To become solid after being cooled below freezing.",
+          "isCorrect": false,
+          "explanation": "이것은 거짓 정의입니다. flourish는 '얼어서 굳다'가 아니라 '번영하다, 성공적으로 성장하다'라는 뜻입니다. 이 정의는 오히려 freeze(얼다)에 가까운 설명입니다."
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "kind": "correct",
+      "difficulty": "hard",
+      "intent": "다섯 단어 중 실제 의미와 정확히 일치하는 참인 정의 하나를 찾아내는 문제로, 나머지 네 개의 그럴듯해 보이지만 전혀 관련 없는 거짓 정의에 현혹되지 않는지 평가함",
+      "answerIndex": 4,
+      "explanation": "symptom은 '증상'이라는 뜻으로, '질병이나 상태를 나타내는 신체적 또는 정신적 징후'라는 정의가 정확히 일치합니다. 나머지 네 단어(pillar, anecdote, closet, grind)는 모두 실제 의미와 전혀 다른 거짓 정의가 제시되어 있습니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-30-pillar",
+            "word": "pillar",
+            "sourceMeaning": "기둥",
+            "meanings": [
+              {
+                "ko": "기둥",
+                "en": "A tall upright structure used to support a building.",
+                "wrongEn": "A shallow container used for washing dishes."
+              }
+            ],
+            "key": "pillar",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-pillar",
+                "meaningKeys": [
+                  "기둥\u001fA tall upright structure used to support a building."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "A shallow container used for washing dishes.",
+          "isCorrect": false,
+          "explanation": "이것은 거짓 정의입니다. pillar는 설거지용 그릇이 아니라 건물을 지탱하는 '기둥'을 뜻합니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-anecdote",
+            "word": "anecdote",
+            "sourceMeaning": "일화, 비화",
+            "meanings": [
+              {
+                "ko": "일화, 비화",
+                "en": "A short account of an interesting event in someone's life.",
+                "wrongEn": "A diagram showing how parts of a machine fit together."
+              }
+            ],
+            "key": "anecdote",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-anecdote",
+                "meaningKeys": [
+                  "일화, 비화\u001fA short account of an interesting event in someone's life."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "A diagram showing how parts of a machine fit together.",
+          "isCorrect": false,
+          "explanation": "이것은 거짓 정의입니다. anecdote는 기계 조립도가 아니라 누군가의 삶에서 있었던 흥미로운 사건에 대한 '짧은 이야기, 일화'를 뜻합니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-closet",
+            "word": "closet",
+            "sourceMeaning": "벽장",
+            "meanings": [
+              {
+                "ko": "벽장",
+                "en": "A small enclosed space or cupboard for storing clothes and other things.",
+                "wrongEn": "A device that measures changes in air pressure."
+              }
+            ],
+            "key": "closet",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-closet",
+                "meaningKeys": [
+                  "벽장\u001fA small enclosed space or cupboard for storing clothes and other things."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "A device that measures changes in air pressure.",
+          "isCorrect": false,
+          "explanation": "이것은 거짓 정의입니다. closet은 기압계가 아니라 옷 등을 보관하는 작은 '벽장'을 뜻합니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-grind",
+            "word": "grind",
+            "sourceMeaning": "갈다, 빻다",
+            "meanings": [
+              {
+                "ko": "갈다, 빻다",
+                "en": "To crush something into small particles by pressing or rubbing.",
+                "wrongEn": "To protect wood with a clear layer of coating."
+              }
+            ],
+            "key": "grind",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-grind",
+                "meaningKeys": [
+                  "갈다, 빻다\u001fTo crush something into small particles by pressing or rubbing."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To protect wood with a clear layer of coating.",
+          "isCorrect": false,
+          "explanation": "이것은 거짓 정의입니다. grind는 나무를 코팅하는 것이 아니라 눌러서 잘게 '갈거나 빻는' 행위를 뜻합니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-symptom",
+            "word": "symptom",
+            "sourceMeaning": "증상",
+            "meanings": [
+              {
+                "ko": "증상",
+                "en": "A physical or mental sign of an illness or condition.",
+                "wrongEn": "A payment made to support a public project."
+              }
+            ],
+            "key": "symptom",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-symptom",
+                "meaningKeys": [
+                  "증상\u001fA physical or mental sign of an illness or condition."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "A physical or mental sign of an illness or condition.",
+          "isCorrect": true,
+          "explanation": "symptom은 '증상'이라는 뜻으로, 질병이나 상태를 나타내는 신체적·정신적 징후를 뜻합니다. 이 정의는 정확합니다."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "kind": "incorrect",
+      "difficulty": "hard",
+      "intent": "다섯 단어 중 실제 의미와 전혀 맞지 않는 거짓 정의 하나를 찾아내는 문제로, geology를 linguistics(언어학)와 혼동하지 않고 정확히 구분할 수 있는지 평가함",
+      "answerIndex": 4,
+      "explanation": "geology는 '지질학'으로 지구의 암석, 구조, 물리적 역사를 연구하는 학문입니다. '사람들이 언어를 배우고 사용하는 방식을 연구하는 학문'은 linguistics(언어학)에 대한 설명이며 geology의 어떤 의미로도 해당하지 않습니다. 나머지 네 단어(discuss, detect, diameter, sibling)는 모두 정확한 정의입니다.",
+      "options": [
+        {
+          "word": {
+            "id": "wm-30-discuss",
+            "word": "discuss",
+            "sourceMeaning": "토론하다",
+            "meanings": [
+              {
+                "ko": "토론하다",
+                "en": "To talk about a subject and exchange ideas or opinions.",
+                "wrongEn": "To cut crops and gather them from a field."
+              }
+            ],
+            "key": "discuss",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-discuss",
+                "meaningKeys": [
+                  "토론하다\u001fTo talk about a subject and exchange ideas or opinions."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To talk about a subject and exchange ideas or opinions.",
+          "isCorrect": true,
+          "explanation": "discuss는 '토론하다'라는 뜻으로 이 정의는 정확합니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-detect",
+            "word": "detect",
+            "sourceMeaning": "발견하다, 감지하다",
+            "meanings": [
+              {
+                "ko": "발견하다, 감지하다",
+                "en": "To notice or discover something that is not easily seen.",
+                "wrongEn": "To give a newly made object its name."
+              }
+            ],
+            "key": "detect",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-detect",
+                "meaningKeys": [
+                  "발견하다, 감지하다\u001fTo notice or discover something that is not easily seen."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "To notice or discover something that is not easily seen.",
+          "isCorrect": true,
+          "explanation": "detect는 '발견하다, 감지하다'라는 뜻으로 이 정의는 정확합니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-diameter",
+            "word": "diameter",
+            "sourceMeaning": "지름, 직경",
+            "meanings": [
+              {
+                "ko": "지름, 직경",
+                "en": "A straight line through the center of a circle, or its length.",
+                "wrongEn": "The force that pulls objects toward the earth."
+              }
+            ],
+            "key": "diameter",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-diameter",
+                "meaningKeys": [
+                  "지름, 직경\u001fA straight line through the center of a circle, or its length."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "A straight line through the center of a circle, or its length.",
+          "isCorrect": true,
+          "explanation": "diameter는 '지름, 직경'이라는 뜻으로 이 정의는 정확합니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-sibling",
+            "word": "sibling",
+            "sourceMeaning": "형제자매, 동기",
+            "meanings": [
+              {
+                "ko": "형제자매, 동기",
+                "en": "A brother or sister of the same person.",
+                "wrongEn": "A person chosen to lead a religious ceremony."
+              }
+            ],
+            "key": "sibling",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-sibling",
+                "meaningKeys": [
+                  "형제자매, 동기\u001fA brother or sister of the same person."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "A brother or sister of the same person.",
+          "isCorrect": true,
+          "explanation": "sibling은 '형제자매, 동기'라는 뜻으로 이 정의는 정확합니다."
+        },
+        {
+          "word": {
+            "id": "wm-30-geology",
+            "word": "geology",
+            "sourceMeaning": "지질학",
+            "meanings": [
+              {
+                "ko": "지질학",
+                "en": "The study of the earth's rocks, structure, and physical history.",
+                "wrongEn": "The study of how people learn and use languages."
+              }
+            ],
+            "key": "geology",
+            "origins": [
+              "2026 워드마스터 수능 2000 · 30과"
+            ],
+            "notes": [],
+            "sourceRefs": [
+              {
+                "unitKey": "wordmaster/unit-30.json",
+                "bookId": "wordmaster",
+                "bookTitle": "2026 워드마스터 수능 2000",
+                "unitId": "30",
+                "unitTitle": "30과",
+                "wordId": "wm-30-geology",
+                "meaningKeys": [
+                  "지질학\u001fThe study of the earth's rocks, structure, and physical history."
+                ]
+              }
+            ],
+            "studyMark": null,
+            "studyMarks": [],
+            "unknownMeaningKeys": [],
+            "studyNote": ""
+          },
+          "meaningIndex": 0,
+          "definition": "The study of how people learn and use languages.",
+          "isCorrect": false,
+          "explanation": "이것은 거짓 정의입니다. geology는 언어 학습·사용에 관한 학문(linguistics)이 아니라 지구의 암석, 구조, 역사를 연구하는 '지질학'을 뜻합니다."
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "summary": "제공된 30과 단어 41개 중 대부분은 학습 표시(studyMarks)나 오답 기록이 없어 현재 데이터로는 숙련도를 판단할 수 없습니다. 다만 8개 단어(temperate, mock, damp, script, signify, thorough, sophomore, sole)에서 '모름' 또는 '복습 필요' 표시가 확인되었으며, 이 중 damp와 thorough는 학습자 메모를 통해 철자·발음이 비슷한 다른 단어(dunk, through/though)와 혼동하고 있음이 드러났습니다. 플래시카드 retryCount와 completedAt이 전부 null이라 실제 복습 성공/실패 여부는 알 수 없고, history 기록도 없어 객관식 오답 근거는 없습니다.",
+    "weaknesses": [
+      "temperate: 'review' 표시와 함께 meaningIndex 0(기후가 온화한)만 명시적으로 '모름'으로 표시됨 (meaningIndex 1 '절제하는'은 별도 증거 없음)",
+      "mock: meaningIndex 1(가짜의)만 명시적으로 '모름'으로 표시됨 (meaningIndex 0 '조롱하다'는 미표시)",
+      "damp: 단어 전체가 'unknown'+'review'로 표시되었고, 학습자 메모에 따르면 'dunk(잠그다, 적시다)'와 혼동하고 있음",
+      "script: 'review' 표시와 함께 meaningIndex 0(손으로 쓰기)만 명시적으로 '모름'으로 표시됨 (meaningIndex 1 '대본'은 별도 증거 없음)",
+      "signify: 단어 전체가 'unknown'+'review'로 표시되었으나 개별 의미(의미하다/중요하다) 중 어느 것이 어려운지는 특정되지 않음",
+      "thorough: 단어 전체가 'unknown'+'review'로 표시되었고, 학습자 메모에 따르면 'through, though'와 철자·의미 혼동이 있음",
+      "sophomore: 단어 전체가 'unknown'+'review'로 표시됨",
+      "sole: 'review' 표시만 있고 '모름'으로는 표시되지 않아, 완전히 모르는 상태로 단정할 수 없음 (재확인 필요 수준)"
+    ],
+    "recommendations": [
+      "damp와 thorough는 학습자가 명시적으로 유사 철자/발음 단어(dunk, through/though)와 혼동한다고 밝혔으므로, 두 단어를 나란히 비교하며 철자 차이와 의미 차이를 정리하는 복습 카드를 추가로 만들 것을 권장",
+      "temperate, mock, script처럼 특정 의미 인덱스만 '모름'으로 표시된 단어는 해당 의미(온화한/가짜의/손으로 쓰기)에 집중한 예문 학습이 필요하며, 표시되지 않은 나머지 의미까지 모른다고 단정하지 말 것",
+      "signify, sophomore처럼 단어 전체가 '모름'+'복습 필요'로 표시된 단어는 모든 의미를 처음부터 다시 학습하는 것이 좋음",
+      "sole은 '복습 필요'만 표시되어 있어 완전한 미숙지로 보기는 어려우나, 가벼운 재확인 퀴즈로 실제 이해도를 점검할 것을 권장",
+      "전체적으로 flashcard의 retryCount/completedAt이 모두 null이라 실제 복습 성공률을 알 수 없으므로, 플래시카드 기능을 활용한 반복 학습 기록을 남기기 시작할 것을 권장"
+    ],
+    "effectiveMode": "weak"
+  },
+  "modelsUsed": {
+    "collect": "claude-sonnet-5",
+    "select": "claude-sonnet-5",
+    "generate": "claude-sonnet-5",
+    "verify": "gpt-5.6-terra"
+  },
+  "providers": {
+    "collect": "copilot",
+    "select": "copilot",
+    "generate": "copilot",
+    "verify": "copilot"
+  },
+  "type": "ai-test",
+  "createdAt": "2026-09-28T04:03:08.516Z",
+  "selectedScope": [
+    {
+      "bookId": "wordmaster",
+      "bookTitle": "2026 워드마스터 수능 2000",
+      "unitIds": [
+        "30"
+      ],
+      "units": [
+        {
+          "unitId": "30",
+          "unitTitle": "30과",
+          "unitKey": "wordmaster/unit-30.json"
+        }
+      ]
+    }
+  ],
+  "options": {
+    "count": 8,
+    "mode": "weak",
+    "difficulty": "hard"
+  },
+  "models": {
+    "collect": "claude-sonnet-5",
+    "select": "claude-sonnet-5",
+    "generate": "claude-sonnet-5",
+    "verify": "gpt-5.6-terra"
+  },
+  "schemaVersion": 1,
+  "examId": "2026-09-28-002",
+  "updatedAt": "2026-09-28T04:41:14.648Z",
+  "status": "complete",
+  "answers": [
+    0,
+    4,
+    0,
+    2,
+    2,
+    4,
+    4,
+    4
+  ],
+  "position": 7,
+  "summary": {
+    "strengths": [
+      "전체 8문제 중 7문제를 정답 처리하며 easy~hard 전 난이도에서 고른 정답률을 보였습니다.",
+      "q4, q6, q7, q8과 같은 hard 난이도 문항에서도 정확히 답을 골라, cost(대가), earn(신용을 얻다), blame(책망) 같은 단어의 확장·파생 의미까지 잘 구분하는 모습을 보였습니다.",
+      "q7, q8처럼 여러 그럴듯한 오답(거짓 정의) 중에서 실제 의미와 정확히 일치하는 참 정의를 찾아내는 변별력이 우수합니다(pillar, anecdote, closet, grind vs symptom / discuss, detect, diameter, sibling vs geology).",
+      "q1(easy), q3(medium)에서 temperate, lay 등 기본 어휘의 핵심 의미를 정확히 파악하고 있습니다."
+    ],
+    "weaknesses": [
+      "q5(hard, expose/soar/surveillance/disclose/invent 관련 문항)에서 오답이 발생했습니다. 다만 기록된 채점 정보와 문항 해설 간에 상충되는 부분이 있어(어떤 항목이 정답인지 근거가 엇갈림), 정확히 어떤 단어에서 혼동이 생겼는지는 단정하기 어렵습니다. expose의 다의어(드러내다/폭로하다/노출시키다)와 disclose, surveillance처럼 '감시·폭로'라는 유사 주제 어휘 사이에서 혼동했을 가능성이 있는 정도로만 추정됩니다.",
+      "학습자가 별도로 표시한 자기평가(studyMark)에서 damp를 'dunk(잠그다, 적시다)'와 혼동한다고 메모했고, thorough는 'through, though'와 철자·형태가 비슷해 헷갈린다고 표시했습니다. 이는 오늘 문제를 틀렸다는 뜻이 아니라, 평소 학습 중 본인이 인지한 혼동 지점입니다.",
+      "signify, sophomore, script, sole, temperate 등 몇몇 단어는 학습자가 'unknown' 또는 'review'로 표시해 두었으나 해당 문항(q1, q2)은 정답을 맞혔습니다. 즉 실제 능력보다 자기 확신이 낮게 표시된 항목으로, 뜻 자체를 모른다고 단정하기보다는 확신도 점검이 필요한 어휘로 보입니다.",
+      "5지선다에서 틀렸다고 해서 나머지 네 단어(soar, surveillance, disclose, invent)까지 모른다고 볼 근거는 부족하며, 이번 결과만으로는 이 단어들에 대한 확실한 취약점 판단은 유보해야 합니다."
+    ],
+    "recommendations": [
+      "damp와 dunk(잠그다/적시다)의 철자·발음·의미 차이를 예문과 함께 짝지어 복습하세요.",
+      "thorough, through, though 세 단어를 한 세트로 놓고 철자 차이와 발음, 품사(형용사/전치사/접속사)를 구분하는 연습을 권장합니다.",
+      "q5에서 다룬 expose(드러내다/폭로하다/노출시키다), disclose(폭로하다), surveillance(감시), soar(치솟다), invent(발명하다)를 다시 한 번 명확히 구분해 정리하되, 이번 채점 결과의 근거가 다소 불명확하므로 5개 단어 각각의 의미를 개별적으로 확인하는 방식으로 재점검하는 것이 좋습니다.",
+      "signify, sophomore, sole, script처럼 본인이 review/unknown으로 표시했지만 실제로는 맞힌 단어들은, 뜻을 안다는 확신을 가지고 넘어가되 한 번 더 짧게 복습하여 확신도를 높이는 것이 좋습니다.",
+      "전반적으로 고난도 다의어(하나의 단어가 여러 뜻을 가지는 경우, 예: cost, earn, blame, expose, discharge)를 학습할 때 기본 의미뿐 아니라 확장된 의미까지 함께 암기하는 학습을 이어가면 좋겠습니다."
+    ]
+  },
+  "summaryStatus": "complete",
+  "results": [
+    {
+      "questionId": "q1",
+      "answer": 0,
+      "answerIndex": 0,
+      "correct": true,
+      "difficulty": "easy",
+      "wordKeys": [
+        "temperate",
+        "mock",
+        "damp",
+        "thorough",
+        "script"
+      ]
+    },
+    {
+      "questionId": "q2",
+      "answer": 4,
+      "answerIndex": 4,
+      "correct": true,
+      "difficulty": "medium",
+      "wordKeys": [
+        "signify",
+        "sophomore",
+        "sole",
+        "undertake",
+        "discharge"
+      ]
+    },
+    {
+      "questionId": "q3",
+      "answer": 0,
+      "answerIndex": 0,
+      "correct": true,
+      "difficulty": "medium",
+      "wordKeys": [
+        "lay",
+        "linguistic",
+        "pledge",
+        "feed",
+        "panel"
+      ]
+    },
+    {
+      "questionId": "q4",
+      "answer": 2,
+      "answerIndex": 2,
+      "correct": true,
+      "difficulty": "hard",
+      "wordKeys": [
+        "awkward",
+        "cost",
+        "exhibit",
+        "earn",
+        "blame"
+      ]
+    },
+    {
+      "questionId": "q5",
+      "answer": 2,
+      "answerIndex": 0,
+      "correct": false,
+      "difficulty": "hard",
+      "wordKeys": [
+        "expose",
+        "soar",
+        "surveillance",
+        "disclose",
+        "invent"
+      ]
+    },
+    {
+      "questionId": "q6",
+      "answer": 4,
+      "answerIndex": 4,
+      "correct": true,
+      "difficulty": "hard",
+      "wordKeys": [
+        "spatial",
+        "illusion",
+        "remind",
+        "explode",
+        "flourish"
+      ]
+    },
+    {
+      "questionId": "q7",
+      "answer": 4,
+      "answerIndex": 4,
+      "correct": true,
+      "difficulty": "hard",
+      "wordKeys": [
+        "pillar",
+        "anecdote",
+        "closet",
+        "grind",
+        "symptom"
+      ]
+    },
+    {
+      "questionId": "q8",
+      "answer": 4,
+      "answerIndex": 4,
+      "correct": true,
+      "difficulty": "hard",
+      "wordKeys": [
+        "discuss",
+        "detect",
+        "diameter",
+        "sibling",
+        "geology"
+      ]
+    }
+  ],
+  "score": {
+    "correct": 7,
+    "total": 8
+  },
+  "completedAt": "2026-09-28T04:40:07.373Z"
+}

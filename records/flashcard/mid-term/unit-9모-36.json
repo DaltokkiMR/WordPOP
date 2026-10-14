@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "9모-36",
+  "unitTitle": "9모-36",
+  "words": [
+    {
+      "wordId": "mt-9mo-36-concern",
+      "key": "concern",
+      "word": "concern",
+      "retryCount": 1,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-9mo-36-irrelevant",
+      "key": "irrelevant",
+      "word": "irrelevant",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-9mo-36-symmetry",
+      "key": "symmetry",
+      "word": "symmetry",
+      "retryCount": 0,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    },
+    {
+      "wordId": "mt-9mo-36-objective",
+      "key": "objective",
+      "word": "objective",
+      "retryCount": 1,
+      "sessionId": "59aa60de-6209-45b4-9bd0-41a54fa82003",
+      "startedAt": "2026-09-30T12:40:30.401Z",
+      "completedAt": "2026-09-30T13:29:31.037Z"
+    }
+  ],
+  "updatedAt": "2026-09-30T13:29:31.037Z"
+}

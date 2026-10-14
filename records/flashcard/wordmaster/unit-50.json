@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "50",
+  "unitTitle": "50과",
+  "words": [
+    {
+      "wordId": "wm-50-fluctuation",
+      "key": "fluctuation",
+      "word": "fluctuation",
+      "retryCount": 1,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-liable",
+      "key": "liable",
+      "word": "liable",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-50-intrude",
+      "key": "intrude",
+      "word": "intrude",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-50-hybrid",
+      "key": "hybrid",
+      "word": "hybrid",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-prudent",
+      "key": "prudent",
+      "word": "prudent",
+      "retryCount": 0,
+      "sessionId": "733e623a-da77-4b78-9c49-3220b9c1fe24",
+      "startedAt": "2026-09-30T23:03:33.586Z",
+      "completedAt": "2026-09-30T23:34:02.090Z"
+    },
+    {
+      "wordId": "wm-50-bankruptcy",
+      "key": "bankruptcy",
+      "word": "bankruptcy",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-landfill",
+      "key": "landfill",
+      "word": "landfill",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-limb",
+      "key": "limb",
+      "word": "limb",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-productive",
+      "key": "productive",
+      "word": "productive",
+      "retryCount": 1,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-50-transcend",
+      "key": "transcend",
+      "word": "transcend",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-solidify",
+      "key": "solidify",
+      "word": "solidify",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-50-notable",
+      "key": "notable",
+      "word": "notable",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-50-kidnap",
+      "key": "kidnap",
+      "word": "kidnap",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-grudge",
+      "key": "grudge",
+      "word": "grudge",
+      "retryCount": 0,
+      "sessionId": "733e623a-da77-4b78-9c49-3220b9c1fe24",
+      "startedAt": "2026-09-30T23:03:33.586Z",
+      "completedAt": "2026-09-30T23:34:02.090Z"
+    },
+    {
+      "wordId": "wm-50-veterinarian",
+      "key": "veterinarian",
+      "word": "veterinarian",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-discrete",
+      "key": "discrete",
+      "word": "discrete",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-50-reckless",
+      "key": "reckless",
+      "word": "reckless",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-enthusiasm",
+      "key": "enthusiasm",
+      "word": "enthusiasm",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-setback",
+      "key": "setback",
+      "word": "setback",
+      "retryCount": 0,
+      "sessionId": "733e623a-da77-4b78-9c49-3220b9c1fe24",
+      "startedAt": "2026-09-30T23:03:33.586Z",
+      "completedAt": "2026-09-30T23:34:02.090Z"
+    },
+    {
+      "wordId": "wm-50-uncover",
+      "key": "uncover",
+      "word": "uncover",
+      "retryCount": 1,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-50-subsidy",
+      "key": "subsidy",
+      "word": "subsidy",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-phase",
+      "key": "phase",
+      "word": "phase",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-cumulative",
+      "key": "cumulative",
+      "word": "cumulative",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-50-tangle",
+      "key": "tangle",
+      "word": "tangle",
+      "retryCount": 1,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-50-counterattack",
+      "key": "counterattack",
+      "word": "counterattack",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-penetrate",
+      "key": "penetrate",
+      "word": "penetrate",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-synthetic",
+      "key": "synthetic",
+      "word": "synthetic",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-pollination",
+      "key": "pollination",
+      "word": "pollination",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-insane",
+      "key": "insane",
+      "word": "insane",
+      "retryCount": 1,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-scrutiny",
+      "key": "scrutiny",
+      "word": "scrutiny",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-ambiguous",
+      "key": "ambiguous",
+      "word": "ambiguous",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-peril",
+      "key": "peril",
+      "word": "peril",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-50-radius",
+      "key": "radius",
+      "word": "radius",
+      "retryCount": 1,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-outset",
+      "key": "outset",
+      "word": "outset",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-50-grumble",
+      "key": "grumble",
+      "word": "grumble",
+      "retryCount": 2,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-50-infrastructure",
+      "key": "infrastructure",
+      "word": "infrastructure",
+      "retryCount": 2,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-50-rage",
+      "key": "rage",
+      "word": "rage",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-50-prosper",
+      "key": "prosper",
+      "word": "prosper",
+      "retryCount": 0,
+      "sessionId": "733e623a-da77-4b78-9c49-3220b9c1fe24",
+      "startedAt": "2026-09-30T23:03:33.586Z",
+      "completedAt": "2026-09-30T23:34:02.090Z"
+    },
+    {
+      "wordId": "wm-50-wound",
+      "key": "wound",
+      "word": "wound",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-50-pitfall",
+      "key": "pitfall",
+      "word": "pitfall",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    }
+  ],
+  "updatedAt": "2026-09-30T23:34:02.090Z"
+}

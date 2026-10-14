@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "9모-21",
+  "unitTitle": "9모-21",
+  "source": "material/mid-term/9모-21.md",
+  "words": [
+    {
+      "id": "mt-9mo-21-captive",
+      "word": "captive",
+      "sourceMeaning": "사로잡힌",
+      "meanings": [
+        {
+          "ko": "사로잡힌",
+          "en": "Held or controlled by something and unable to get free.",
+          "wrongEn": "Willing to share things generously with others."
+        }
+      ]
+    },
+    {
+      "id": "mt-9mo-21-repertoire",
+      "word": "repertoire",
+      "sourceMeaning": "익혀서 해낼 수 있는 기술 전체, 레퍼토리",
+      "meanings": [
+        {
+          "ko": "익혀서 해낼 수 있는 기술 전체, 레퍼토리",
+          "en": "The whole range of skills or actions that someone has learned and can perform.",
+          "wrongEn": "A written record of money spent by a business in a year."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "9모-38",
+  "unitTitle": "9모-38",
+  "source": "material/mid-term/9모-38.md",
+  "words": [
+    {
+      "id": "mt-9mo-38-inadequacy",
+      "word": "inadequacy",
+      "sourceMeaning": "부적절함, 불충분함 (adequate ‘충분한, 적절한’의 반대말 inadequate의 명사형. 여기서는 단위를 신체 부위로 정의하던 방식이 공동체가 커지면서 더는 통하지 않게 된 한계를 뜻함)",
+      "meanings": [
+        {
+          "ko": "부적절함, 불충분함",
+          "en": "The state of not being good enough or not being sufficient for a purpose.",
+          "wrongEn": "The state of being very generous with money."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-9mo-38-harness",
+      "word": "harness",
+      "sourceMeaning": "이용하다, 활용하다 (본래 명사로 ‘(말에 채우는) 마구’라는 뜻이며, 동사로는 자원이나 힘을 ‘다스려 이용하다’라는 뜻)",
+      "meanings": [
+        {
+          "ko": "이용하다, 활용하다",
+          "en": "To control and make use of a resource or force.",
+          "wrongEn": "To break something into small pieces."
+        }
+      ]
+    },
+    {
+      "id": "mt-9mo-38-consistency",
+      "word": "consistency",
+      "sourceMeaning": "일관성 (형용사형은 consistent ‘일관된’. 여기서는 모든 사람이 단위를 똑같이 정의하고 사용하는 것)",
+      "meanings": [
+        {
+          "ko": "일관성",
+          "en": "The quality of always behaving or being done in the same way.",
+          "wrongEn": "The quality of being very bright in color."
+        }
+      ]
+    },
+    {
+      "id": "mt-9mo-38-geography",
+      "word": "geography",
+      "sourceMeaning": "지리, 지리적 조건 (여기서는 문화와 함께 사람들 사이를 갈라놓는 지역적 차이를 뜻함)",
+      "meanings": [
+        {
+          "ko": "지리, 지리적 조건",
+          "en": "The physical features of a place or region, such as its land and location.",
+          "wrongEn": "The study of how living cells divide."
+        }
+      ]
+    }
+  ]
+}

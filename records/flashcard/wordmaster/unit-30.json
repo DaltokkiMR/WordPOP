@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "30",
+  "unitTitle": "30과",
+  "words": [
+    {
+      "wordId": "wm-30-diameter",
+      "key": "diameter",
+      "word": "diameter",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-thorough",
+      "key": "thorough",
+      "word": "thorough",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-30-sole",
+      "key": "sole",
+      "word": "sole",
+      "retryCount": 0,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-30-surveillance",
+      "key": "surveillance",
+      "word": "surveillance",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-flourish",
+      "key": "flourish",
+      "word": "flourish",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-mock",
+      "key": "mock",
+      "word": "mock",
+      "retryCount": 0,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-30-signify",
+      "key": "signify",
+      "word": "signify",
+      "retryCount": 1,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-30-earn",
+      "key": "earn",
+      "word": "earn",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-damp",
+      "key": "damp",
+      "word": "damp",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-30-sophomore",
+      "key": "sophomore",
+      "word": "sophomore",
+      "retryCount": 0,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-30-linguistic",
+      "key": "linguistic",
+      "word": "linguistic",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-anecdote",
+      "key": "anecdote",
+      "word": "anecdote",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-symptom",
+      "key": "symptom",
+      "word": "symptom",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-cost",
+      "key": "cost",
+      "word": "cost",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-remind",
+      "key": "remind",
+      "word": "remind",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-invent",
+      "key": "invent",
+      "word": "invent",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-temperate",
+      "key": "temperate",
+      "word": "temperate",
+      "retryCount": 1,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-30-illusion",
+      "key": "illusion",
+      "word": "illusion",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-pillar",
+      "key": "pillar",
+      "word": "pillar",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-spatial",
+      "key": "spatial",
+      "word": "spatial",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-detect",
+      "key": "detect",
+      "word": "detect",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-script",
+      "key": "script",
+      "word": "script",
+      "retryCount": 1,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-30-blame",
+      "key": "blame",
+      "word": "blame",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-geology",
+      "key": "geology",
+      "word": "geology",
+      "retryCount": 1,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-30-soar",
+      "key": "soar",
+      "word": "soar",
+      "retryCount": 0,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-30-feed",
+      "key": "feed",
+      "word": "feed",
+      "retryCount": 1,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-30-expose",
+      "key": "expose",
+      "word": "expose",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-pledge",
+      "key": "pledge",
+      "word": "pledge",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-awkward",
+      "key": "awkward",
+      "word": "awkward",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-discharge",
+      "key": "discharge",
+      "word": "discharge",
+      "retryCount": 1,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    },
+    {
+      "wordId": "wm-30-grind",
+      "key": "grind",
+      "word": "grind",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-panel",
+      "key": "panel",
+      "word": "panel",
+      "retryCount": 1,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-exhibit",
+      "key": "exhibit",
+      "word": "exhibit",
+      "retryCount": 1,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-explode",
+      "key": "explode",
+      "word": "explode",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-sibling",
+      "key": "sibling",
+      "word": "sibling",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-discuss",
+      "key": "discuss",
+      "word": "discuss",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-lay",
+      "key": "lay",
+      "word": "lay",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-closet",
+      "key": "closet",
+      "word": "closet",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-disclose",
+      "key": "disclose",
+      "word": "disclose",
+      "retryCount": 0,
+      "sessionId": "31635755-6f98-4d1d-9f9e-285874e05a07",
+      "startedAt": "2026-09-28T03:21:39.005Z",
+      "completedAt": "2026-09-28T15:13:26.576Z"
+    },
+    {
+      "wordId": "wm-30-undertake",
+      "key": "undertake",
+      "word": "undertake",
+      "retryCount": 1,
+      "sessionId": "b2119ea7-0729-4b76-a91c-84984c5dcb1c",
+      "startedAt": "2026-09-28T15:58:00.089Z",
+      "completedAt": "2026-09-29T12:18:20.472Z"
+    }
+  ],
+  "updatedAt": "2026-09-30T14:47:21.323Z"
+}

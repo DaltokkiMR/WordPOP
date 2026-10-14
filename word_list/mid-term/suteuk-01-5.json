@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 01-5",
+  "unitTitle": "수특라 01-5",
+  "source": "material/mid-term/수특라 01-5.md",
+  "words": [
+    {
+      "id": "mt-suteuk-01-5-neutral",
+      "word": "neutral",
+      "sourceMeaning": "중립적인. 어느 한쪽의 입장이나 이념에 치우치지 않는다는 뜻이다.",
+      "meanings": [
+        {
+          "ko": "중립적인",
+          "en": "Not supporting either side in a disagreement or not favoring any belief.",
+          "wrongEn": "Having a strong, sharp taste like lemon."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-5-ideological",
+      "word": "ideological",
+      "sourceMeaning": "이념적인, 사상적인. ideal(이상적인)과 구별하며, ideological tendencies는 '이념적 성향'을 뜻한다.",
+      "meanings": [
+        {
+          "ko": "이념적인, 사상적인",
+          "en": "Relating to a set of political or social beliefs.",
+          "wrongEn": "Relating to the perfect form of something."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-5-supply-and-demand",
+      "word": "supply and demand",
+      "sourceMeaning": "공급과 수요. 여기서 supply와 demand는 모두 명사이며, demand는 '요구하다'라는 동사가 아니라 상품을 사려는 '수요'를 뜻한다.",
+      "meanings": [
+        {
+          "ko": "공급과 수요",
+          "en": "The amount of a product available and the amount people want to buy, which together affect its price.",
+          "wrongEn": "The rules that control how members of a club must behave."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-5-down-jacket",
+      "word": "down jacket",
+      "sourceMeaning": "다운 재킷, 오리털이나 거위털 등을 충전재로 넣은 방한용 재킷. 여기서 down은 '아래로'가 아니라 새의 부드러운 '솜털'을 뜻한다.",
+      "meanings": [
+        {
+          "ko": "다운 재킷(오리털·거위털 방한 재킷)",
+          "en": "A warm coat filled with the soft feathers of ducks or geese.",
+          "wrongEn": "A light shirt worn under a suit on a hot day."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-5-occupation",
+      "word": "occupation",
+      "sourceMeaning": "직업. '점령'이라는 뜻도 있지만, 여기서는 고객이 하는 일을 가리킨다.",
+      "meanings": [
+        {
+          "ko": "직업",
+          "en": "A person's job or profession.",
+          "wrongEn": "A hobby done only on weekends."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-5-bias",
+      "word": "bias",
+      "sourceMeaning": "편향, 편견. ideological bias는 특정 이념이나 사상으로 치우치는 것을 뜻한다.",
+      "meanings": [
+        {
+          "ko": "편향, 편견",
+          "en": "An unfair tendency to favor one side, person, or idea over others.",
+          "wrongEn": "A careful and balanced judgment based on facts."
+        }
+      ]
+    }
+  ]
+}

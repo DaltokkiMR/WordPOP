@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "49",
+  "unitTitle": "49과",
+  "words": [
+    {
+      "wordId": "wm-49-equate",
+      "key": "equate",
+      "word": "equate",
+      "retryCount": 3,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-49-utensil",
+      "key": "utensil",
+      "word": "utensil",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-49-feat",
+      "key": "feat",
+      "word": "feat",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-49-inference",
+      "key": "inference",
+      "word": "inference",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-49-enchant",
+      "key": "enchant",
+      "word": "enchant",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-49-reckon",
+      "key": "reckon",
+      "word": "reckon",
+      "retryCount": 1,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-49-antagonist",
+      "key": "antagonist",
+      "word": "antagonist",
+      "retryCount": 1,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-49-detest",
+      "key": "detest",
+      "word": "detest",
+      "retryCount": 0,
+      "sessionId": "733e623a-da77-4b78-9c49-3220b9c1fe24",
+      "startedAt": "2026-09-30T23:03:33.586Z",
+      "completedAt": "2026-09-30T23:34:02.090Z"
+    },
+    {
+      "wordId": "wm-49-creed",
+      "key": "creed",
+      "word": "creed",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-49-extrinsic",
+      "key": "extrinsic",
+      "word": "extrinsic",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-49-secondhand",
+      "key": "secondhand",
+      "word": "secondhand",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-49-endow",
+      "key": "endow",
+      "word": "endow",
+      "retryCount": 1,
+      "sessionId": "733e623a-da77-4b78-9c49-3220b9c1fe24",
+      "startedAt": "2026-09-30T23:03:33.586Z",
+      "completedAt": "2026-09-30T23:34:02.090Z"
+    },
+    {
+      "wordId": "wm-49-multiple",
+      "key": "multiple",
+      "word": "multiple",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-49-detach",
+      "key": "detach",
+      "word": "detach",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-49-missionary",
+      "key": "missionary",
+      "word": "missionary",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-49-merchandise",
+      "key": "merchandise",
+      "word": "merchandise",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-49-degenerate",
+      "key": "degenerate",
+      "word": "degenerate",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-49-tackle",
+      "key": "tackle",
+      "word": "tackle",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-49-respectively",
+      "key": "respectively",
+      "word": "respectively",
+      "retryCount": 1,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-49-moan",
+      "key": "moan",
+      "word": "moan",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-49-sentiment",
+      "key": "sentiment",
+      "word": "sentiment",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-49-erosion",
+      "key": "erosion",
+      "word": "erosion",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-49-conviction",
+      "key": "conviction",
+      "word": "conviction",
+      "retryCount": 1,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-49-thrust",
+      "key": "thrust",
+      "word": "thrust",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-49-cosmopolitan",
+      "key": "cosmopolitan",
+      "word": "cosmopolitan",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-49-entail",
+      "key": "entail",
+      "word": "entail",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-49-stout",
+      "key": "stout",
+      "word": "stout",
+      "retryCount": 0,
+      "sessionId": "733e623a-da77-4b78-9c49-3220b9c1fe24",
+      "startedAt": "2026-09-30T23:03:33.586Z",
+      "completedAt": "2026-09-30T23:34:02.090Z"
+    },
+    {
+      "wordId": "wm-49-propel",
+      "key": "propel",
+      "word": "propel",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-49-defy",
+      "key": "defy",
+      "word": "defy",
+      "retryCount": 1,
+      "sessionId": "733e623a-da77-4b78-9c49-3220b9c1fe24",
+      "startedAt": "2026-09-30T23:03:33.586Z",
+      "completedAt": "2026-09-30T23:34:02.090Z"
+    },
+    {
+      "wordId": "wm-49-auditory",
+      "key": "auditory",
+      "word": "auditory",
+      "retryCount": 0,
+      "sessionId": "d03ea393-563d-4ff0-9e1a-e0b895777b82",
+      "startedAt": "2026-09-29T12:18:31.065Z",
+      "completedAt": "2026-09-29T12:43:57.296Z"
+    },
+    {
+      "wordId": "wm-49-embed",
+      "key": "embed",
+      "word": "embed",
+      "retryCount": 1,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-49-demolish",
+      "key": "demolish",
+      "word": "demolish",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-49-reptile",
+      "key": "reptile",
+      "word": "reptile",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-49-merge",
+      "key": "merge",
+      "word": "merge",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-49-refraction",
+      "key": "refraction",
+      "word": "refraction",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-49-offspring",
+      "key": "offspring",
+      "word": "offspring",
+      "retryCount": 0,
+      "sessionId": "a03ab33f-d707-41de-9546-a9956c771f2b",
+      "startedAt": "2026-09-30T14:09:12.423Z",
+      "completedAt": "2026-09-30T14:47:21.323Z"
+    },
+    {
+      "wordId": "wm-49-misplace",
+      "key": "misplace",
+      "word": "misplace",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-49-frantic",
+      "key": "frantic",
+      "word": "frantic",
+      "retryCount": 0,
+      "sessionId": "1c7f1870-1b39-4e42-9f60-852f2a4572b0",
+      "startedAt": "2026-09-29T05:41:19.687Z",
+      "completedAt": "2026-09-29T09:25:35.045Z"
+    },
+    {
+      "wordId": "wm-49-dusk",
+      "key": "dusk",
+      "word": "dusk",
+      "retryCount": 0,
+      "sessionId": "0d792d7f-6b28-447f-998e-7b2373cb5e56",
+      "startedAt": "2026-09-30T14:47:24.886Z",
+      "completedAt": "2026-09-30T15:07:59.073Z"
+    },
+    {
+      "wordId": "wm-49-subdue",
+      "key": "subdue",
+      "word": "subdue",
+      "retryCount": 0,
+      "sessionId": "733e623a-da77-4b78-9c49-3220b9c1fe24",
+      "startedAt": "2026-09-30T23:03:33.586Z",
+      "completedAt": "2026-09-30T23:34:02.090Z"
+    }
+  ],
+  "updatedAt": "2026-09-30T23:34:02.090Z"
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "9모-34",
+  "unitTitle": "9모-34",
+  "source": "material/mid-term/9모-34.md",
+  "words": [
+    {
+      "id": "mt-9mo-34-administer",
+      "word": "administer",
+      "sourceMeaning": "처리하다, 관리하다 (보통 ‘관리하다, (약을) 투여하다’라는 뜻. 여기서는 슈퍼컴퓨터가 달리기에 필요한 엄청난 계산을 감당해 처리한다는 뜻)",
+      "meanings": [
+        {
+          "ko": "처리하다, 관리하다",
+          "en": "To manage or carry out a task, process, or system.",
+          "wrongEn": "To praise someone publicly for being brave."
+        }
+      ]
+    },
+    {
+      "id": "mt-9mo-34-untethered",
+      "word": "untethered",
+      "sourceMeaning": "매이지 않은, 줄에 묶이지 않은 (tether ‘(동물을) 줄로 매다’에 반대를 뜻하는 un-이 붙은 동사 untether의 과거분사. 여기서는 아무것에도 의지하지 않고 스스로 균형을 잡으며 두 다리로 달리는 상태)",
+      "meanings": [
+        {
+          "ko": "매이지 않은, 줄에 묶이지 않은",
+          "en": "Not tied or attached to anything, and so free to move.",
+          "wrongEn": "Covered with a thick layer of dust."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-9mo-34-alchemy",
+      "word": "alchemy",
+      "sourceMeaning": "연금술, 신비로운 조화 (본래 값싼 금속을 금으로 바꾸려던 옛 기술. 여기서는 완전히 설명하기 어려운 달리기의 신비로운 작동 원리를 가리킴)",
+      "meanings": [
+        {
+          "ko": "연금술",
+          "en": "An old practice that tried to turn cheap metals into gold.",
+          "wrongEn": "The study of the stars to predict the weather."
+        },
+        {
+          "ko": "신비로운 조화",
+          "en": "A mysterious process that produces an effect in a way that is hard to explain.",
+          "wrongEn": "A plain and simple explanation that anyone can follow."
+        }
+      ]
+    }
+  ]
+}

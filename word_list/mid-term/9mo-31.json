@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "9모-31",
+  "unitTitle": "9모-31",
+  "source": "material/mid-term/9모-31.md",
+  "words": [
+    {
+      "id": "mt-9mo-31-irrespective",
+      "word": "irrespective",
+      "sourceMeaning": "상관없이, 관계없이 (irrespective of는 ‘~와 상관없이’라는 뜻으로 regardless of와 같음. 여기서는 입맛이 음식 자체의 특성과 거의 상관없이 사람을 통해 퍼진다는 뜻)",
+      "meanings": [
+        {
+          "ko": "상관없이, 관계없이",
+          "en": "Without being affected by or taking account of something (used as \"irrespective of\").",
+          "wrongEn": "In a way that shows great respect and politeness."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-9mo-31-quality",
+      "word": "quality",
+      "sourceMeaning": "특성, 성질 (복수형 qualities로 쓰이면 ‘품질’보다 ‘특성, 자질’이라는 뜻이 많음. 여기서는 맛이나 영양처럼 음식이 지닌 고유한 특성)",
+      "meanings": [
+        {
+          "ko": "특성, 성질",
+          "en": "A characteristic or feature that something naturally has.",
+          "wrongEn": "The amount of money that must be paid for a service."
+        }
+      ]
+    }
+  ]
+}

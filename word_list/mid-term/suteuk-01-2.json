@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 01-2",
+  "unitTitle": "수특라 01-2",
+  "source": "material/mid-term/수특라 01-2.md",
+  "words": [
+    {
+      "id": "mt-suteuk-01-2-autism",
+      "word": "autism",
+      "sourceMeaning": "자폐증",
+      "meanings": [
+        {
+          "ko": "자폐증",
+          "en": "A developmental condition that affects how a person communicates and interacts with others.",
+          "wrongEn": "A disease of the lungs caused by breathing in dust."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-2-intensive",
+      "word": "intensive",
+      "sourceMeaning": "집중적인",
+      "meanings": [
+        {
+          "ko": "집중적인",
+          "en": "Involving a lot of effort or activity in a short time.",
+          "wrongEn": "Relating to the use of the internet for shopping."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-2-intervention",
+      "word": "intervention",
+      "sourceMeaning": "개입, 간섭",
+      "meanings": [
+        {
+          "ko": "개입, 간섭",
+          "en": "The act of becoming involved in a situation in order to change or improve it.",
+          "wrongEn": "A short break between two parts of a play."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "9모-29",
+  "unitTitle": "9모-29",
+  "source": "material/mid-term/9모-29.md",
+  "words": [
+    {
+      "id": "mt-9mo-29-aerobic-respiration",
+      "word": "aerobic respiration",
+      "sourceMeaning": "유산소 호흡 (산소를 이용해 영양소를 분해하여 에너지를 얻는 과정. aerobic은 ‘산소를 필요로 하는’이라는 뜻이고, 본문에 함께 나온 anaerobic은 ‘~이 없는’이라는 뜻의 an-이 붙어 ‘무산소의’라는 뜻이 됨)",
+      "meanings": [
+        {
+          "ko": "유산소 호흡",
+          "en": "The process by which cells use oxygen to break down nutrients and release energy.",
+          "wrongEn": "The process by which plants lose water through their leaves."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    }
+  ]
+}

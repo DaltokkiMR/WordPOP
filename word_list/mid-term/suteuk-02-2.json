@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 02-2",
+  "unitTitle": "수특라 02-2",
+  "source": "material/mid-term/수특라 02-2.md",
+  "words": [
+    {
+      "id": "mt-suteuk-02-2-subject-to",
+      "word": "subject to",
+      "sourceMeaning": "~의 영향을 받는, ~을 겪는 (이 글에서는 전통과 현대성 사이의 긴장에 영향을 받는다는 뜻)",
+      "meanings": [
+        {
+          "ko": "~의 영향을 받는, ~을 겪는",
+          "en": "Likely to be affected or influenced by something.",
+          "wrongEn": "Having the power to control others."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-02-2-integral",
+      "word": "integral",
+      "sourceMeaning": "필수적인, 없어서는 안 될 (an integral part of : ~의 필수적인 부분)",
+      "meanings": [
+        {
+          "ko": "필수적인, 없어서는 안 될",
+          "en": "Necessary and important as a part of a whole.",
+          "wrongEn": "Easy to remove without any effect on the rest."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-02-2-retain",
+      "word": "retain",
+      "sourceMeaning": "유지하다, 보유하다 (이미 가진 가치나 특성을 계속 지닌다는 뜻)",
+      "meanings": [
+        {
+          "ko": "유지하다, 보유하다",
+          "en": "To continue to have or keep something.",
+          "wrongEn": "To give something away to a stranger."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-2-thermal-insulation",
+      "word": "thermal insulation",
+      "sourceMeaning": "단열 (열이 드나드는 것을 줄이는 것. insulation은 isolation ‘고립, 격리’와 구별)",
+      "meanings": [
+        {
+          "ko": "단열",
+          "en": "Material or a method that reduces the flow of heat into or out of something.",
+          "wrongEn": "A system that sends electricity from one city to another."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-2-airtightness",
+      "word": "airtightness",
+      "sourceMeaning": "기밀성 (공기가 틈새로 새어 들어오거나 나가지 않도록 막는 성질)",
+      "meanings": [
+        {
+          "ko": "기밀성",
+          "en": "The quality of not letting air pass in or out through gaps.",
+          "wrongEn": "The quality of being able to float easily on water."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-2-heat-recovery-ventilation",
+      "word": "heat recovery ventilation",
+      "sourceMeaning": "열 회수 환기 (실내 공기를 내보내면서 그 열을 회수하여 들어오는 공기와 열을 교환하는 환기 방식)",
+      "meanings": [
+        {
+          "ko": "열 회수 환기",
+          "en": "A ventilation system that removes indoor air while reusing its heat to warm the incoming fresh air.",
+          "wrongEn": "A method of cooling food quickly by placing it in ice."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-2-lifestyle",
+      "word": "lifestyle",
+      "sourceMeaning": "생활 방식",
+      "meanings": [
+        {
+          "ko": "생활 방식",
+          "en": "The typical way in which a person or group lives.",
+          "wrongEn": "A type of clothing worn only for sports."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-2-custom",
+      "word": "custom",
+      "sourceMeaning": "관습 (복수형 customs는 '세관'이라는 뜻도 있지만 여기서는 '관습')",
+      "meanings": [
+        {
+          "ko": "관습",
+          "en": "A traditional way of behaving or doing something in a society.",
+          "wrongEn": "A written invitation to a formal dinner."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-2-mold",
+      "word": "mold",
+      "sourceMeaning": "곰팡이 ('틀, 거푸집'이라는 뜻도 있음)",
+      "meanings": [
+        {
+          "ko": "곰팡이",
+          "en": "A soft green or black growth that forms on damp surfaces or old food.",
+          "wrongEn": "A thin layer of paint used to protect metal from rust."
+        },
+        {
+          "ko": "틀, 거푸집",
+          "en": "A hollow container used to give a shape to liquid material as it hardens.",
+          "wrongEn": "A soft cushion placed on a chair for comfort."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-02-2-tension",
+      "word": "tension",
+      "sourceMeaning": "긴장, 갈등 (여기서는 전통과 현대성 사이에서 서로 당기는 갈등 관계)",
+      "meanings": [
+        {
+          "ko": "긴장, 갈등",
+          "en": "A situation in which different forces, ideas, or groups pull against each other.",
+          "wrongEn": "A feeling of calm agreement between everyone involved."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 01-3",
+  "unitTitle": "수특라 01-3",
+  "source": "material/mid-term/수특라 01-3.md",
+  "words": [
+    {
+      "id": "mt-suteuk-01-3-take-literally",
+      "word": "take literally",
+      "sourceMeaning": "문자 그대로 받아들이다. literally는 ‘비유적으로’가 아니라 ‘글자 그대로’라는 뜻이다.",
+      "meanings": [
+        {
+          "ko": "문자 그대로 받아들이다",
+          "en": "To understand words in their most basic, exact meaning rather than figuratively.",
+          "wrongEn": "To borrow a book from a library."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-3-prior-probability",
+      "word": "prior probability",
+      "sourceMeaning": "사전 확률. 새로운 증거를 반영하기 전의 확률이며, prior는 ‘이전의, 사전의’라는 뜻이다.",
+      "meanings": [
+        {
+          "ko": "사전 확률",
+          "en": "The likelihood of something estimated before new evidence is taken into account.",
+          "wrongEn": "The fee charged for sending a package quickly."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-3-damning",
+      "word": "damning",
+      "sourceMeaning": "유죄를 강하게 시사하는, 매우 불리한. 여기서는 증거가 용의자에게 불리하다는 뜻이다.",
+      "meanings": [
+        {
+          "ko": "유죄를 강하게 시사하는, 매우 불리한",
+          "en": "Strongly suggesting that someone is guilty or has done something wrong.",
+          "wrongEn": "Blocking the flow of a river with a wall."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-3-posterior-probability",
+      "word": "posterior probability",
+      "sourceMeaning": "사후 확률. 새로운 증거를 반영한 뒤의 확률로, prior probability와 구별한다.",
+      "meanings": [
+        {
+          "ko": "사후 확률",
+          "en": "The likelihood of something after new evidence has been taken into account.",
+          "wrongEn": "The number of seats left at the back of a theater."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-01-3-apprehend",
+      "word": "apprehend",
+      "sourceMeaning": "체포하다. apprehended는 과거분사로, was apprehended는 ‘체포되었다’라는 뜻이다. ‘이해하다’라는 다른 뜻과 구별한다.",
+      "meanings": [
+        {
+          "ko": "체포하다",
+          "en": "To catch and arrest someone who is suspected of a crime.",
+          "wrongEn": "To apply for a job at a large company."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-01-3-perpetrator",
+      "word": "perpetrator",
+      "sourceMeaning": "범인, 가해자. 범죄를 저지른 사람을 가리키며, 혐의를 받는 사람인 suspect(용의자)와 구별한다.",
+      "meanings": [
+        {
+          "ko": "범인, 가해자",
+          "en": "A person who commits a crime or a harmful act.",
+          "wrongEn": "A person who repairs broken pipes in houses."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    }
+  ]
+}

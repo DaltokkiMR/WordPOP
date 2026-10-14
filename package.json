@@ -1,0 +1,24 @@
+{
+  "name": "wordpop",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "로컬에서 사용하는 단어 학습 미니앱",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs",
+    "test": "node --test",
+    "validate": "node scripts/validate-data.mjs",
+    "check": "npm run validate && npm test",
+    "smoke:ai": "node scripts/smoke-ai.mjs",
+    "app": "bash scripts/build-app.sh"
+  },
+  "dependencies": {
+    "@github/copilot": "1.0.87",
+    "@github/copilot-sdk": "1.0.14",
+    "ajv": "8.20.0"
+  }
+}

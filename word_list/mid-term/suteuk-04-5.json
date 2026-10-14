@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 04-5",
+  "unitTitle": "수특라 04-5",
+  "source": "material/mid-term/수특라 04-5.md",
+  "words": [
+    {
+      "id": "mt-suteuk-04-5-in-that",
+      "word": "in that",
+      "sourceMeaning": "~라는 점에서 (뒤에 주어와 동사를 갖춘 절이 와서 앞 내용의 근거를 밝힘. 여기서는 색각이 이상하다고 말하는 이유를 설명)",
+      "meanings": [
+        {
+          "ko": "~라는 점에서",
+          "en": "For the reason that; used to introduce a clause explaining why something is said.",
+          "wrongEn": "Even though; used to show a contrast."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-04-5-reconstruct",
+      "word": "reconstruct",
+      "sourceMeaning": "재구성하다 (re- '다시'와 construct '구성하다'가 결합한 말. 여기서는 눈에 보이는 색으로부터 물체가 원래 가진 빛의 성질을 거꾸로 알아낸다는 뜻)",
+      "meanings": [
+        {
+          "ko": "재구성하다",
+          "en": "To work out or build again what something was like from the information available.",
+          "wrongEn": "To destroy something completely so it cannot be used."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-04-5-spectral-properties",
+      "word": "spectral properties",
+      "sourceMeaning": "스펙트럼상의 특성 (spectral은 spectrum의 형용사형으로 '스펙트럼의', property는 '재산'이 아니라 '특성, 속성'. 물체가 어떤 파장의 빛을 얼마나 반사하거나 내보내는지를 가리킴)",
+      "meanings": [
+        {
+          "ko": "스펙트럼상의 특성",
+          "en": "The characteristics of an object relating to which wavelengths of light it reflects or gives off.",
+          "wrongEn": "The rules that describe how sound travels through solid materials."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-04-5-monochromatic",
+      "word": "monochromatic",
+      "sourceMeaning": "단색의 (mono- '하나의'와 chromatic '색의'가 결합한 말. 괄호 속 single-wavelength처럼 하나의 파장으로만 이루어진 빛)",
+      "meanings": [
+        {
+          "ko": "단색의",
+          "en": "Consisting of light of a single color or a single wavelength.",
+          "wrongEn": "Made up of many different bright colors."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-04-5-complementary",
+      "word": "complementary",
+      "sourceMeaning": "보색의, 서로 보완하는 (complementary colors는 빛에서 섞으면 흰색이 되는 두 색, 즉 '보색'. 철자가 비슷한 complimentary '칭찬하는, 무료의'와 구별)",
+      "meanings": [
+        {
+          "ko": "보색의",
+          "en": "Describing colors that produce white (or gray) when combined, as with light.",
+          "wrongEn": "Describing colors that look almost the same as each other."
+        },
+        {
+          "ko": "서로 보완하는",
+          "en": "Combining well so that each improves or completes the other.",
+          "wrongEn": "Given free of charge as a gift."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-04-5-quality",
+      "word": "quality",
+      "sourceMeaning": "특성, 성질 (흔히 '품질'로 알지만 여기서는 '특성'. perceptual quality는 우리 감각에만 나타나는 '지각적 특성'으로, 여기서는 자주색을 가리킴)",
+      "meanings": [
+        {
+          "ko": "특성, 성질",
+          "en": "A characteristic or feature that something has.",
+          "wrongEn": "A document that allows someone to enter a country."
+        }
+      ]
+    },
+    {
+      "id": "mt-suteuk-04-5-deduce",
+      "word": "deduce",
+      "sourceMeaning": "추론하다, 이끌어 내다 (주어진 정보로부터 결론을 끌어낸다는 뜻. cannot be deduced는 우리가 보는 색만으로는 실제 물리적 자극을 알아낼 수 없다는 뜻)",
+      "meanings": [
+        {
+          "ko": "추론하다, 이끌어 내다",
+          "en": "To reach a conclusion from the information that is available.",
+          "wrongEn": "To lower the price of something for a sale."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    }
+  ]
+}

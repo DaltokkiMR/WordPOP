@@ -1,0 +1,678 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "28",
+  "unitTitle": "28과",
+  "source": "material/wordmaster_25_30_46_50.md",
+  "words": [
+    {
+      "id": "wm-28-bold",
+      "word": "bold",
+      "sourceMeaning": "대담한, 선이 굵은",
+      "meanings": [
+        {
+          "ko": "대담한",
+          "en": "Willing to take risks or act with confidence.",
+          "wrongEn": "Likely to break when exposed to low temperatures."
+        },
+        {
+          "ko": "선이 굵은",
+          "en": "Drawn or printed with thick, strong lines.",
+          "wrongEn": "Able to absorb water through tiny openings."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-compliment",
+      "word": "compliment",
+      "sourceMeaning": "칭찬, 칭찬하다",
+      "meanings": [
+        {
+          "ko": "칭찬",
+          "en": "A statement expressing praise or admiration.",
+          "wrongEn": "A formal decision made by a court after a trial."
+        },
+        {
+          "ko": "칭찬하다",
+          "en": "To express praise or admiration for someone or something.",
+          "wrongEn": "To estimate the depth of a body of water."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [],
+      "studyNote": "complement와 헷갈림"
+    },
+    {
+      "id": "wm-28-summit",
+      "word": "summit",
+      "sourceMeaning": "꼭대기, 정상",
+      "meanings": [
+        {
+          "ko": "꼭대기, 정상",
+          "en": "The highest point of a mountain or other high object.",
+          "wrongEn": "A narrow strip of land joining two larger areas."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [],
+      "studyNote": "submit(제출하다)과 헷갈림"
+    },
+    {
+      "id": "wm-28-troop",
+      "word": "troop",
+      "sourceMeaning": "무리, 떼, 군대, 군사",
+      "meanings": [
+        {
+          "ko": "무리, 떼",
+          "en": "A group of people or animals moving or gathered together.",
+          "wrongEn": "A large room used for storing food at a low temperature."
+        },
+        {
+          "ko": "군대, 군사",
+          "en": "A group of soldiers, or soldiers considered collectively.",
+          "wrongEn": "A group of people chosen to decide the result of a trial."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-28-alter",
+      "word": "alter",
+      "sourceMeaning": "바꾸다, 변경하다",
+      "meanings": [
+        {
+          "ko": "바꾸다, 변경하다",
+          "en": "To make something different without replacing it completely.",
+          "wrongEn": "To prove who owns a particular piece of property."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-conceive",
+      "word": "conceive",
+      "sourceMeaning": "생각해 내다, 마음속에 그리다",
+      "meanings": [
+        {
+          "ko": "생각해 내다, 마음속에 그리다",
+          "en": "To form an idea, plan, or mental image.",
+          "wrongEn": "To remove the skin from a piece of fruit."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "deceive와 헷갈림"
+    },
+    {
+      "id": "wm-28-durability",
+      "word": "durability",
+      "sourceMeaning": "내구성",
+      "meanings": [
+        {
+          "ko": "내구성",
+          "en": "The ability to last a long time without being damaged or worn out.",
+          "wrongEn": "The speed at which a substance dissolves in water."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-destroy",
+      "word": "destroy",
+      "sourceMeaning": "파괴하다",
+      "meanings": [
+        {
+          "ko": "파괴하다",
+          "en": "To damage something so completely that it can no longer be used or exist as before.",
+          "wrongEn": "To deliver goods to a store for later sale."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-shallow",
+      "word": "shallow",
+      "sourceMeaning": "얕은, 얇은, 피상적인, 천박한",
+      "meanings": [
+        {
+          "ko": "얕은, 얇은",
+          "en": "Having little depth from the surface to the bottom.",
+          "wrongEn": "Able to return to its original length after stretching."
+        },
+        {
+          "ko": "피상적인, 천박한",
+          "en": "Showing little serious thought, understanding, or depth of character.",
+          "wrongEn": "Producing heat through a chemical reaction."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-28-face",
+      "word": "face",
+      "sourceMeaning": "직면하다, 얼굴, 표면",
+      "meanings": [
+        {
+          "ko": "직면하다",
+          "en": "To deal with or be confronted by a difficult situation.",
+          "wrongEn": "To gradually remove moisture from a substance."
+        },
+        {
+          "ko": "얼굴",
+          "en": "The front part of the head, including the eyes, nose, and mouth.",
+          "wrongEn": "The joint that connects the hand to the arm."
+        },
+        {
+          "ko": "표면",
+          "en": "An outer or flat surface of an object.",
+          "wrongEn": "A hidden passage beneath a building."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-28-promote",
+      "word": "promote",
+      "sourceMeaning": "증진하다, 승진시키다",
+      "meanings": [
+        {
+          "ko": "증진하다",
+          "en": "To encourage the growth, development, or success of something.",
+          "wrongEn": "To measure the weight of an object with a scale."
+        },
+        {
+          "ko": "승진시키다",
+          "en": "To move someone to a higher rank or position.",
+          "wrongEn": "To copy a picture onto a sheet of glass."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "승진시키다\u001fTo move someone to a higher rank or position."
+      ]
+    },
+    {
+      "id": "wm-28-weep",
+      "word": "weep",
+      "sourceMeaning": "울다",
+      "meanings": [
+        {
+          "ko": "울다",
+          "en": "To cry and shed tears.",
+          "wrongEn": "To speak quietly so that only nearby people can hear."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-grasp",
+      "word": "grasp",
+      "sourceMeaning": "붙잡다, 이해하다, 파악하다, 꽉 쥐기, 이해",
+      "meanings": [
+        {
+          "ko": "붙잡다",
+          "en": "To take and hold something firmly with the hand.",
+          "wrongEn": "To make a hole through a hard surface using a drill."
+        },
+        {
+          "ko": "이해하다, 파악하다",
+          "en": "To understand an idea, fact, or situation.",
+          "wrongEn": "To join two pieces of metal by melting their edges."
+        },
+        {
+          "ko": "꽉 쥐기",
+          "en": "A firm hold with the hand.",
+          "wrongEn": "A repeated movement of the heart that pumps blood."
+        },
+        {
+          "ko": "이해",
+          "en": "An understanding of a subject or situation.",
+          "wrongEn": "A scheduled journey made by a ship between two ports."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "이해하다, 파악하다\u001fTo understand an idea, fact, or situation.",
+        "이해\u001fAn understanding of a subject or situation."
+      ]
+    },
+    {
+      "id": "wm-28-overall",
+      "word": "overall",
+      "sourceMeaning": "전반적인, 전체의, 작업복",
+      "meanings": [
+        {
+          "ko": "전반적인, 전체의",
+          "en": "Considering or including all parts of something.",
+          "wrongEn": "Able to conduct electricity without resistance."
+        },
+        {
+          "ko": "작업복",
+          "en": "A protective garment worn over other clothes while working.",
+          "wrongEn": "A protective wall built along a river to prevent flooding."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "작업복\u001fA protective garment worn over other clothes while working."
+      ],
+      "studyNote": "2번 뜻(작업복)이 안 외워짐!"
+    },
+    {
+      "id": "wm-28-superstition",
+      "word": "superstition",
+      "sourceMeaning": "미신",
+      "meanings": [
+        {
+          "ko": "미신",
+          "en": "A belief that certain actions or events bring luck or harm without a rational basis.",
+          "wrongEn": "A conclusion supported by repeated controlled experiments."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-colony",
+      "word": "colony",
+      "sourceMeaning": "식민지, (새 개미 꿀벌 등의) 집단",
+      "meanings": [
+        {
+          "ko": "식민지",
+          "en": "A country or area controlled by another country.",
+          "wrongEn": "A region governed as a fully independent state."
+        },
+        {
+          "ko": "(새 개미 꿀벌 등의) 집단",
+          "en": "A group of animals of the same kind living together.",
+          "wrongEn": "A collection of laws governing trade between countries."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-absurd",
+      "word": "absurd",
+      "sourceMeaning": "불합리한, 우스꽝스러운",
+      "meanings": [
+        {
+          "ko": "불합리한, 우스꽝스러운",
+          "en": "So unreasonable or illogical that it seems ridiculous.",
+          "wrongEn": "Able to survive for long periods without water."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [],
+      "studyNote": "'어리석은'으로 헷갈림"
+    },
+    {
+      "id": "wm-28-conduct",
+      "word": "conduct",
+      "sourceMeaning": "수행하다, 실시하다, 행위, 안내",
+      "meanings": [
+        {
+          "ko": "수행하다, 실시하다",
+          "en": "To organize and carry out an activity or process.",
+          "wrongEn": "To remove a stain by rubbing a surface with water."
+        },
+        {
+          "ko": "행위",
+          "en": "The way a person behaves.",
+          "wrongEn": "The speed at which a planet moves around a star."
+        },
+        {
+          "ko": "안내",
+          "en": "The act of leading or guiding someone to a place.",
+          "wrongEn": "The process of turning a gas into a liquid."
+        }
+      ],
+      "sourceNote": "원문의 명사 뜻 \"안내\"는 사람을 이끌거나 동행하여 안내하는 행위를 뜻하며 현대 영어에서는 드문 용법입니다.",
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "행위\u001fThe way a person behaves.",
+        "안내\u001fThe act of leading or guiding someone to a place."
+      ]
+    },
+    {
+      "id": "wm-28-dormitory",
+      "word": "dormitory",
+      "sourceMeaning": "기숙사",
+      "meanings": [
+        {
+          "ko": "기숙사",
+          "en": "A building or large room where students or other members of a group live and sleep.",
+          "wrongEn": "A building where old objects are displayed for public study."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-prone",
+      "word": "prone",
+      "sourceMeaning": "~하는 경향이 있는",
+      "meanings": [
+        {
+          "ko": "~하는 경향이 있는",
+          "en": "Likely to behave in a particular way or experience a particular problem.",
+          "wrongEn": "Able to be divided into exactly equal halves."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-28-conceal",
+      "word": "conceal",
+      "sourceMeaning": "숨기다",
+      "meanings": [
+        {
+          "ko": "숨기다",
+          "en": "To keep something from being seen or known.",
+          "wrongEn": "To spread a liquid evenly over a rough surface."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-retreat",
+      "word": "retreat",
+      "sourceMeaning": "후퇴하다, 물러서다, 퇴각, 후퇴",
+      "meanings": [
+        {
+          "ko": "후퇴하다, 물러서다",
+          "en": "To move back or away from danger, opposition, or a difficult situation.",
+          "wrongEn": "To place items in order according to their size."
+        },
+        {
+          "ko": "퇴각, 후퇴",
+          "en": "A movement back or away from an enemy or difficult situation.",
+          "wrongEn": "A payment made to reserve a room in advance."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-compulsive",
+      "word": "compulsive",
+      "sourceMeaning": "강제적인, 강박의",
+      "meanings": [
+        {
+          "ko": "강제적인",
+          "en": "Having a compelling force that makes an action difficult to resist.",
+          "wrongEn": "Able to carry a heavy load without bending."
+        },
+        {
+          "ko": "강박의",
+          "en": "Driven by a strong urge that is difficult to control.",
+          "wrongEn": "Designed to keep the inside of a building warm."
+        }
+      ],
+      "sourceNote": "원문의 \"강제적인\"은 법적 의무를 뜻하는 것이 아니라, 행동을 억누르기 어렵게 만드는 힘이 있다는 의미로 풀이했습니다.",
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [
+        "강박의\u001fDriven by a strong urge that is difficult to control."
+      ],
+      "studyNote": "impulsive(충동적인)와 헷갈림"
+    },
+    {
+      "id": "wm-28-clinic",
+      "word": "clinic",
+      "sourceMeaning": "전문 병원, 개인 병원",
+      "meanings": [
+        {
+          "ko": "전문 병원, 개인 병원",
+          "en": "A place where people receive medical advice or treatment, often without staying overnight.",
+          "wrongEn": "A school where people learn to fly aircraft."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-28-banner",
+      "word": "banner",
+      "sourceMeaning": "깃발, 현수막",
+      "meanings": [
+        {
+          "ko": "깃발, 현수막",
+          "en": "A long piece of cloth displaying words or a symbol in public.",
+          "wrongEn": "A flat instrument used to measure angles."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-formulate",
+      "word": "formulate",
+      "sourceMeaning": "만들어내다, 공식화하다",
+      "meanings": [
+        {
+          "ko": "만들어내다",
+          "en": "To develop a plan, idea, or solution carefully.",
+          "wrongEn": "To lift a heavy load using a system of ropes."
+        },
+        {
+          "ko": "공식화하다",
+          "en": "To express something clearly in a systematic form or formula.",
+          "wrongEn": "To change the direction in which a river flows."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "만들어내다\u001fTo develop a plan, idea, or solution carefully."
+      ]
+    },
+    {
+      "id": "wm-28-vow",
+      "word": "vow",
+      "sourceMeaning": "맹세, 맹세하다",
+      "meanings": [
+        {
+          "ko": "맹세",
+          "en": "A serious promise to do or not do something.",
+          "wrongEn": "A brief sound used to warn people of an approaching vehicle."
+        },
+        {
+          "ko": "맹세하다",
+          "en": "To make a serious promise.",
+          "wrongEn": "To place a border around a printed picture."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-28-malnutrition",
+      "word": "malnutrition",
+      "sourceMeaning": "영양실조",
+      "meanings": [
+        {
+          "ko": "영양실조",
+          "en": "Poor health caused by too little food or an unbalanced supply of nutrients.",
+          "wrongEn": "A temporary loss of hearing caused by loud noise."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-heritage",
+      "word": "heritage",
+      "sourceMeaning": "유산, 세습 재산",
+      "meanings": [
+        {
+          "ko": "유산",
+          "en": "Traditions, values, or other things passed down from previous generations.",
+          "wrongEn": "A fee charged for using a public road."
+        },
+        {
+          "ko": "세습 재산",
+          "en": "Property passed from one generation of a family to the next.",
+          "wrongEn": "Money borrowed from a bank for a short period."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "세습 재산\u001fProperty passed from one generation of a family to the next."
+      ]
+    },
+    {
+      "id": "wm-28-undergo",
+      "word": "undergo",
+      "sourceMeaning": "겪다",
+      "meanings": [
+        {
+          "ko": "겪다",
+          "en": "To experience a process, change, or difficult event.",
+          "wrongEn": "To direct sunlight through a curved piece of glass."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-28-boast",
+      "word": "boast",
+      "sourceMeaning": "자랑하다, 떠벌리다",
+      "meanings": [
+        {
+          "ko": "자랑하다, 떠벌리다",
+          "en": "To speak with excessive pride about oneself or one's achievements.",
+          "wrongEn": "To arrange a meeting between people who have not met before."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-28-neutral",
+      "word": "neutral",
+      "sourceMeaning": "중립의, 공평한",
+      "meanings": [
+        {
+          "ko": "중립의, 공평한",
+          "en": "Not supporting one side over another in a disagreement or conflict.",
+          "wrongEn": "Having a surface covered with many small holes."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-stain",
+      "word": "stain",
+      "sourceMeaning": "얼룩, 얼룩지게 하다",
+      "meanings": [
+        {
+          "ko": "얼룩",
+          "en": "A mark or discolored area that is difficult to remove.",
+          "wrongEn": "A small fold made in cloth for decoration."
+        },
+        {
+          "ko": "얼룩지게 하다",
+          "en": "To leave a colored or dirty mark on something.",
+          "wrongEn": "To join short pieces of wire into a longer one."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-incentive",
+      "word": "incentive",
+      "sourceMeaning": "자극, 장려책, 동기, 격려하는, 자극하는",
+      "meanings": [
+        {
+          "ko": "자극, 장려책, 동기",
+          "en": "Something that encourages a person to act or work harder.",
+          "wrongEn": "A document that lists the contents of a shipment."
+        },
+        {
+          "ko": "격려하는, 자극하는",
+          "en": "Encouraging or motivating someone to take action.",
+          "wrongEn": "Able to keep its shape under high pressure."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "격려하는, 자극하는\u001fEncouraging or motivating someone to take action."
+      ]
+    },
+    {
+      "id": "wm-28-float",
+      "word": "float",
+      "sourceMeaning": "뜨다, 떠다니다, 부유물",
+      "meanings": [
+        {
+          "ko": "뜨다, 떠다니다",
+          "en": "To stay or move on the surface of a liquid or through the air without sinking.",
+          "wrongEn": "To bend a metal sheet along a straight line."
+        },
+        {
+          "ko": "부유물",
+          "en": "An object that remains on or near the surface of a liquid.",
+          "wrongEn": "A small weight used to hold loose papers in place."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-tendency",
+      "word": "tendency",
+      "sourceMeaning": "경향, 추세",
+      "meanings": [
+        {
+          "ko": "경향, 추세",
+          "en": "A general habit, direction, or likelihood of behaving or developing in a certain way.",
+          "wrongEn": "The distance between two points on a map."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-applause",
+      "word": "applause",
+      "sourceMeaning": "박수갈채",
+      "meanings": [
+        {
+          "ko": "박수갈채",
+          "en": "Approval expressed by a group of people clapping their hands.",
+          "wrongEn": "A warning sound made by an emergency vehicle."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-wrestle",
+      "word": "wrestle",
+      "sourceMeaning": "싸우다, (일과)씨름하다, 레슬링하다",
+      "meanings": [
+        {
+          "ko": "싸우다, 레슬링하다",
+          "en": "To fight by holding and trying to throw an opponent to the ground.",
+          "wrongEn": "To move a boat through the water using a sail."
+        },
+        {
+          "ko": "(일과)씨름하다",
+          "en": "To struggle hard to deal with a difficult problem or task.",
+          "wrongEn": "To sort harvested fruit according to its color."
+        }
+      ]
+    },
+    {
+      "id": "wm-28-sensation",
+      "word": "sensation",
+      "sourceMeaning": "감각, 느낌, 대사건(센세이션)",
+      "meanings": [
+        {
+          "ko": "감각, 느낌",
+          "en": "A physical feeling or an awareness produced through the senses.",
+          "wrongEn": "A record of the money a company spends each month."
+        },
+        {
+          "ko": "대사건(센세이션)",
+          "en": "An event or person that causes widespread excitement or interest.",
+          "wrongEn": "A gradual decrease in the amount of rainfall in a region."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-28-confucian",
+      "word": "Confucian",
+      "sourceMeaning": "공자의, 유교의",
+      "meanings": [
+        {
+          "ko": "공자의, 유교의",
+          "en": "Relating to the Chinese thinker Confucius or the system of ideas he taught.",
+          "wrongEn": "Relating to the ancient writing system used in Egypt."
+        }
+      ]
+    }
+  ]
+}

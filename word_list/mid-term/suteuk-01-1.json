@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "수특라 01-1",
+  "unitTitle": "수특라 01-1",
+  "source": "material/mid-term/수특라 01-1.md",
+  "words": [
+    {
+      "id": "mt-suteuk-01-1-subsequent",
+      "word": "subsequent",
+      "sourceMeaning": "뒤이은",
+      "meanings": [
+        {
+          "ko": "뒤이은",
+          "en": "Coming after something else in time.",
+          "wrongEn": "Relating to the bottom of the sea."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-suteuk-01-1-emigrate",
+      "word": "emigrate",
+      "sourceMeaning": "이민 가다 (immigrate : 이민 오다)",
+      "meanings": [
+        {
+          "ko": "이민 가다",
+          "en": "To leave one's own country in order to live permanently in another.",
+          "wrongEn": "To vote for a new leader of a country."
+        }
+      ]
+    }
+  ]
+}

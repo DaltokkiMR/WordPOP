@@ -1,0 +1,732 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "48",
+  "unitTitle": "48과",
+  "source": "material/wordmaster_25_30_46_50.md",
+  "words": [
+    {
+      "id": "wm-48-prehistoric",
+      "word": "prehistoric",
+      "sourceMeaning": "선사 시대의",
+      "meanings": [
+        {
+          "ko": "선사 시대의",
+          "en": "Relating to the time before people kept written records.",
+          "wrongEn": "Having a surface covered with fine parallel ridges."
+        }
+      ]
+    },
+    {
+      "id": "wm-48-barrel",
+      "word": "barrel",
+      "sourceMeaning": "통, (석유)1배럴",
+      "meanings": [
+        {
+          "ko": "통",
+          "en": "A large round container with curved sides, often made of wood or metal.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        },
+        {
+          "ko": "(석유)1배럴",
+          "en": "A standard amount of oil equal to forty-two US gallons.",
+          "wrongEn": "A musical composition written for a solo instrument."
+        }
+      ]
+    },
+    {
+      "id": "wm-48-predecessor",
+      "word": "predecessor",
+      "sourceMeaning": "앞서 있었던 것, 선배, 전임자",
+      "meanings": [
+        {
+          "ko": "앞서 있었던 것",
+          "en": "Something that existed or was used before another thing of the same kind.",
+          "wrongEn": "A device used to measure atmospheric pressure."
+        },
+        {
+          "ko": "선배, 전임자",
+          "en": "A person who held a role or position before someone else.",
+          "wrongEn": "A small opening in a leaf through which gases pass."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-alienate",
+      "word": "alienate",
+      "sourceMeaning": "소외시키다, 멀리하다",
+      "meanings": [
+        {
+          "ko": "소외시키다, 멀리하다",
+          "en": "To make someone feel excluded or no longer friendly or connected.",
+          "wrongEn": "To remove the outer skin from a piece of fruit."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-proclaim",
+      "word": "proclaim",
+      "sourceMeaning": "선언하다, 증명하다",
+      "meanings": [
+        {
+          "ko": "선언하다",
+          "en": "To announce something publicly and clearly.",
+          "wrongEn": "To record spoken words in written form."
+        },
+        {
+          "ko": "증명하다",
+          "en": "To show or make a fact clearly evident.",
+          "wrongEn": "To measure temperature with a scientific instrument."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [
+        "증명하다\u001fTo show or make a fact clearly evident."
+      ],
+      "studyNote": "claim(주장하다)와 헷갈림"
+    },
+    {
+      "id": "wm-48-subordinate",
+      "word": "subordinate",
+      "sourceMeaning": "하급의, 부차적인, 하급자, 경시하다",
+      "meanings": [
+        {
+          "ko": "하급의",
+          "en": "Lower in rank or authority than someone else.",
+          "wrongEn": "Allowing light to pass through clearly."
+        },
+        {
+          "ko": "부차적인",
+          "en": "Less important than something else.",
+          "wrongEn": "Capable of attracting iron through magnetic force."
+        },
+        {
+          "ko": "하급자",
+          "en": "A person who works under someone with greater authority.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        },
+        {
+          "ko": "경시하다",
+          "en": "To treat something as less important than something else.",
+          "wrongEn": "To record spoken words in written form."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "경시하다\u001fTo treat something as less important than something else."
+      ]
+    },
+    {
+      "id": "wm-48-furnish",
+      "word": "furnish",
+      "sourceMeaning": "제공하다, 갖추다",
+      "meanings": [
+        {
+          "ko": "제공하다",
+          "en": "To supply someone with something needed.",
+          "wrongEn": "To prepare food by cooking it in boiling water."
+        },
+        {
+          "ko": "갖추다",
+          "en": "To equip a room or building with furniture and other useful items.",
+          "wrongEn": "To add musical notes to a written melody."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "'장식하다' 의미와 헷갈림\nfurniture의 동사형으로 생각하면 잘 외워질 것 같다. (가구를) 갖추다, (꼭 필요한 것, 가구를) 제공하다"
+    },
+    {
+      "id": "wm-48-fume",
+      "word": "fume",
+      "sourceMeaning": "연기, 연기 나다",
+      "meanings": [
+        {
+          "ko": "연기",
+          "en": "Gas, smoke, or vapor, especially when strong-smelling or harmful.",
+          "wrongEn": "A mark placed above a letter to show its pronunciation."
+        },
+        {
+          "ko": "연기 나다",
+          "en": "To give off smoke, gas, or vapor.",
+          "wrongEn": "To send a radio signal over a long distance."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-staple",
+      "word": "staple",
+      "sourceMeaning": "주요한, 주요 산물",
+      "meanings": [
+        {
+          "ko": "주요한",
+          "en": "Basic and regularly needed or used.",
+          "wrongEn": "Capable of attracting iron through magnetic force."
+        },
+        {
+          "ko": "주요 산물",
+          "en": "A basic product that a place regularly produces or depends on.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-dimension",
+      "word": "dimension",
+      "sourceMeaning": "크기, 치수, 규모, 차원",
+      "meanings": [
+        {
+          "ko": "크기, 치수, 규모",
+          "en": "A measurement of the size or extent of something.",
+          "wrongEn": "A unit used to measure electrical resistance."
+        },
+        {
+          "ko": "차원",
+          "en": "One of the directions or aspects used to describe a space or situation.",
+          "wrongEn": "A device used to measure atmospheric pressure."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-dispersal",
+      "word": "dispersal",
+      "sourceMeaning": "분산, 확산",
+      "meanings": [
+        {
+          "ko": "분산, 확산",
+          "en": "The process of spreading people or things over a wider area.",
+          "wrongEn": "A period during which an animal remains dormant in winter."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "disposal과 헷갈림"
+    },
+    {
+      "id": "wm-48-eloquent",
+      "word": "eloquent",
+      "sourceMeaning": "웅변의, 표현이 풍부한",
+      "meanings": [
+        {
+          "ko": "웅변의, 표현이 풍부한",
+          "en": "Expressing ideas or feelings clearly, powerfully, and persuasively.",
+          "wrongEn": "Requiring oxygen for growth or survival."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-innermost",
+      "word": "innermost",
+      "sourceMeaning": "가장 깊숙한, 가장 깊은 부분",
+      "meanings": [
+        {
+          "ko": "가장 깊숙한",
+          "en": "Situated deepest inside something.",
+          "wrongEn": "Able to dissolve readily in water."
+        },
+        {
+          "ko": "가장 깊은 부분",
+          "en": "The part that lies furthest inside something.",
+          "wrongEn": "A small opening in a leaf through which gases pass."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-hazardous",
+      "word": "hazardous",
+      "sourceMeaning": "위험한, 모험적인",
+      "meanings": [
+        {
+          "ko": "위험한, 모험적인",
+          "en": "Involving a significant risk of harm, loss, or injury.",
+          "wrongEn": "Located near the equator of the Earth."
+        }
+      ]
+    },
+    {
+      "id": "wm-48-skull",
+      "word": "skull",
+      "sourceMeaning": "두개골",
+      "meanings": [
+        {
+          "ko": "두개골",
+          "en": "The bony structure of the head that protects the brain.",
+          "wrongEn": "A musical composition written for a solo instrument."
+        }
+      ]
+    },
+    {
+      "id": "wm-48-detergent",
+      "word": "detergent",
+      "sourceMeaning": "세제",
+      "meanings": [
+        {
+          "ko": "세제",
+          "en": "A substance used with water to remove dirt or grease.",
+          "wrongEn": "A small opening in a leaf through which gases pass."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-brutal",
+      "word": "brutal",
+      "sourceMeaning": "야만적인, 짐승 같은, 잔혹한",
+      "meanings": [
+        {
+          "ko": "야만적인, 짐승 같은, 잔혹한",
+          "en": "Extremely cruel, violent, or lacking concern for suffering.",
+          "wrongEn": "Made from the fibers of the flax plant."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-rash",
+      "word": "rash",
+      "sourceMeaning": "발진, 뾰루지, 무분별한, 성급한",
+      "meanings": [
+        {
+          "ko": "발진, 뾰루지",
+          "en": "An area of small spots or irritated skin.",
+          "wrongEn": "A mark placed above a letter to show its pronunciation."
+        },
+        {
+          "ko": "무분별한, 성급한",
+          "en": "Acting too quickly without considering the possible consequences.",
+          "wrongEn": "Having a surface covered with fine parallel ridges."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "무분별한, 성급한\u001fActing too quickly without considering the possible consequences."
+      ]
+    },
+    {
+      "id": "wm-48-bypass",
+      "word": "bypass",
+      "sourceMeaning": "우회하다, 우회로",
+      "meanings": [
+        {
+          "ko": "우회하다",
+          "en": "To go around or avoid a place, obstacle, or usual procedure.",
+          "wrongEn": "To join pieces of cloth using a needle and thread."
+        },
+        {
+          "ko": "우회로",
+          "en": "A road that takes traffic around a town or busy area.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-dispense",
+      "word": "dispense",
+      "sourceMeaning": "나누어 주다, 내놓다",
+      "meanings": [
+        {
+          "ko": "나누어 주다, 내놓다",
+          "en": "To give out or supply something to people.",
+          "wrongEn": "To add musical notes to a written melody."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [],
+      "studyNote": "dispose와 헷갈림"
+    },
+    {
+      "id": "wm-48-tact",
+      "word": "tact",
+      "sourceMeaning": "재치, 기지",
+      "meanings": [
+        {
+          "ko": "재치, 기지",
+          "en": "Skill in dealing with people without upsetting or embarrassing them.",
+          "wrongEn": "A period during which an animal remains dormant in winter."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [],
+      "studyNote": "tactic와 헷갈림"
+    },
+    {
+      "id": "wm-48-monotonous",
+      "word": "monotonous",
+      "sourceMeaning": "단조로운, 지루한",
+      "meanings": [
+        {
+          "ko": "단조로운, 지루한",
+          "en": "Lacking variety or change in a way that becomes boring.",
+          "wrongEn": "Requiring oxygen for growth or survival."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-perpetual",
+      "word": "perpetual",
+      "sourceMeaning": "영구의, 끊임없는",
+      "meanings": [
+        {
+          "ko": "영구의",
+          "en": "Continuing forever or for an unlimited time.",
+          "wrongEn": "Able to dissolve readily in water."
+        },
+        {
+          "ko": "끊임없는",
+          "en": "Happening repeatedly or continuously with little or no interruption.",
+          "wrongEn": "Allowing light to pass through clearly."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "끊임없는\u001fHappening repeatedly or continuously with little or no interruption."
+      ],
+      "studyNote": "'반복적인'과 헷갈림"
+    },
+    {
+      "id": "wm-48-eligible",
+      "word": "eligible",
+      "sourceMeaning": "적격의, 적임자",
+      "meanings": [
+        {
+          "ko": "적격의",
+          "en": "Meeting the conditions required to be chosen or receive something.",
+          "wrongEn": "Located near the equator of the Earth."
+        },
+        {
+          "ko": "적임자",
+          "en": "A person who meets the conditions for a position or opportunity.",
+          "wrongEn": "A form of energy carried by electromagnetic waves."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "적임자\u001fA person who meets the conditions for a position or opportunity."
+      ]
+    },
+    {
+      "id": "wm-48-legacy",
+      "word": "legacy",
+      "sourceMeaning": "유산",
+      "meanings": [
+        {
+          "ko": "유산",
+          "en": "Money, property, or lasting effects passed on from an earlier person or time.",
+          "wrongEn": "A musical composition written for a solo instrument."
+        }
+      ]
+    },
+    {
+      "id": "wm-48-melancholy",
+      "word": "melancholy",
+      "sourceMeaning": "우울한, 우울함",
+      "meanings": [
+        {
+          "ko": "우울한",
+          "en": "Feeling or expressing a quiet, lasting sadness.",
+          "wrongEn": "Allowing light to pass through clearly."
+        },
+        {
+          "ko": "우울함",
+          "en": "A quiet feeling of sadness that may have no clear cause.",
+          "wrongEn": "A method of printing from a carved wooden block."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-simplicity",
+      "word": "simplicity",
+      "sourceMeaning": "간단, 단순, 소박",
+      "meanings": [
+        {
+          "ko": "간단, 단순",
+          "en": "The quality of being easy to understand or having few parts.",
+          "wrongEn": "A form of energy carried by electromagnetic waves."
+        },
+        {
+          "ko": "소박",
+          "en": "The quality of being plain and free from unnecessary decoration or luxury.",
+          "wrongEn": "A unit used to measure electrical resistance."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "소박\u001fThe quality of being plain and free from unnecessary decoration or luxury."
+      ]
+    },
+    {
+      "id": "wm-48-hierarchy",
+      "word": "hierarchy",
+      "sourceMeaning": "계급(제), 위계",
+      "meanings": [
+        {
+          "ko": "계급(제), 위계",
+          "en": "A system in which people or things are arranged in levels of rank.",
+          "wrongEn": "A mark placed above a letter to show its pronunciation."
+        }
+      ]
+    },
+    {
+      "id": "wm-48-overload",
+      "word": "overload",
+      "sourceMeaning": "과부하, 과적, 과중하게 부담시키다, 과적하다",
+      "meanings": [
+        {
+          "ko": "과부하",
+          "en": "An amount of work or electrical demand beyond a system's capacity.",
+          "wrongEn": "A method of printing from a carved wooden block."
+        },
+        {
+          "ko": "과적",
+          "en": "A load heavier than a vehicle or structure can safely carry.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        },
+        {
+          "ko": "과중하게 부담시키다",
+          "en": "To give someone or something more work or demand than can be handled.",
+          "wrongEn": "To record spoken words in written form."
+        },
+        {
+          "ko": "과적하다",
+          "en": "To put too much weight or cargo on a vehicle or structure.",
+          "wrongEn": "To measure temperature with a scientific instrument."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "과중하게 부담시키다\u001fTo give someone or something more work or demand than can be handled."
+      ]
+    },
+    {
+      "id": "wm-48-enact",
+      "word": "enact",
+      "sourceMeaning": "법제화하다, 제정하다",
+      "meanings": [
+        {
+          "ko": "법제화하다, 제정하다",
+          "en": "To make a proposal officially become law.",
+          "wrongEn": "To add musical notes to a written melody."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-burnout",
+      "word": "burnout",
+      "sourceMeaning": "극도의 피로, 쇠진, 연소 종료",
+      "meanings": [
+        {
+          "ko": "극도의 피로, 쇠진",
+          "en": "Severe physical or mental exhaustion caused by prolonged stress or effort.",
+          "wrongEn": "A period during which an animal remains dormant in winter."
+        },
+        {
+          "ko": "연소 종료",
+          "en": "The point at which a rocket or engine stops burning its fuel.",
+          "wrongEn": "A line of equal temperature drawn on a weather map."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-legitimate",
+      "word": "legitimate",
+      "sourceMeaning": "타당한, 정당한, 합법의",
+      "meanings": [
+        {
+          "ko": "타당한, 정당한",
+          "en": "Reasonable, justified, or acceptable under established standards.",
+          "wrongEn": "Requiring oxygen for growth or survival."
+        },
+        {
+          "ko": "합법의",
+          "en": "Allowed or recognized by law.",
+          "wrongEn": "Having a taste like that of a lemon."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "타당한, 정당한\u001fReasonable, justified, or acceptable under established standards."
+      ],
+      "studyNote": "legislate와 헷갈림"
+    },
+    {
+      "id": "wm-48-shuffle",
+      "word": "shuffle",
+      "sourceMeaning": "질질 끌며 걷다, 뒤섞다",
+      "meanings": [
+        {
+          "ko": "질질 끌며 걷다",
+          "en": "To walk with short steps while dragging the feet.",
+          "wrongEn": "To exchange one currency for another at a bank."
+        },
+        {
+          "ko": "뒤섞다",
+          "en": "To mix things by changing their order, especially playing cards.",
+          "wrongEn": "To travel around a planet along a regular path."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "질질 끌며 걷다\u001fTo walk with short steps while dragging the feet."
+      ]
+    },
+    {
+      "id": "wm-48-summarize",
+      "word": "summarize",
+      "sourceMeaning": "요약하다",
+      "meanings": [
+        {
+          "ko": "요약하다",
+          "en": "To state the main points briefly.",
+          "wrongEn": "To remove the outer skin from a piece of fruit."
+        }
+      ]
+    },
+    {
+      "id": "wm-48-eject",
+      "word": "eject",
+      "sourceMeaning": "쫓아내다, 배출하다",
+      "meanings": [
+        {
+          "ko": "쫓아내다",
+          "en": "To force someone to leave a place.",
+          "wrongEn": "To record spoken words in written form."
+        },
+        {
+          "ko": "배출하다",
+          "en": "To force or throw something out of a machine or enclosed space.",
+          "wrongEn": "To measure temperature with a scientific instrument."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-intersection",
+      "word": "intersection",
+      "sourceMeaning": "교차(로), 횡단",
+      "meanings": [
+        {
+          "ko": "교차(로)",
+          "en": "A place or point where roads or lines cross.",
+          "wrongEn": "A small opening in a leaf through which gases pass."
+        },
+        {
+          "ko": "횡단",
+          "en": "The act of crossing one line or path with another.",
+          "wrongEn": "A method of printing from a carved wooden block."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-quest",
+      "word": "quest",
+      "sourceMeaning": "탐색, 탐구",
+      "meanings": [
+        {
+          "ko": "탐색, 탐구",
+          "en": "A long or determined search for something valuable or important.",
+          "wrongEn": "A form of energy carried by electromagnetic waves."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-48-linear",
+      "word": "linear",
+      "sourceMeaning": "직선의, 길이의, 1차(원)의",
+      "meanings": [
+        {
+          "ko": "직선의",
+          "en": "Following or shaped like a straight line.",
+          "wrongEn": "Active mainly during the night."
+        },
+        {
+          "ko": "길이의",
+          "en": "Relating to measurement of length.",
+          "wrongEn": "Having a surface covered with fine parallel ridges."
+        },
+        {
+          "ko": "1차(원)의",
+          "en": "Having one dimension, or involving variables only to the first power.",
+          "wrongEn": "Located near the equator of the Earth."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "길이의\u001fRelating to measurement of length.",
+        "1차(원)의\u001fHaving one dimension, or involving variables only to the first power."
+      ]
+    },
+    {
+      "id": "wm-48-landslide",
+      "word": "landslide",
+      "sourceMeaning": "산사태, 압도적인 승리",
+      "meanings": [
+        {
+          "ko": "산사태",
+          "en": "A mass of earth and rock that slides down a slope.",
+          "wrongEn": "A method of printing from a carved wooden block."
+        },
+        {
+          "ko": "압도적인 승리",
+          "en": "A victory won by a very large margin.",
+          "wrongEn": "A substance that speeds up a chemical reaction without being consumed."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "압도적인 승리\u001fA victory won by a very large margin."
+      ]
+    },
+    {
+      "id": "wm-48-plausible",
+      "word": "plausible",
+      "sourceMeaning": "그럴듯한, 말재주 있는",
+      "meanings": [
+        {
+          "ko": "그럴듯한",
+          "en": "Seeming reasonable or likely to be true.",
+          "wrongEn": "Occurring once every two weeks."
+        },
+        {
+          "ko": "말재주 있는",
+          "en": "Speaking convincingly in a way that can persuade people, sometimes dishonestly.",
+          "wrongEn": "Able to dissolve readily in water."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "pleasurable(즐거운)과 헷갈림"
+    }
+  ]
+}

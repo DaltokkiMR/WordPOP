@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "올림포스 14-1",
+  "unitTitle": "올림포스 14-1",
+  "source": "material/mid-term/올림포스 14-1.md",
+  "words": [
+    {
+      "id": "mt-olympus-14-1-unparalleled",
+      "word": "unparalleled",
+      "sourceMeaning": "견줄 데 없는 (철자 para **llel** ed)",
+      "meanings": [
+        {
+          "ko": "견줄 데 없는",
+          "en": "Having no equal; better or greater than anything else of its kind.",
+          "wrongEn": "Very common and similar to many others."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-olympus-14-1-standpoint",
+      "word": "standpoint",
+      "sourceMeaning": "관점",
+      "meanings": [
+        {
+          "ko": "관점",
+          "en": "A particular way of thinking about or judging something.",
+          "wrongEn": "A place where buses stop to pick up passengers."
+        }
+      ]
+    },
+    {
+      "id": "mt-olympus-14-1-barely",
+      "word": "barely",
+      "sourceMeaning": "겨우 ~하다, 거의 ~않다",
+      "meanings": [
+        {
+          "ko": "겨우 ~하다",
+          "en": "Only just; by a very small amount.",
+          "wrongEn": "By a very large and obvious amount."
+        },
+        {
+          "ko": "거의 ~않다",
+          "en": "Almost not; hardly at all.",
+          "wrongEn": "Very often and in great amounts."
+        }
+      ]
+    },
+    {
+      "id": "mt-olympus-14-1-poised",
+      "word": "poised",
+      "sourceMeaning": "~할 준비를 하다",
+      "meanings": [
+        {
+          "ko": "~할 준비를 하다",
+          "en": "Ready and prepared to do something (used as \"poised to\").",
+          "wrongEn": "Unwilling to take part in any activity."
+        }
+      ]
+    },
+    {
+      "id": "mt-olympus-14-1-interdisciplinary",
+      "word": "interdisciplinary",
+      "sourceMeaning": "여러 학문 분야가 관련된",
+      "meanings": [
+        {
+          "ko": "여러 학문 분야가 관련된",
+          "en": "Involving two or more different academic subjects or fields.",
+          "wrongEn": "Limited to a single school rule."
+        }
+      ]
+    },
+    {
+      "id": "mt-olympus-14-1-enterprise",
+      "word": "enterprise",
+      "sourceMeaning": "탐구, 모험",
+      "meanings": [
+        {
+          "ko": "탐구, 모험",
+          "en": "A large, difficult, or bold project or undertaking.",
+          "wrongEn": "A short rest taken during a long trip."
+        }
+      ]
+    }
+  ]
+}

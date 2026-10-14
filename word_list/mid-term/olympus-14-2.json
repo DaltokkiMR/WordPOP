@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mid-term",
+  "bookTitle": "중간고사 영어 지문",
+  "unitId": "올림포스 14-2",
+  "unitTitle": "올림포스 14-2",
+  "source": "material/mid-term/올림포스 14-2.md",
+  "words": [
+    {
+      "id": "mt-olympus-14-2-measure",
+      "word": "measure",
+      "sourceMeaning": "척도, 측정 기준 ('조치·대책'이라는 뜻도 있지만, 여기서는 건강 상태를 판단하는 기준을 뜻한다.)",
+      "meanings": [
+        {
+          "ko": "척도, 측정 기준",
+          "en": "A standard or indicator used to judge or assess something.",
+          "wrongEn": "A reward given for good behavior."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-olympus-14-2-waist-circumference",
+      "word": "waist circumference",
+      "sourceMeaning": "허리둘레 (waist는 '허리', circumference는 원이나 신체 부위의 '둘레'를 뜻한다. waist와 발음이 같은 waste는 '낭비·쓰레기'이다.)",
+      "meanings": [
+        {
+          "ko": "허리둘레",
+          "en": "The distance around the middle of the body at the waist.",
+          "wrongEn": "The amount of food thrown away by a household."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "mt-olympus-14-2-screen-for",
+      "word": "screen for",
+      "sourceMeaning": "~이 있는지 선별 검사하다, ~을 가려내다 (여기서는 잠재적 위험을 확인하는 것으로, 질환을 확정하는 '진단하다'와 구별된다.)",
+      "meanings": [
+        {
+          "ko": "~이 있는지 선별 검사하다, ~을 가려내다",
+          "en": "To test people to find out whether they may have a particular problem or risk.",
+          "wrongEn": "To pay for someone else's meal at a restaurant."
+        }
+      ]
+    },
+    {
+      "id": "mt-olympus-14-2-sustainable",
+      "word": "sustainable",
+      "sourceMeaning": "지속 가능한 (여기서는 환경에 관한 의미가 아니라, 무리 없이 꾸준히 유지할 수 있다는 뜻이다.)",
+      "meanings": [
+        {
+          "ko": "지속 가능한",
+          "en": "Able to be continued or maintained over a long period without difficulty.",
+          "wrongEn": "Likely to break down after a short time."
+        }
+      ]
+    },
+    {
+      "id": "mt-olympus-14-2-weight-neutral",
+      "word": "weight-neutral",
+      "sourceMeaning": "체중을 중심에 두지 않는 (체중의 증감이나 수치보다 건강을 증진하는 행동에 초점을 둔다는 뜻이다.)",
+      "meanings": [
+        {
+          "ko": "체중을 중심에 두지 않는",
+          "en": "Focusing on healthy behaviors rather than on body weight or weight change.",
+          "wrongEn": "Designed mainly to help people lose as much weight as possible."
+        }
+      ]
+    },
+    {
+      "id": "mt-olympus-14-2-socioeconomic",
+      "word": "socioeconomic",
+      "sourceMeaning": "사회·경제적인 (social과 economic이 결합한 말로, 사회적 조건과 경제적 조건을 함께 가리킨다.)",
+      "meanings": [
+        {
+          "ko": "사회·경제적인",
+          "en": "Relating to both social and economic conditions.",
+          "wrongEn": "Relating to the study of rocks and minerals."
+        }
+      ]
+    }
+  ]
+}

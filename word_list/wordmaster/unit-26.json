@@ -1,0 +1,734 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "26",
+  "unitTitle": "26과",
+  "source": "material/wordmaster_25_30_46_50.md",
+  "words": [
+    {
+      "id": "wm-26-reform",
+      "word": "reform",
+      "sourceMeaning": "개혁, 개혁하다",
+      "meanings": [
+        {
+          "ko": "개혁",
+          "en": "A change made to improve a system, law, or organization.",
+          "wrongEn": "A regular payment made after a person retires."
+        },
+        {
+          "ko": "개혁하다",
+          "en": "To improve a system, law, or organization by changing it.",
+          "wrongEn": "To measure the depth of water in a lake."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-deal",
+      "word": "deal",
+      "sourceMeaning": "다루다, 대처하다(with), 거래",
+      "meanings": [
+        {
+          "ko": "다루다, 대처하다(with)",
+          "en": "To take action to handle a person, situation, or problem.",
+          "wrongEn": "To turn a piece of land into a shallow pond."
+        },
+        {
+          "ko": "거래",
+          "en": "An agreement, especially one involving buying or selling.",
+          "wrongEn": "A narrow passage connecting two rooms."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-recruit",
+      "word": "recruit",
+      "sourceMeaning": "모집하다, 징집하다, 신병, 신입 사원",
+      "meanings": [
+        {
+          "ko": "모집하다",
+          "en": "To find and bring in new people to join a group or organization.",
+          "wrongEn": "To preserve food by removing water from it."
+        },
+        {
+          "ko": "징집하다",
+          "en": "To bring people into the armed forces as new members.",
+          "wrongEn": "To raise the temperature of a metal until it melts."
+        },
+        {
+          "ko": "신병",
+          "en": "A person who has recently joined the armed forces.",
+          "wrongEn": "A trained person who treats diseases of the eyes."
+        },
+        {
+          "ko": "신입 사원",
+          "en": "A person who has recently joined a company or organization.",
+          "wrongEn": "A person who translates books from one language to another."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "신병\u001fA person who has recently joined the armed forces.",
+        "신입 사원\u001fA person who has recently joined a company or organization."
+      ]
+    },
+    {
+      "id": "wm-26-maintain",
+      "word": "maintain",
+      "sourceMeaning": "유지하다, 지지하다",
+      "meanings": [
+        {
+          "ko": "유지하다",
+          "en": "To keep something in its existing condition or at a certain level.",
+          "wrongEn": "To make an object appear larger through a lens."
+        },
+        {
+          "ko": "지지하다",
+          "en": "To support or uphold an idea, claim, or position.",
+          "wrongEn": "To remove the seeds from a piece of fruit."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "지지하다\u001fTo support or uphold an idea, claim, or position."
+      ]
+    },
+    {
+      "id": "wm-26-workshop",
+      "word": "workshop",
+      "sourceMeaning": "워크숍, 작업장, 연구 집회",
+      "meanings": [
+        {
+          "ko": "워크숍, 연구 집회",
+          "en": "A meeting where people learn about or discuss a subject through practical activities.",
+          "wrongEn": "A formal meal held to celebrate a marriage."
+        },
+        {
+          "ko": "작업장",
+          "en": "A room or building where things are made or repaired.",
+          "wrongEn": "An area of land covered with shallow water."
+        }
+      ],
+      "studyLevel": "review"
+    },
+    {
+      "id": "wm-26-patient",
+      "word": "patient",
+      "sourceMeaning": "환자, 인내심 있는",
+      "meanings": [
+        {
+          "ko": "환자",
+          "en": "A person receiving medical care.",
+          "wrongEn": "A person who operates a train."
+        },
+        {
+          "ko": "인내심 있는",
+          "en": "Able to wait or face difficulties calmly without becoming annoyed.",
+          "wrongEn": "Easily broken into small sharp pieces."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-26-convention",
+      "word": "convention",
+      "sourceMeaning": "집회, 총회, 관습",
+      "meanings": [
+        {
+          "ko": "집회, 총회",
+          "en": "A large formal meeting of people who share an interest or belong to an organization.",
+          "wrongEn": "A protective covering worn over the hands."
+        },
+        {
+          "ko": "관습",
+          "en": "A way of behaving or doing something that is generally accepted.",
+          "wrongEn": "A sudden movement of the ground caused by underground forces."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-26-devastate",
+      "word": "devastate",
+      "sourceMeaning": "황폐시키다",
+      "meanings": [
+        {
+          "ko": "황폐시키다",
+          "en": "To destroy or severely damage a place or thing.",
+          "wrongEn": "To prepare a list of the goods held in storage."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-reap",
+      "word": "reap",
+      "sourceMeaning": "수확하다",
+      "meanings": [
+        {
+          "ko": "수확하다",
+          "en": "To cut and collect crops that are ready for use.",
+          "wrongEn": "To clear a path by removing snow."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-26-overlook",
+      "word": "overlook",
+      "sourceMeaning": "간과하다, 너그럽게 봐주다, 내려다보다",
+      "meanings": [
+        {
+          "ko": "간과하다",
+          "en": "To fail to notice or consider something.",
+          "wrongEn": "To gradually change from a liquid to a solid."
+        },
+        {
+          "ko": "너그럽게 봐주다",
+          "en": "To choose not to criticize or punish a fault or mistake.",
+          "wrongEn": "To estimate the number of people living in an area."
+        },
+        {
+          "ko": "내려다보다",
+          "en": "To have a view of something from a higher position.",
+          "wrongEn": "To place goods into containers for transport."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "너그럽게 봐주다\u001fTo choose not to criticize or punish a fault or mistake.",
+        "내려다보다\u001fTo have a view of something from a higher position."
+      ]
+    },
+    {
+      "id": "wm-26-deliver",
+      "word": "deliver",
+      "sourceMeaning": "배달하다, 전달하다",
+      "meanings": [
+        {
+          "ko": "배달하다",
+          "en": "To take goods or messages to the person or place they are intended for.",
+          "wrongEn": "To remove weeds from a garden."
+        },
+        {
+          "ko": "전달하다",
+          "en": "To communicate a message, speech, or piece of information to others.",
+          "wrongEn": "To tighten a loose screw with a tool."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-26-reject",
+      "word": "reject",
+      "sourceMeaning": "거부하다, 거절하다",
+      "meanings": [
+        {
+          "ko": "거부하다, 거절하다",
+          "en": "To refuse to accept, approve, or use something.",
+          "wrongEn": "To form letters on a surface with a sharp tool."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-nourish",
+      "word": "nourish",
+      "sourceMeaning": "영양분을 주다, 기르다",
+      "meanings": [
+        {
+          "ko": "영양분을 주다",
+          "en": "To give a living thing the food or nutrients it needs to grow and stay healthy.",
+          "wrongEn": "To measure the angle between two lines."
+        },
+        {
+          "ko": "기르다",
+          "en": "To support the development of a feeling, quality, or ability.",
+          "wrongEn": "To attach a stamp to a piece of mail."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-bay",
+      "word": "bay",
+      "sourceMeaning": "만",
+      "meanings": [
+        {
+          "ko": "만",
+          "en": "A part of the sea that reaches into the land and is partly surrounded by it.",
+          "wrongEn": "A stretch of dry land surrounded by desert."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-stun",
+      "word": "stun",
+      "sourceMeaning": "놀라게 하다, 기절시키다",
+      "meanings": [
+        {
+          "ko": "놀라게 하다",
+          "en": "To shock or surprise someone so much that they cannot react at once.",
+          "wrongEn": "To combine several small files into a single document."
+        },
+        {
+          "ko": "기절시키다",
+          "en": "To make a person or animal temporarily unconscious or unable to respond.",
+          "wrongEn": "To wrap a fragile object before sending it by post."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-26-particular",
+      "word": "particular",
+      "sourceMeaning": "특정한, 개개의, 사항, (-s)상세",
+      "meanings": [
+        {
+          "ko": "특정한",
+          "en": "Referring to one specific person or thing rather than others.",
+          "wrongEn": "Having no fixed shape and flowing freely."
+        },
+        {
+          "ko": "개개의",
+          "en": "Considered separately as an individual item.",
+          "wrongEn": "Made entirely from natural fibers."
+        },
+        {
+          "ko": "사항, (-s)상세",
+          "en": "A specific fact or detail about something, usually expressed in the plural.",
+          "wrongEn": "A strong desire to travel to distant places."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "개개의\u001fConsidered separately as an individual item.",
+        "사항, (-s)상세\u001fA specific fact or detail about something, usually expressed in the plural."
+      ]
+    },
+    {
+      "id": "wm-26-bulletin",
+      "word": "bulletin",
+      "sourceMeaning": "게시, 게시물",
+      "meanings": [
+        {
+          "ko": "게시, 게시물",
+          "en": "A short official notice or report giving news or information.",
+          "wrongEn": "A container used to keep food cold during travel."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-26-fluid",
+      "word": "fluid",
+      "sourceMeaning": "유동체(액체,기체의 총칭), 유동체의, 유동적인",
+      "meanings": [
+        {
+          "ko": "유동체(액체,기체의 총칭)",
+          "en": "A substance, such as a liquid or gas, that can flow and take the shape of its container.",
+          "wrongEn": "A solid object that attracts iron through magnetic force."
+        },
+        {
+          "ko": "유동체의",
+          "en": "Relating to a substance that flows, such as a liquid or gas.",
+          "wrongEn": "Relating to the laws and customs of a country."
+        },
+        {
+          "ko": "유동적인",
+          "en": "Able to change easily rather than remaining fixed.",
+          "wrongEn": "Able to survive only at extremely low temperatures."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-26-affair",
+      "word": "affair",
+      "sourceMeaning": "사건, 일",
+      "meanings": [
+        {
+          "ko": "사건, 일",
+          "en": "An event, matter, or situation that concerns particular people.",
+          "wrongEn": "A device used to store electricity chemically."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-dawn",
+      "word": "dawn",
+      "sourceMeaning": "새벽, 이해되기 시작하다, 날이 새다",
+      "meanings": [
+        {
+          "ko": "새벽",
+          "en": "The time when daylight first appears in the morning.",
+          "wrongEn": "The season when most trees lose their leaves."
+        },
+        {
+          "ko": "이해되기 시작하다",
+          "en": "To begin to become clear or understood by someone.",
+          "wrongEn": "To remove the outer covering from a seed."
+        },
+        {
+          "ko": "날이 새다",
+          "en": "To begin to become light at the start of the day.",
+          "wrongEn": "To cool a liquid until ice forms."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "날이 새다\u001fTo begin to become light at the start of the day."
+      ]
+    },
+    {
+      "id": "wm-26-hostile",
+      "word": "hostile",
+      "sourceMeaning": "적대적인",
+      "meanings": [
+        {
+          "ko": "적대적인",
+          "en": "Showing anger or opposition toward someone or something.",
+          "wrongEn": "Able to be folded into a small space."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-contend",
+      "word": "contend",
+      "sourceMeaning": "싸우다, 주장하다, 경쟁하다",
+      "meanings": [
+        {
+          "ko": "싸우다",
+          "en": "To struggle against someone or something in a conflict.",
+          "wrongEn": "To record sound for later playback."
+        },
+        {
+          "ko": "주장하다",
+          "en": "To state that something is true, especially in an argument.",
+          "wrongEn": "To transport goods in a large ship."
+        },
+        {
+          "ko": "경쟁하다",
+          "en": "To compete with others for a prize, position, or advantage.",
+          "wrongEn": "To make a surface smoother by rubbing it."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [],
+      "studyNote": "content, intend와 헷갈림"
+    },
+    {
+      "id": "wm-26-respect",
+      "word": "respect",
+      "sourceMeaning": "존중하다, 존경, 관련",
+      "meanings": [
+        {
+          "ko": "존중하다",
+          "en": "To treat someone or something as valuable or worthy of consideration.",
+          "wrongEn": "To split a beam of light into separate colors."
+        },
+        {
+          "ko": "존경",
+          "en": "A feeling of admiration for someone because of their qualities or achievements.",
+          "wrongEn": "The amount by which an object changes position in a given direction."
+        },
+        {
+          "ko": "관련",
+          "en": "A relation or reference to a particular subject.",
+          "wrongEn": "A sudden increase in the number of insects in an area."
+        }
+      ],
+      "sourceNote": "원문의 \"관련\"은 주로 with respect to(~에 관하여)와 같은 표현에서 나타나는 뜻입니다.",
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "관련\u001fA relation or reference to a particular subject."
+      ]
+    },
+    {
+      "id": "wm-26-await",
+      "word": "await",
+      "sourceMeaning": "기다리다",
+      "meanings": [
+        {
+          "ko": "기다리다",
+          "en": "To wait for someone or something to arrive or happen.",
+          "wrongEn": "To lower the level of water by opening a drain."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-concrete",
+      "word": "concrete",
+      "sourceMeaning": "구체적인, 콘크리트",
+      "meanings": [
+        {
+          "ko": "구체적인",
+          "en": "Specific and based on actual things or facts rather than general ideas.",
+          "wrongEn": "Likely to change color when exposed to sunlight."
+        },
+        {
+          "ko": "콘크리트",
+          "en": "A hard building material made from cement, sand, stones, and water.",
+          "wrongEn": "A fine cloth woven from threads made by silkworms."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-26-satisfy",
+      "word": "satisfy",
+      "sourceMeaning": "만족시키다, 충족시키다",
+      "meanings": [
+        {
+          "ko": "만족시키다",
+          "en": "To make someone feel pleased or content.",
+          "wrongEn": "To attach one bone to another at a joint."
+        },
+        {
+          "ko": "충족시키다",
+          "en": "To meet a need, condition, or requirement.",
+          "wrongEn": "To turn a page so that its reverse side can be read."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-literate",
+      "word": "literate",
+      "sourceMeaning": "읽고 쓸 수 있는",
+      "meanings": [
+        {
+          "ko": "읽고 쓸 수 있는",
+          "en": "Able to read and write.",
+          "wrongEn": "Able to produce light without heat."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-variable",
+      "word": "variable",
+      "sourceMeaning": "변수, 변하기 쉬운, 변덕스러운",
+      "meanings": [
+        {
+          "ko": "변수",
+          "en": "A quantity or factor that can take different values.",
+          "wrongEn": "A document listing the dishes offered at a restaurant."
+        },
+        {
+          "ko": "변하기 쉬운",
+          "en": "Likely or able to change.",
+          "wrongEn": "Built to keep water from passing through."
+        },
+        {
+          "ko": "변덕스러운",
+          "en": "Frequently changing in behavior, mood, or preference.",
+          "wrongEn": "Arranged in evenly spaced circles."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-lease",
+      "word": "lease",
+      "sourceMeaning": "임대, 임대하다",
+      "meanings": [
+        {
+          "ko": "임대",
+          "en": "An agreement allowing someone to use property for a period in return for payment.",
+          "wrongEn": "A written statement of the results of a scientific test."
+        },
+        {
+          "ko": "임대하다",
+          "en": "To let or use property for an agreed period in exchange for payment.",
+          "wrongEn": "To clean metal by rubbing away its outer layer."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-rule",
+      "word": "rule",
+      "sourceMeaning": "지배, 규칙, 지배하다, 통치하다",
+      "meanings": [
+        {
+          "ko": "지배",
+          "en": "Control or authority over a place or people.",
+          "wrongEn": "A shortage of rain lasting for a long time."
+        },
+        {
+          "ko": "규칙",
+          "en": "An instruction or principle that says what is allowed or how something should be done.",
+          "wrongEn": "A passage used to carry water beneath a road."
+        },
+        {
+          "ko": "지배하다, 통치하다",
+          "en": "To exercise power or authority over a country, group, or situation.",
+          "wrongEn": "To join the ends of a rope with a knot."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-perseverance",
+      "word": "perseverance",
+      "sourceMeaning": "인내심",
+      "meanings": [
+        {
+          "ko": "인내심",
+          "en": "The ability to keep trying despite difficulty or delay.",
+          "wrongEn": "The ability to remember and reproduce musical notes accurately."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-fatal",
+      "word": "fatal",
+      "sourceMeaning": "치명적인",
+      "meanings": [
+        {
+          "ko": "치명적인",
+          "en": "Causing death or leading to disastrous failure.",
+          "wrongEn": "Designed to fit closely around the body."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-substitute",
+      "word": "substitute",
+      "sourceMeaning": "대리자, 대체물, 대체하다",
+      "meanings": [
+        {
+          "ko": "대리자",
+          "en": "A person who takes the place of someone else.",
+          "wrongEn": "A person who studies the movements of stars."
+        },
+        {
+          "ko": "대체물",
+          "en": "A thing used in place of another thing.",
+          "wrongEn": "A line dividing areas with different climates."
+        },
+        {
+          "ko": "대체하다",
+          "en": "To use one person or thing in place of another.",
+          "wrongEn": "To move a heavy object by rolling it along the ground."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [],
+      "studyNote": "이유는 모르겠는데 constitute 같은 단어와 헷갈릴 때가 있음."
+    },
+    {
+      "id": "wm-26-invert",
+      "word": "invert",
+      "sourceMeaning": "(위치,순서 등을)거꾸로 하다, 뒤집다",
+      "meanings": [
+        {
+          "ko": "(위치,순서 등을)거꾸로 하다, 뒤집다",
+          "en": "To turn something upside down or reverse its position or order.",
+          "wrongEn": "To spread seeds evenly over an area of soil."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-tension",
+      "word": "tension",
+      "sourceMeaning": "긴장, 불안, 긴장시키다",
+      "meanings": [
+        {
+          "ko": "긴장, 불안",
+          "en": "A state of mental strain, worry, or nervousness.",
+          "wrongEn": "A feeling of hunger caused by missing a meal."
+        },
+        {
+          "ko": "긴장시키다",
+          "en": "To make something tight or place it under a stretching force.",
+          "wrongEn": "To turn grain into flour by crushing it."
+        }
+      ],
+      "sourceNote": "동사 뜻 \"긴장시키다\"는 줄이나 재료를 팽팽하게 하여 장력을 가하는 의미로 풀이했습니다.",
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "긴장시키다\u001fTo make something tight or place it under a stretching force."
+      ]
+    },
+    {
+      "id": "wm-26-reign",
+      "word": "reign",
+      "sourceMeaning": "통치, 기간, 치세",
+      "meanings": [
+        {
+          "ko": "통치, 기간, 치세",
+          "en": "The rule of a monarch or the period during which a monarch rules.",
+          "wrongEn": "A journey taken to carry goods between two ports."
+        }
+      ],
+      "sourceNote": "원문의 \"기간\"은 임의의 기간이 아니라 군주가 통치하는 기간인 \"치세\"로 풀이했습니다.",
+      "studyLevel": "review",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-26-crack",
+      "word": "crack",
+      "sourceMeaning": "갈라진 틈, 금 가다",
+      "meanings": [
+        {
+          "ko": "갈라진 틈",
+          "en": "A narrow break or split in a surface.",
+          "wrongEn": "A raised area of land with a flat top."
+        },
+        {
+          "ko": "금 가다",
+          "en": "To develop a narrow split without breaking completely apart.",
+          "wrongEn": "To become darker when exposed to air."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-startle",
+      "word": "startle",
+      "sourceMeaning": "깜짝 놀라게 하다",
+      "meanings": [
+        {
+          "ko": "깜짝 놀라게 하다",
+          "en": "To make someone jump or react suddenly because of surprise.",
+          "wrongEn": "To copy a pattern onto fabric using colored ink."
+        }
+      ]
+    },
+    {
+      "id": "wm-26-discourage",
+      "word": "discourage",
+      "sourceMeaning": "낙담시키다, 단념시키다",
+      "meanings": [
+        {
+          "ko": "낙담시키다",
+          "en": "To make someone lose confidence or hope.",
+          "wrongEn": "To teach someone how to read written music."
+        },
+        {
+          "ko": "단념시키다",
+          "en": "To persuade someone not to do something or make them less willing to do it.",
+          "wrongEn": "To increase the thickness of a liquid by boiling it."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-26-compensate",
+      "word": "compensate",
+      "sourceMeaning": "보상하다",
+      "meanings": [
+        {
+          "ko": "보상하다",
+          "en": "To provide money or another benefit to make up for loss, damage, or a disadvantage.",
+          "wrongEn": "To compare the shapes of two objects using a measuring tool."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [],
+      "studyNote": "'타협하다'와 헷갈림."
+    }
+  ]
+}

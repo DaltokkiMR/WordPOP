@@ -1,0 +1,683 @@
+{
+  "schemaVersion": 1,
+  "bookId": "wordmaster",
+  "bookTitle": "2026 워드마스터 수능 2000",
+  "unitId": "27",
+  "unitTitle": "27과",
+  "source": "material/wordmaster_25_30_46_50.md",
+  "words": [
+    {
+      "id": "wm-27-convert",
+      "word": "convert",
+      "sourceMeaning": "전환하다, 바꾸다",
+      "meanings": [
+        {
+          "ko": "전환하다, 바꾸다",
+          "en": "To change something into a different form, state, or use.",
+          "wrongEn": "To take care of a sick animal until it recovers."
+        }
+      ]
+    },
+    {
+      "id": "wm-27-strike",
+      "word": "strike",
+      "sourceMeaning": "치다, (머릿속에)떠오르다, 치기, 동맹, 파업",
+      "meanings": [
+        {
+          "ko": "치다",
+          "en": "To hit someone or something with force.",
+          "wrongEn": "To tie two pieces of rope together."
+        },
+        {
+          "ko": "(머릿속에)떠오르다",
+          "en": "To occur suddenly to someone's mind.",
+          "wrongEn": "To become smaller as moisture is lost."
+        },
+        {
+          "ko": "치기",
+          "en": "An act of hitting someone or something.",
+          "wrongEn": "A gradual increase in the temperature of the sea."
+        },
+        {
+          "ko": "동맹 파업",
+          "en": "A planned refusal to work by a group of employees seeking better conditions.",
+          "wrongEn": "A public ceremony held to welcome a visiting leader."
+        }
+      ],
+      "sourceNote": "원문의 \"동맹, 파업\"은 이 단어에서 하나의 뜻인 \"동맹 파업\"으로 묶었습니다. \"동맹\"만을 독립적인 뜻으로 가르치지 않습니다.",
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "(머릿속에)떠오르다\u001fTo occur suddenly to someone's mind.",
+        "동맹 파업\u001fA planned refusal to work by a group of employees seeking better conditions."
+      ]
+    },
+    {
+      "id": "wm-27-suppress",
+      "word": "suppress",
+      "sourceMeaning": "억압하다, 참다",
+      "meanings": [
+        {
+          "ko": "억압하다",
+          "en": "To stop an activity or expression by using power or authority.",
+          "wrongEn": "To explain a complicated idea using a simple example."
+        },
+        {
+          "ko": "참다",
+          "en": "To prevent a feeling or reaction from being expressed.",
+          "wrongEn": "To add nutrients to soil before planting seeds."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-27-core",
+      "word": "core",
+      "sourceMeaning": "핵심, 핵심의",
+      "meanings": [
+        {
+          "ko": "핵심",
+          "en": "The central or most important part of something.",
+          "wrongEn": "A protective layer placed over a road surface."
+        },
+        {
+          "ko": "핵심의",
+          "en": "Central or most important to something.",
+          "wrongEn": "Designed to reflect light in many colors."
+        }
+      ]
+    },
+    {
+      "id": "wm-27-contribute",
+      "word": "contribute",
+      "sourceMeaning": "기여하다, 공헌하다, 기부하다",
+      "meanings": [
+        {
+          "ko": "기여하다, 공헌하다",
+          "en": "To help bring about a result or make something successful.",
+          "wrongEn": "To remove dust from a surface with a dry cloth."
+        },
+        {
+          "ko": "기부하다",
+          "en": "To give money, goods, or effort to support a shared purpose.",
+          "wrongEn": "To carry a message secretly from one person to another."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "기부하다\u001fTo give money, goods, or effort to support a shared purpose."
+      ]
+    },
+    {
+      "id": "wm-27-spear",
+      "word": "spear",
+      "sourceMeaning": "창",
+      "meanings": [
+        {
+          "ko": "창",
+          "en": "A weapon with a long shaft and a sharp pointed end.",
+          "wrongEn": "A curved piece of glass used to enlarge an image."
+        }
+      ]
+    },
+    {
+      "id": "wm-27-renowned",
+      "word": "renowned",
+      "sourceMeaning": "유명한, 명성 있는",
+      "meanings": [
+        {
+          "ko": "유명한, 명성 있는",
+          "en": "Widely known and admired for a particular quality or achievement.",
+          "wrongEn": "Able to return to its original shape after being stretched."
+        }
+      ]
+    },
+    {
+      "id": "wm-27-era",
+      "word": "era",
+      "sourceMeaning": "시대",
+      "meanings": [
+        {
+          "ko": "시대",
+          "en": "A long period of history marked by particular events or characteristics.",
+          "wrongEn": "A mark showing where a path changes direction."
+        }
+      ]
+    },
+    {
+      "id": "wm-27-withdraw",
+      "word": "withdraw",
+      "sourceMeaning": "철수하다, 철회하다, (돈을)인출하다",
+      "meanings": [
+        {
+          "ko": "철수하다",
+          "en": "To leave a place or remove people from it.",
+          "wrongEn": "To build a barrier across a river to hold back water."
+        },
+        {
+          "ko": "철회하다",
+          "en": "To take back a statement, offer, or request.",
+          "wrongEn": "To make a large object lighter by removing its center."
+        },
+        {
+          "ko": "(돈을)인출하다",
+          "en": "To take money out of a bank account.",
+          "wrongEn": "To exchange goods directly without using money."
+        }
+      ],
+      "studyLevel": "unknown",
+      "unknownMeaningKeys": [
+        "철수하다\u001fTo leave a place or remove people from it.",
+        "철회하다\u001fTo take back a statement, offer, or request."
+      ],
+      "studyNote": "단점, 결함이라는 뜻을 가진 것으로 자주 헷갈림.\n(drawback과 헷갈리는 것 같음)"
+    },
+    {
+      "id": "wm-27-separate",
+      "word": "separate",
+      "sourceMeaning": "분리하다, 갈라진, 개개의",
+      "meanings": [
+        {
+          "ko": "분리하다",
+          "en": "To move or keep things apart from one another.",
+          "wrongEn": "To give a written account of an event."
+        },
+        {
+          "ko": "갈라진",
+          "en": "Existing apart or divided from something else.",
+          "wrongEn": "Covered with a smooth reflective surface."
+        },
+        {
+          "ko": "개개의",
+          "en": "Considered individually rather than as a single group.",
+          "wrongEn": "Able to keep its temperature constant without external heat."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "갈라진\u001fExisting apart or divided from something else.",
+        "개개의\u001fConsidered individually rather than as a single group."
+      ]
+    },
+    {
+      "id": "wm-27-dignity",
+      "word": "dignity",
+      "sourceMeaning": "존엄(성)",
+      "meanings": [
+        {
+          "ko": "존엄(성)",
+          "en": "The quality of being worthy of honor and respect.",
+          "wrongEn": "The ability of a material to carry an electric current."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "존엄(성)\u001fThe quality of being worthy of honor and respect."
+      ]
+    },
+    {
+      "id": "wm-27-notify",
+      "word": "notify",
+      "sourceMeaning": "통지하다, 알리다",
+      "meanings": [
+        {
+          "ko": "통지하다, 알리다",
+          "en": "To formally tell someone about something.",
+          "wrongEn": "To cut a rough surface into a smooth curve."
+        }
+      ]
+    },
+    {
+      "id": "wm-27-animate",
+      "word": "animate",
+      "sourceMeaning": "생기 있게 하다, 고무하다, 살아 있는",
+      "meanings": [
+        {
+          "ko": "생기 있게 하다, 고무하다",
+          "en": "To give energy, life, or enthusiasm to someone or something.",
+          "wrongEn": "To make a copy of a key from a metal blank."
+        },
+        {
+          "ko": "살아 있는",
+          "en": "Living rather than lifeless.",
+          "wrongEn": "Made to resist damage from extreme heat."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "살아 있는\u001fLiving rather than lifeless."
+      ]
+    },
+    {
+      "id": "wm-27-prevent",
+      "word": "prevent",
+      "sourceMeaning": "막다, 예방하다",
+      "meanings": [
+        {
+          "ko": "막다, 예방하다",
+          "en": "To stop something from happening.",
+          "wrongEn": "To collect information by asking a group of people questions."
+        }
+      ]
+    },
+    {
+      "id": "wm-27-bilingual",
+      "word": "bilingual",
+      "sourceMeaning": "2개 국어의",
+      "meanings": [
+        {
+          "ko": "2개 국어의",
+          "en": "Using, involving, or able to speak two languages.",
+          "wrongEn": "Having two equal sides that meet at a right angle."
+        }
+      ]
+    },
+    {
+      "id": "wm-27-mischief",
+      "word": "mischief",
+      "sourceMeaning": "장난, 해악",
+      "meanings": [
+        {
+          "ko": "장난",
+          "en": "Playful behavior that causes minor trouble or annoyance.",
+          "wrongEn": "A formal announcement that a meeting has ended."
+        },
+        {
+          "ko": "해악",
+          "en": "Harm or damage caused by a person, action, or event.",
+          "wrongEn": "A reward given for completing a difficult task."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-27-discriminate",
+      "word": "discriminate",
+      "sourceMeaning": "구별하다, 차별하다",
+      "meanings": [
+        {
+          "ko": "구별하다",
+          "en": "To recognize the differences between people or things.",
+          "wrongEn": "To keep food fresh by storing it at a low temperature."
+        },
+        {
+          "ko": "차별하다",
+          "en": "To treat people unfairly because they belong to a particular group.",
+          "wrongEn": "To bring several people together for a shared meal."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-27-exemplify",
+      "word": "exemplify",
+      "sourceMeaning": "예시하다, ~의 좋은 예가 되다",
+      "meanings": [
+        {
+          "ko": "예시하다",
+          "en": "To explain or demonstrate something by giving an example.",
+          "wrongEn": "To attach a handle to a wooden box."
+        },
+        {
+          "ko": "~의 좋은 예가 되다",
+          "en": "To be a clear or typical example of something.",
+          "wrongEn": "To change a spoken message into a written one word for word."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-27-adhere",
+      "word": "adhere",
+      "sourceMeaning": "고수하다, 충실하다, 집착하다",
+      "meanings": [
+        {
+          "ko": "고수하다, 충실하다, 집착하다",
+          "en": "To hold firmly to a belief, rule, practice, or commitment.",
+          "wrongEn": "To travel through an unfamiliar place to learn about it."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [],
+      "studyNote": "adhere to(~를 고수하다)와 연계해서 외우자."
+    },
+    {
+      "id": "wm-27-superb",
+      "word": "superb",
+      "sourceMeaning": "최고의, 훌륭한",
+      "meanings": [
+        {
+          "ko": "최고의, 훌륭한",
+          "en": "Of exceptionally high quality.",
+          "wrongEn": "Having an irregular shape with many sharp edges."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [],
+      "studyNote": "superb 외우기: super + b(엄지척) = 최고의"
+    },
+    {
+      "id": "wm-27-peculiar",
+      "word": "peculiar",
+      "sourceMeaning": "독특한",
+      "meanings": [
+        {
+          "ko": "독특한",
+          "en": "Unusual or distinctive in a way that sets something apart.",
+          "wrongEn": "Safe to eat after being heated."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [
+        "독특한\u001fUnusual or distinctive in a way that sets something apart."
+      ],
+      "studyNote": "particular(특정한)와 헷갈림"
+    },
+    {
+      "id": "wm-27-sake",
+      "word": "sake",
+      "sourceMeaning": "위함, 목적",
+      "meanings": [
+        {
+          "ko": "위함, 목적",
+          "en": "The benefit or purpose for which something is done.",
+          "wrongEn": "The outer surface of a seed that protects the inside."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [],
+      "studyNote": "for one's sake(~를 위해서)에서 sake이 '위함, 목적'임을 함께 암기하자."
+    },
+    {
+      "id": "wm-27-choke",
+      "word": "choke",
+      "sourceMeaning": "질식시키다, 숨이 막히다",
+      "meanings": [
+        {
+          "ko": "질식시키다",
+          "en": "To prevent someone from breathing by blocking the airway.",
+          "wrongEn": "To measure the distance traveled by a vehicle."
+        },
+        {
+          "ko": "숨이 막히다",
+          "en": "To be unable to breathe because the airway is blocked.",
+          "wrongEn": "To become pale after being exposed to sunlight."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "숨이 막히다\u001fTo be unable to breathe because the airway is blocked."
+      ]
+    },
+    {
+      "id": "wm-27-folktale",
+      "word": "folktale",
+      "sourceMeaning": "민간 설화, 전설",
+      "meanings": [
+        {
+          "ko": "민간 설화, 전설",
+          "en": "A traditional story passed down among the people of a community.",
+          "wrongEn": "A written record of daily weather measurements."
+        }
+      ]
+    },
+    {
+      "id": "wm-27-simultaneously",
+      "word": "simultaneously",
+      "sourceMeaning": "동시에",
+      "meanings": [
+        {
+          "ko": "동시에",
+          "en": "At the same time.",
+          "wrongEn": "In a way that happens once every year."
+        }
+      ]
+    },
+    {
+      "id": "wm-27-range",
+      "word": "range",
+      "sourceMeaning": "범위, 정렬시키다",
+      "meanings": [
+        {
+          "ko": "범위",
+          "en": "The limits within which something varies or extends.",
+          "wrongEn": "A payment returned after a purchase is canceled."
+        },
+        {
+          "ko": "정렬시키다",
+          "en": "To arrange people or things in an ordered line or group.",
+          "wrongEn": "To remove the smell from a room by letting in fresh air."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "정렬시키다\u001fTo arrange people or things in an ordered line or group."
+      ],
+      "studyNote": "range의 뜻 '정렬시키다'는 진짜 안 외워짐... 추가 복습이 필요하다."
+    },
+    {
+      "id": "wm-27-groom",
+      "word": "groom",
+      "sourceMeaning": "신랑",
+      "meanings": [
+        {
+          "ko": "신랑",
+          "en": "A man who is getting married or has just married.",
+          "wrongEn": "A person who cares for books in a public library."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-27-supernatural",
+      "word": "supernatural",
+      "sourceMeaning": "초자연적인",
+      "meanings": [
+        {
+          "ko": "초자연적인",
+          "en": "Beyond what can be explained by the known laws of nature.",
+          "wrongEn": "Made from recycled paper and cardboard."
+        }
+      ]
+    },
+    {
+      "id": "wm-27-tender",
+      "word": "tender",
+      "sourceMeaning": "부드러운, 입찰하다, 입찰",
+      "meanings": [
+        {
+          "ko": "부드러운",
+          "en": "Soft, gentle, or easy to damage by pressure.",
+          "wrongEn": "Able to store a large amount of electrical energy."
+        },
+        {
+          "ko": "입찰하다",
+          "en": "To submit a formal offer to supply goods or do work for a stated price.",
+          "wrongEn": "To bend a metal bar into a circular shape."
+        },
+        {
+          "ko": "입찰",
+          "en": "A formal offer to provide goods or services at a stated price.",
+          "wrongEn": "An instrument used to measure the speed of the wind."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "입찰하다\u001fTo submit a formal offer to supply goods or do work for a stated price.",
+        "입찰\u001fA formal offer to provide goods or services at a stated price."
+      ]
+    },
+    {
+      "id": "wm-27-instinct",
+      "word": "instinct",
+      "sourceMeaning": "본능",
+      "meanings": [
+        {
+          "ko": "본능",
+          "en": "A natural way of behaving that does not have to be learned.",
+          "wrongEn": "A detailed schedule of public transportation times."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [],
+      "studyNote": "뜻이 비슷하기는 하지만 '직감'과 헷갈림"
+    },
+    {
+      "id": "wm-27-gigantic",
+      "word": "gigantic",
+      "sourceMeaning": "거대한",
+      "meanings": [
+        {
+          "ko": "거대한",
+          "en": "Extremely large in size or amount.",
+          "wrongEn": "Likely to dissolve quickly in warm water."
+        }
+      ]
+    },
+    {
+      "id": "wm-27-meditate",
+      "word": "meditate",
+      "sourceMeaning": "명상하다",
+      "meanings": [
+        {
+          "ko": "명상하다",
+          "en": "To focus the mind quietly for reflection, awareness, or relaxation.",
+          "wrongEn": "To fasten a covering over the roof of a building."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-27-mow",
+      "word": "mow",
+      "sourceMeaning": "(풀 등을)베다",
+      "meanings": [
+        {
+          "ko": "(풀 등을)베다",
+          "en": "To cut grass or a crop using a blade or machine.",
+          "wrongEn": "To collect ripe fruit from a tree by hand."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": []
+    },
+    {
+      "id": "wm-27-evolve",
+      "word": "evolve",
+      "sourceMeaning": "진화하다, 발전하다",
+      "meanings": [
+        {
+          "ko": "진화하다",
+          "en": "To change gradually in inherited characteristics across generations.",
+          "wrongEn": "To turn a wheel by applying pressure to a pedal."
+        },
+        {
+          "ko": "발전하다",
+          "en": "To develop gradually into a different or more advanced form.",
+          "wrongEn": "To send a formal invitation to a public ceremony."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [
+        "발전하다\u001fTo develop gradually into a different or more advanced form."
+      ]
+    },
+    {
+      "id": "wm-27-chase",
+      "word": "chase",
+      "sourceMeaning": "쫓다, 추적하다",
+      "meanings": [
+        {
+          "ko": "쫓다, 추적하다",
+          "en": "To follow someone or something quickly in order to catch it.",
+          "wrongEn": "To create a picture by joining small pieces of colored stone."
+        }
+      ]
+    },
+    {
+      "id": "wm-27-afflict",
+      "word": "afflict",
+      "sourceMeaning": "괴롭히다",
+      "meanings": [
+        {
+          "ko": "괴롭히다",
+          "en": "To cause someone pain, suffering, or serious difficulty.",
+          "wrongEn": "To teach an animal to respond to a spoken command."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [
+        "괴롭히다\u001fTo cause someone pain, suffering, or serious difficulty."
+      ],
+      "studyNote": "conflict(갈등), affair(일)와 혼동함"
+    },
+    {
+      "id": "wm-27-empirical",
+      "word": "empirical",
+      "sourceMeaning": "경험적인, 실증적인",
+      "meanings": [
+        {
+          "ko": "경험적인, 실증적인",
+          "en": "Based on observation or experiment rather than theory alone.",
+          "wrongEn": "Produced in large quantities by automatic machinery."
+        }
+      ],
+      "studyLevel": "review",
+      "unknownMeaningKeys": [],
+      "studyNote": "empire와 잘 헷갈림."
+    },
+    {
+      "id": "wm-27-coherent",
+      "word": "coherent",
+      "sourceMeaning": "통일성 있는, 조리 있는",
+      "meanings": [
+        {
+          "ko": "통일성 있는, 조리 있는",
+          "en": "Clear and logically connected so that the parts make sense together.",
+          "wrongEn": "Covered with a rough layer of small stones."
+        }
+      ],
+      "studyLevel": "priority",
+      "unknownMeaningKeys": [
+        "통일성 있는, 조리 있는\u001fClear and logically connected so that the parts make sense together."
+      ],
+      "studyNote": "inherent(내재되는)과 혼동함."
+    },
+    {
+      "id": "wm-27-intolerable",
+      "word": "intolerable",
+      "sourceMeaning": "참을 수 없는",
+      "meanings": [
+        {
+          "ko": "참을 수 없는",
+          "en": "So unpleasant or difficult that it cannot be endured.",
+          "wrongEn": "Unable to be seen without a microscope."
+        }
+      ]
+    },
+    {
+      "id": "wm-27-fountain",
+      "word": "fountain",
+      "sourceMeaning": "분수, 근원",
+      "meanings": [
+        {
+          "ko": "분수",
+          "en": "A structure that sends water up into the air for decoration or use.",
+          "wrongEn": "A shallow container used for baking bread."
+        },
+        {
+          "ko": "근원",
+          "en": "A rich or continuing source of something.",
+          "wrongEn": "A mark showing the weight of a packaged product."
+        }
+      ],
+      "studyLevel": "off",
+      "unknownMeaningKeys": []
+    }
+  ]
+}
